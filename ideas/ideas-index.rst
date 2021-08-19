@@ -15,6 +15,4 @@ Quisque dignissim ac risus nec elementum. Suspendisse tempus, metus suscipit lao
     :hidden:
     :caption: Generated from 1-1
 
-    Level 0-0 <l0>
-    Level 1 <L1-1/l1-1>
-    Level 2 <L2-1/l2-1>
+    Level 2 <music/music-index>

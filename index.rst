@@ -13,4 +13,4 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :hidden:
     :caption: Index in L1
 
-    Level 1 <ideas/ideas-index>
+    Ideas <ideas/ideas-index>
