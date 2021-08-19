@@ -1,5 +1,5 @@
 ===========================
-Ideas
+Idea 1
 ===========================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitudin quam, sed finibus metus sodales id. In id ante nec lorem pellentesque rhoncus. Maecenas consectetur ex mauris, id fringilla risus efficitur id. Fusce blandit nisl in convallis malesuada. Aenean in iaculis eros. Aenean sed urna quis libero consequat lacinia vel quis diam. Duis aliquam bibendum nisi eget sollicitudin. Duis lobortis diam vitae nisl consectetur convallis. Quisque in eleifend mauris. In hac habitasse platea dictumst. Curabitur ultrices nibh nec sem faucibus tempor. Vivamus nec vulputate velit. Nam ac placerat ligula, in consequat turpis. Maecenas nec mi at lectus faucibus eleifend. Cras rhoncus urna sed magna mollis tristique. Suspendisse dignissim dolor odio.
@@ -8,13 +8,4 @@ Ut aliquet leo vel nibh commodo, in luctus libero placerat. Nulla facilisi. Cras
 
 Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, tempus ac eros. Proin dapibus vestibulum nisi a mollis. Praesent eu ligula sodales, dapibus ipsum vehicula, vulputate nunc. Sed congue rhoncus elit. Nullam molestie eros in fringilla lacinia. Phasellus laoreet semper lectus, eget pulvinar quam condimentum ac. Nulla in sagittis turpis. Fusce vel lectus quis augue dapibus porta. 
 
-Quisque dignissim ac risus nec elementum. Suspendisse tempus, metus suscipit laoreet ullamcorper, ipsum dui faucibus tortor, non scelerisque quam elit placerat augue. Vestibulum vestibulum accumsan ornare. Donec tempus efficitur metus ultrices eleifend. Duis egestas, neque et malesuada interdum, eros ligula sollicitudin purus, sit amet scelerisque est ipsum egestas purus. Maecenas et elit nisi. Nullam vehicula velit vel lectus malesuada facilisis. See :ref:`Foobar <l1-3>`.
-
-.. toctree::
-    :maxdepth: 3
-    :hidden:
-
-    Idea 1 <idea1>
-    Idea 2 <idea2>
-    Idea 3 <idea3>
-    Music <music/music-index>
+Quisque dignissim ac risus nec elementum. Suspendisse tempus, metus suscipit laoreet ullamcorper, ipsum dui faucibus tortor, non scelerisque quam elit placerat augue. Vestibulum vestibulum accumsan ornare. Donec tempus efficitur metus ultrices eleifend. Duis egestas, neque et malesuada interdum, eros ligula sollicitudin purus, sit amet scelerisque est ipsum egestas purus. Maecenas et elit nisi. Nullam vehicula velit vel lectus malesuada facilisis.
