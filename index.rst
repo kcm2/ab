@@ -14,3 +14,4 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :caption: Index in L1
 
     Ideas <ideas/ideas-index>
+    References <references/references-index>
