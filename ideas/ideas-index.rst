@@ -7,3 +7,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitud
 Ut aliquet leo vel nibh commodo, in luctus libero placerat. Nulla facilisi. Cras pellentesque risus nec orci euismod mattis. Suspendisse eget sapien scelerisque, varius ipsum vel, aliquet lacus. Pellentesque mattis a diam a pretium. Pellentesque dictum tempus turpis, egestas pellentesque tortor consectetur sed. Mauris blandit ex id nisi maximus commodo. Donec sem massa, accumsan vel congue vitae, efficitur a turpis.
 
 Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, tempus ac eros. Proin dapibus vestibulum nisi a mollis. Praesent eu ligula sodales, dapibus ipsum vehicula, vulputate nunc. Sed congue rhoncus elit. Nullam molestie eros in fringilla lacinia. Phasellus laoreet semper lectus, eget pulvinar quam condimentum ac. Nulla in sagittis turpis. Fusce vel lectus quis augue dapibus porta. 
+
+.. toctree::
+    :maxdepth: 5
+    :hidden:
+    :caption: Foobar2
+
+    Music <music/music-index>
