@@ -11,7 +11,7 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 Quisque dignissim ac risus nec elementum. Suspendisse tempus, metus suscipit laoreet ullamcorper, ipsum dui faucibus tortor, non scelerisque quam elit placerat augue. Vestibulum vestibulum accumsan ornare. Donec tempus efficitur metus ultrices eleifend. Duis egestas, neque et malesuada interdum, eros ligula sollicitudin purus, sit amet scelerisque est ipsum egestas purus. Maecenas et elit nisi. Nullam vehicula velit vel lectus malesuada facilisis. See :ref:`Foobar <l1-3>`.
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: -1
     :hidden:
 
     Idea 1 <idea1>
