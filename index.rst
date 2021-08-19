@@ -13,5 +13,4 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :hidden:
     :caption: Index in L1
 
-    Level 0a <index>
     Level 1 <ideas/l1-1>
