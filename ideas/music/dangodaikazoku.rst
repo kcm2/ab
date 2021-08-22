@@ -3,7 +3,7 @@ Dango Daikazoku
 ===========================
 
 :Title: Dango Daikazoku
-:Artist: Jun Maeda (original) & Eddie van der Meer (cover). [#version]
+:Artist: Jun Maeda (original) & Eddie van der Meer (cover). [#version]_
 :Known for: `Clannad <https://myanimelist.net/anime/2167>`_ ending. 
 :Ideal use: Foobar
 :Watch/Listen: Listen here: https://www.youtube.com/watch?v=xFpFJxdgSRc
