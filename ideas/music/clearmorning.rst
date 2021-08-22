@@ -3,7 +3,7 @@ Clear Morning
 ===========================
 
 :Title: Clear Morning
-:Artist: Foobar
+:Artist: Yui Ogura
 :Known for: Foobar 
 :Ideal use: Foobar
 

@@ -3,7 +3,7 @@ Human
 ===========================
 
 :Title: Human
-:Artist: Foobar
+:Artist: The Killers
 :Known for: Foobar 
 :Ideal use: Foobar
 
