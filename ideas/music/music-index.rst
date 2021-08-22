@@ -25,3 +25,9 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
    Life is Cider <lifeiscider>
    Little Busters (full) <littlebustersfull>
    Little Busters (TV) <littlebusterstv>
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:0
+
+   Glossary <musicglossary>
