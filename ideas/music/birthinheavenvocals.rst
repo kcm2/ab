@@ -3,7 +3,7 @@ Birth in Heaven (vocals)
 ===========================
 
 :Title: Birth in Heaven
-:Artist: Foobar
+:Artist: OneRoom, Miku Hatsune
 :Known for: N/a
 :Ideal use: Foobar
 

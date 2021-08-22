@@ -3,7 +3,7 @@ Bravely You
 ===========================
 
 :Title: Bravely You
-:Artist: Foobar
+:Artist: Lia & Aoi Tada
 :Known for: `Charlotte <https://myanimelist.net/anime/28999>`_ opening.
 :Ideal use: Full
 
