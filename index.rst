@@ -14,4 +14,5 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :caption: Ideas
 
     Ideas <ideas/ideas-index>
+    Music <ideas/music/music-index>
     References <references/references-index>
