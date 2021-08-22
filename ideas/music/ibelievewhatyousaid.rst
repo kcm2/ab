@@ -2,7 +2,7 @@
 I Believe What You Said
 ===========================
 
-:Title: I Didnt Expect It To Be This Funky
+:Title: I Believe What You Said
 :Artist: Foobar
 :Known for: Foobar 
 :Ideal use: Foobar
