@@ -59,7 +59,7 @@ html_static_path = ['_static']
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
 #
-html_extra_path = ['./robots.txt']
+html_extra_path = ['static/robots.txt']
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
