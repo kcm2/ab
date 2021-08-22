@@ -11,7 +11,7 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 .. toctree::
     :maxdepth: -1
     :hidden:
-    :caption: Index in L1
+    :caption: Ideas
 
     Ideas <ideas/ideas-index>
     References <references/references-index>
