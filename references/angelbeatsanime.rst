@@ -25,7 +25,7 @@ Episode 1
 * The SSS plan operation tornado (steal meal tickets) for that night.
 * The operation is under way.
 * Kanade shows up on the bridge infront of the staff offices.
-* Otonashi shoots Kanade, and hits her in the stomach/belly. [2]_
+* Otonashi shoots Kanade, and hits her in the stomach/belly. [#injury-belly]_
 * Kanade uses Hand Sonic to hit the bullets out of the air, and then Distortion.
 * With meal tickets, the SSS run away, and have a meal/dinner in the cafeteria.
 
@@ -38,7 +38,7 @@ Episode 2
 * At the guild, guild members confirm that Kanade is on her way, mentions that she stopped but on the move again.
 * Yuri explains the guild to Otonashi. Chaa suggests to move to the Old Guild and blow up this "new" guild.
 * Kanade emerges from smoke.
-* Yuri shoots her, and hits her in the left leg, above the knee. Kanade then uses a skill to remove the bullet with no remaining injury to her. [2]_
+* Yuri shoots her, and hits her in the left leg, above the knee. Kanade then uses a skill to remove the bullet with no remaining injury to her. [#bulletwound]_
 * Chaa blows up the guild. Kanade falls from what is the top of the guild.
 
 Episode 3
@@ -164,12 +164,12 @@ Episode 1
 
 * The Moon, clouds and starts exist. Weather seems to be normal.
 * Kanade says no one gets sick in the world.
-* Kanade says amnesia is quite common, and many people lose their memories when they arrive. [1]_
+* Kanade says amnesia is quite common, and many people lose their memories when they arrive. [#amnesia]_
 * While people do 'respawn' from being killed or dying, it is shown that immense pain is felt. In episode 1, Otonashi 'respawns' after a few moments of being dead.
 * Yuri confirms there are over 2000 students living in dorms in the school.
 * Key Coffee is an actual product available at the school.
 * Yuri says Kanade attacks first.
-* Yuri says Kanade replies with "no comment" when asked about the fundamentals of the world. [3]_
+* Yuri says Kanade replies with "no comment" when asked about the fundamentals of the world. [#nocomment]_
 * Yuri says NPCs don't age.
 * Modernish technology exists. Laptops exist and the SSS have access to them.
 * Yuri kinda-sorta implies she believes the world/reincarnation is based on Buddhism.
@@ -182,16 +182,12 @@ Episode 2
 * There is a shallow river on the way to the guild.
 * Yuri mentions she was the first one to fight back against Kanade.
 * Yuri says "nothing with a soul can be given life, but objects can be formed as long as you know the composition and structure" (using the dirt/mud method).
-* Someone in the guild has knowledge of the `German anti-tank grenades <https://en.wikipedia.org/wiki/Stielhandgranate>`__, used in WW1 and WW2. [1]_
+* Someone in the guild has knowledge of the `German anti-tank grenades <https://en.wikipedia.org/wiki/Stielhandgranate>`__, used in WW1 and WW2. [#ww2]_
 
 Episode 3
 -----------
 
-*
-*
-*
-*
-*
+* To check.
 
 Episode 4
 -----------
@@ -239,9 +235,12 @@ Not covered yet.
 Footnotes
 =====================
 
-.. [1] This supports an idea, and as such it can continue to be expanded on without change.
+.. [#injury-belly] Contradiction: Later on, it was going to be shown that Kanade has a scar to one side of her body, rather than being in the middle.
 
-.. [2] This detracts from an idea, and said idea may require reworking to make it fit or ignoring this point of reference.
+.. [#bulletwound] Contradiction: Later on, Kanade was shown to have injuries and scars. This shows a bullet being removed with no left over injury.
 
-.. [3] This both supports, and detracts from an idea.
+.. [#amnesia] Supporting: Supports the idea that people don't remember their past straight away.
 
+.. [#nocomment] Supporting/Contradiction: Kanade was going to be shown as knowing how the world works, but having her memory erased so she forgot. Her going 'no comment' can support that she does know (and refusing to tell) while also contradicting that she doesn't know, or still remembers.
+
+.. [#ww2] Supporting: Supports the idea that Chaa (or at least some other member of the SSS) was in WW2.
