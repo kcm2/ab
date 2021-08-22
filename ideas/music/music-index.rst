@@ -30,4 +30,4 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
    :maxdepth: 1
    :hidden:
 
-   Glossary <foobar/musicglossary>
+   Glossary <musicglossary>
