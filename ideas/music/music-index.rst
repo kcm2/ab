@@ -29,4 +29,4 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 .. toctree::
    :maxdepth: 1
 
-   Glossary <musicglossary>
+   Glossary <foobar/musicglossary>
