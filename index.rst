@@ -3,12 +3,12 @@ Index
 ===========================
 
 .. DANGER:: 
-    | This project includes spoilers from:
+    | This project includes major spoilers from:
     |    - `Angel Beats! <https://myanimelist.net/anime/6547>`_
     |    - `Charlotte <https://myanimelist.net/anime/28999>`_
     |    - `Little Busters <https://myanimelist.net/anime/13655>`_ and `Refrain <https://myanimelist.net/anime/18195>`_
     |    - `Clannad <https://myanimelist.net/anime/2167>`_ and `After Story <https://myanimelist.net/anime/4181>`_
-    | **This is the only spoiler warning that will be given.** To avoid being spoiled, please make sure you have seen these shows before continuing. abc1
+    | **This is the only spoiler warning that will be given.** To avoid being spoiled, please make sure you have seen these shows before continuing.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitudin quam, sed finibus metus sodales id. In id ante nec lorem pellentesque rhoncus. Maecenas consectetur ex mauris, id fringilla risus efficitur id. Fusce blandit nisl in convallis malesuada. Aenean in iaculis eros. Aenean sed urna quis libero consequat lacinia vel quis diam. Duis aliquam bibendum nisi eget sollicitudin. Duis lobortis diam vitae nisl consectetur convallis. Quisque in eleifend mauris. In hac habitasse platea dictumst. Curabitur ultrices nibh nec sem faucibus tempor. Vivamus nec vulputate velit. Nam ac placerat ligula, in consequat turpis. Maecenas nec mi at lectus faucibus eleifend. Cras rhoncus urna sed magna mollis tristique. Suspendisse dignissim dolor odio.
 
