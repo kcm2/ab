@@ -22,7 +22,7 @@ now = datetime.datetime.now()
 # -- Project information -----------------------------------------------------
 
 project = 'ABI'
-copyright = '2018-{}, KanchiMoe & Iwkua ltd.'.format(
+copyright = '2018-{}, KanchiMoe & Iwkua ltd'.format(
     now.year
 )
 author = 'KCM'
