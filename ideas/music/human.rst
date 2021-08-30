@@ -13,5 +13,5 @@ Use
 #####
 
 :Music:
-:Lyrics :doc:`(?) <musicglossary>`: The lyrics do not fit anywhere with the use of the project. 
+:Lyrics `(?) <musicglossary>`_: The lyrics themselves do not fit anywhere with the use of the project. The only use for the lyrics would be to map where syllables are to make sure the timing for Japanese lyrics remains the same.
 
