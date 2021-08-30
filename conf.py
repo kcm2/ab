@@ -1,3 +1,5 @@
+import datetime
+
 # Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
@@ -20,10 +22,9 @@
 
 project = 'ABI'
 copyright = '2018-{}, KanchiMoe & Iwkua ltd.'.format(
-    timezone.now().year
+    CurrentYear.year
 )
 author = 'KCM'
-
 
 
 
