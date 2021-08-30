@@ -1,4 +1,5 @@
 import datetime
+now = datetime.datetime.now()
 
 # Configuration file for the Sphinx documentation builder.
 #
@@ -22,7 +23,7 @@ import datetime
 
 project = 'ABI'
 copyright = '2018-{}, KanchiMoe & Iwkua ltd.'.format(
-    CurrentYear.year
+    now.year
 )
 author = 'KCM'
 
