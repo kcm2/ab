@@ -19,8 +19,12 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ABI'
-copyright = '2021, KCM'
+copyright = '2018-{}, KanchiMoe & Iwkua ltd.'.format(
+    timezone.now().year
+)
 author = 'KCM'
+
+
 
 
 # -- General configuration ---------------------------------------------------
