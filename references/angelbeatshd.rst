@@ -36,7 +36,7 @@ Chapter 2
 * They argue on the roof of the infirmary about ideas they could pull off.
 * Kanade comes up to them and tells it's time for class.
 * Yuri goes "no u" and Kanade replies she's been given permission from the teachers.
-* Yuri thinks Kanade controls the NPCs and "she's as close to god as it gets" [#v1c2-1]_[#wis-2]_.
+* Yuri thinks Kanade controls the NPCs and "she's as close to god as it gets" [#v1c2-1]_ [#wis-2]_.
 * Hinata asks if Kanade thinks God exists, she replies that she doesn't know, and can't imigine if he did exist [#wis-3]_. Hinata already thinks she is feigning ignorance.
 * He asks if there is there is anyone she likes/loves. She replies no.
 * Hinata asks what she would do if he were to confess, she replies she doesn't know. As he is about to ask Kanade to go out with him, Yuri kicks him off the roof. He wakes up in the infirmary.
@@ -52,6 +52,11 @@ Chapter 2
 * Hinata's roommate is Ooyama. They have a brief conversation and Hinata comments that he has no personality.
 * The next day, Hinata meets Yuri on the classroom roof. 
 * A gunshot is heard. Yuri seems shocked that a gun exists in the world. They run to go find the source.
+
+Chapter 3
+-----------
+
+* A PA announcement is made for students to stay in their classrooms. Yuri and Hinata arrive at the principal's office. 4 teachers are trying to get into the room with Kanade standing behind them.
 
 Footnotes
 ==========
