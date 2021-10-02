@@ -57,6 +57,17 @@ Chapter 3
 -----------
 
 * A PA announcement is made for students to stay in their classrooms. Yuri and Hinata arrive at the principal's office. 4 teachers are trying to get into the room with Kanade standing behind them.
+* Kanade excuses her way past the teaches and goes into the principal's office.
+* <Guy> is holding the principal hostage, with a gun to their head. Kanade activates Hand Sonic and attacks <Guy>.
+* The teachers stop Hinata and Yuri. They say "<Kanade> just went in". The teacher was about to reply but gunshots are heard.
+* They burst into the room. Kanade has blood on her [#v1c3-1]_ and sees her standing in front of the incapacitated <Guy>.
+* Kanade moves, staggers, having been shot several times. Kanade leaves [#v1c3-2]_. Yuri is shocked/surprised. Hinata and Yuri go to the cafeteria.
+* They talk about Kanade and her powers. Yuri thinks that Kanade is god.
+* Ooyama spots Yuri and Hinata in the cafeteria, and joins them. Yuri leaves.
+* Ooyama and Hinata talk in their dorm room at night. Hinata asks Ooyama if he thinks Kanade is the same as them. He replies that he does.
+
+Chapter 4
+-----------
 
 Footnotes
 ==========
@@ -67,6 +78,8 @@ Footnotes
 .. [#v1c2-1] This is before we've been shown any of her powers, meaning Yuri had to have came to this conclusion before the start of the manga [#wis-2]_.
 .. [#v1c2-2] This seems to conflict with her behaviour in the anime.
 .. [#v1c2-3] This will need explaining what happens when the roommate is kicked out.
+.. [#v1c3-1] She also has blood coming from her mouth. It's not clear if this is her blood, or <Guys>.
+.. [#v1c3-2] It is not clear where she goes.
 
 
 Working ideas
