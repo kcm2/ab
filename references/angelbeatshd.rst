@@ -24,9 +24,14 @@ Chapter 1
 * He wakes up in the infirmary, him and Yuri talk briefly.
 * They go to the roof (assumingly, of the infirmary).
 * Yuri says the rest of the student and teachers are NPCs.
-* fff 
- | foo 
- | bar
+* Yuri says while she hasn't met God, she believes that they are the one that created the world. She also thinks that somewhere someone with similar powers is pulling the strings behind the world. She also thinks that NPCs are decorations to seem like they are spending their school life with you. [#wis-1]_
+* Hinata's mum is called Yuri.
+* Yuri talks about her plan to find, meet and punch God.
+
+Chapter 2
+-----------
+
+* Yuri talks about killing one of the students to make God come out of hiding.
 
 Footnotes
 ==========
@@ -34,3 +39,8 @@ Footnotes
 .. [#v1c1-1] An articulated lorry. Like the UK ones, based on the image from the manga.
 .. [#v1c1-2] Will require explaining how this is possible.
 .. [#v1c1-3] The image in the manga here is not correct for where his actual position would be, based on the anime.
+
+Working ideas
+================
+
+.. [#wis-1] To still account for the "weird" behaviour with the NPCs that Yuri talks about, this could be that Yuri might have already been shunned because of frequent outbursts over the them being npcs by the time Hinata has shown up. At this moment, it doesn't look like Yuri is friends with anyone either.
