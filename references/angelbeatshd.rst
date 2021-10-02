@@ -100,7 +100,18 @@ Chapter 4
 Chapter 5
 -----------
 
+* Hinata takes Ooyama to meet Yuri, which is on the roof of the classrooms.
+* Yuri kicks Hinata off the roof, again, and wakes up in the infirmary.
+* During the discussion, Hinata says things that hit a nerve with Yuri. "You're not as capable as you think you are. That's right, if you were by yourself you wouldn't accomplish anything."
+* Yuri, angry at this, wants to seperate saying "I don't need partners, that's right, I'll be fine by myself. It's always been like that". She leaves the infirmary.
+* Hinata meets Ooyama outside of the classrooms.
+* Yuri is seen going up the classroom stairs.
+* During a discussion between Hinata and Ooyama, he says "Hinata, you seem like a game protaganist. You solve everyone's problems and save them. It would have been great...If I... had a friend like that." Ooyama picks up on that Yuri must be deeply troubled.
+* To himself, Hinata thinks "to be on your own in this world...is really lonely".
+* Hinata also says "I've already decided..to bever leave her[Yuri] alone...to never let her feel lonely".
 
+Chapter 6
+-----------
 
 
 Working ideas
