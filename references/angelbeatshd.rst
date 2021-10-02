@@ -80,9 +80,25 @@ Chapter 3
 Chapter 4
 -----------
 
+* Yuri and Hinata meet again on the roof of the classrooms, and discuss a plan to take the principal hostage.
+* They are about to take the principal hostage - Hinata has a bat and Yuri managed to sneak the gun out of the staff room, though it has no bullets left.
+* Yuri demands for God to come out, the principal doesn't know anything about it. He calls her insane.
+* The principal comments "why do I always have to keep dealing with this" and he further explains that he doesn't rememebr how many times it's been, and others have pulled the same stunt.
+* Kanade comes into the principal's office. She goes to stab Hinata first but Yuri pulls her attention away.
+* Hinata tries to attack Kanade from behind, but Hand Sonic slices through the metal bat.
+* Hinata grabs Kanade's hand, and she throws him back against the wall. He grabs her ankle. She says that she doesn't want to hurt him.
+* Kanade mentions that "everyone who feels that they were treated unreasonably target the principal" and how he doesn't know anything. She says "that mistake continues to occur, which is why she corrects them".
+* Yuri releases the principal. Kanade asks Yuri to hand over the gun. Yuri asks Kanade to withdraw Hand Sonic, she does so. Yuri then holds the gun to Kanade's head. Yuri demands Kanade answers. Kanade reactivates Hand Sonic, but Hinata gets in the way before she can stab Yuri.
+* Hinata "dies" in Yuri's arms on the floor. He wakes up in the infirmary. Yuri mentions Kanade destroyed the gun [#v1c4-1]_.
+* Hinata and Yuri go to the cafeteria. Hinata has Nattou and curry. Yuri thinks that Kanade is on the same level as God, or 2nd in command, and thinks that the power was given to her.
+* Yuri then says that if Kanade is the one that maintains order, they have to destroy that order and that will force god to appear.
+* Hinata then goes back to his room. He gives Ooyama the Nattou. He makes an off-hand remark about the world being in a game, this confuses Ooyama and he replies "but I wonder how you get out of this world" and Hinata is shocked.
+* Ooyama revealed that he thought Hinata already knew.
 
+.. [#v1c4-1] This is the first time "Hand Sonic" is referenced in the manga.
 
-
+Chapter 5
+-----------
 
 
 
@@ -91,5 +107,5 @@ Working ideas
 ================
 
 .. [#wis-1] To still account for the "weird" behaviour with the NPCs that Yuri talks about, this could be that Yuri might have already been shunned because of frequent outbursts over the them being npcs by the time Hinata has shown up. At this moment, it doesn't look like Yuri is friends with anyone either.
-.. [#wis-2] This means my I would need to show this, and extend this arch before HD. Unless this is covered later on in the manga, if Yuri goes over how/when she appeared.
+.. [#wis-2] This means in my idea, I would need to show this, and extend this arch before HD. Unless this is covered later on in the manga, if Yuri goes over how/when she appeared.
 .. [#wis-3] This supports my idea that Kanade erased her own memory can't can't remember anything about Chiyo.
