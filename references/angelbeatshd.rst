@@ -125,7 +125,7 @@ Chapter 6
 * <Guy> shows up at the tennis courts.
 
 .. [#v1c6-1] Not really holding her down or pinned, more just on top of.
-.. [#v1c6-2] The background shot has students peering into the classroom windows, with shocked faces.
+.. [#v1c6-2] The background shot has students peering into the classroom windows, with shocked faces [#wis-4]_. 
 
 Chapter 6.5
 -----------
