@@ -113,6 +113,32 @@ Chapter 5
 Chapter 6
 -----------
 
+* Yuri goes into the classroom Kanade is in. Hinata has gone to the roof but can't find Yuri.
+* Hinata shows up at the classroom, there has been a fight and Yuri is `holding` [#v1c6-1]_ Kanade down on the ground.
+* Deranged, Yuri is demanding that Kanade spit it out, asking where "the guy pulling the strings" is. Kanade replies that she doesn't know. Yuri also says to Kanade "how about I let you taste the pain of death".
+* A teacher shows up and pulls Yuri off Kanade. Yuri continues to spout deranged comments such as "she's not human", "she's an angel with special powers". The teacher comments that he'll listen in the guidance councillers office. The teacher continues to drag her away.
+* Hinata punches the teacher, after come conversation, he hugs Yuri, who punshes him. Hinata wipes a tear from Yuri's eye, she goes to hit him again but Kanade grabs her hand. Kanade apologies to Hinata saying he has became her scapegoat. She uses a tissue/hankie to wipe his cheeks.
+* Yuri announces that she is the leader of the team rebelling against God. Kanade is surprised "something like that exists?" [#v1c6-2]_.
+* Yuri believes that Kanade is the only 'NPC' that can explain themselves. She demands that Kanade smiles/laughs, because Kanade doesn't, Yuri still believes she isn't human. She tells Kanade that they are giving her the nickname "Tenshi".
+* Yuri tells Hinata that they are leaving, and Yuri remarks "I'll drag God out of you".
+* Hinata and Yuri leave the room as Ooyama shows up. All 3 leave and head to the tennis courts to have a strategy meeting. They play tennis (while Hinata umpires) while discussing the meeting.
+* <Guy> shows up at the tennis courts.
+
+.. [#v1c6-1] Not really holding her down or pinned, more just on top of.
+.. [#v1c6-2] The background shot has students peering into the classroom windows, with shocked faces.
+
+Chapter 6.5
+-----------
+
+* Yuri shows up at Hinata and Ooyama's dorm. Yuri asks where they keep the porn mags and Hinata says they don't sell them in this world.
+* Yuri notices the Nattou and comments that it still hasn't been eaten yet. She opens the balcony door and yeets it away.
+
+Volume 2
+==========
+
+Chapter 7
+-----------
+
 
 Working ideas
 ================
@@ -120,3 +146,4 @@ Working ideas
 .. [#wis-1] To still account for the "weird" behaviour with the NPCs that Yuri talks about, this could be that Yuri might have already been shunned because of frequent outbursts over the them being npcs by the time Hinata has shown up. At this moment, it doesn't look like Yuri is friends with anyone either.
 .. [#wis-2] This means in my idea, I would need to show this, and extend this arch before HD. Unless this is covered later on in the manga, if Yuri goes over how/when she appeared.
 .. [#wis-3] This supports my idea that Kanade erased her own memory can't can't remember anything about Chiyo.
+.. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basiclly shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God".
