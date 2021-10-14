@@ -7,5 +7,17 @@
 }
 
 .rst-content dl dt {
-    margin-bottom: 0px !important; 
+    margin-bottom: 0px; 
+}
+
+.rst-content .line-block {
+    margin-bottom: 0px;
+}
+
+.rst-content section ul li > * {
+    margin-bottom: 0px;
+}
+
+.rst-content dl dt {
+    font-weight: normal;
 }
