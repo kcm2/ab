@@ -139,6 +139,32 @@ Volume 2
 Chapter 7
 -----------
 
+* Ooyama, Hinata and Yuri are digging holes in the forest [#v2c7-1]_. <Guy> is the one that told them to do that.
+* A "flashback" to when all 4 of them were at the tennis courts. How long ago that was can't be determined.
+* Yuri suggests they should team up, <Guy> doesn't like this, shoots Yuri which grazes her cheek.
+* <Guy> suggests fatally shooting Kanade, before tying her up and putting in a hole in the ground deep enough that she can't get back out of, so Kanade can't move or use her powers.
+* <Guy> says all 3 of them (Ooyama, Hinata and Yuri) will dig the holes.
+* Ooyama says they need to dig down 10 meters, it appears they have dug around 5 feet so far.
+* <Guy> falls asleep, Yuri goes to take his gun, and holds <Guy> at gunpoint. He pulls out his own gun and they standoff.
+* Hinata jumps in the way, pushing Yuri over. She gets back up and shoots <Guy>, hitting him. Yuri, Hinata and Ooyama run off.
+* Resting by a tree, they talk/plan. Yuri says she is going to challange <Guy> to a fight, and Kanade will referee, because she is the student council president.
+* Yuri says if she loses, then she will do anything Kanade wants. If she wins, she wants Kanade to invite her for tea in her room.
+* Yuri also says that she wants to be friends with Kanade, which she seems to respond positively to [#v2c7-1]_. Yuri also says that the guy must come for tea too. Kanade agrees, saying that is how she would want it to be too.
+
+.. [#v2c7-1] This takes place on a hill somewhere. It's not clear where exactly.
+.. [#v2c7-2] Yuri could easily be lying about this though. Or is genuine.
+
+Chapter 8
+-----------
+
+* <Guy> is having a dream about his partner, and wakes up in the forest.
+* Cut to Yuri showing up with a bow and arrow, tying the challange letter to the end of the arrow.
+* Hinata asks how she can even fire it, 
+*
+
+* foo foo
+    | Bar bar
+    | baz baz
 
 Working ideas
 ================
