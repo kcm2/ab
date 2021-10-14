@@ -164,7 +164,14 @@ Chapter 8
     | Y: I can picture firing it in my mind.
     | H: [..] Imagining something and actually doing it are completly different!
 * They go to where <Guy> was last seen, and he hasn't moved.
+* Yuri shoots the arrow, and it hits him between the eyes. They run away. The letter of challange states the duel will be at 4pm today.
+* Timeskip: Yuri and Kanade at the bottom of the stairs to the track field in front of the classrooms, with Hinata and Ooyama hiding behind the bushes at the top.
+* <Guy> shows up behind Ooyama and Hinata with a gun to Ooyama's head, asking why Kanade is here. They explain that Kanade is refereeing. He goes down the stairs.
+* Kanade askes for the rules, Yuri explains it's a `Ten Paces and Turn <Ten Paces and Turn>`_. 
+* They begin, Kanade counts. At 10, Yuri and <Guy> both turn to face each other.
 
+Chapter 9
+-----------
 
 Working ideas
 ================
