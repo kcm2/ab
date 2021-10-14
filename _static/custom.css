@@ -5,3 +5,7 @@
 .wy-nav-content {
     max-width: 1100px;
 }
+
+.rst-content dl dt {
+    margin-bottom: 0px;
+}
