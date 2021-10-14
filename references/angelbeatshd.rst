@@ -66,9 +66,9 @@ Chapter 3
 
 * A PA announcement is made for students to stay in their classrooms. Yuri and Hinata arrive at the principal's office. 4 teachers are trying to get into the room with Kanade standing behind them.
 * Kanade excuses her way past the teaches and goes into the principal's office.
-* <Guy> is holding the principal hostage, with a gun to their head. Kanade activates Hand Sonic and attacks <Guy>.
+* Chaa is holding the principal hostage, with a gun to their head. Kanade activates Hand Sonic and attacks Chaa.
 * The teachers stop Hinata and Yuri. They say "<Kanade> just went in". The teacher was about to reply but gunshots are heard.
-* They burst into the room. Kanade has blood on her [#v1c3-1]_ and sees her standing in front of the incapacitated <Guy>.
+* They burst into the room. Kanade has blood on her [#v1c3-1]_ and sees her standing in front of the incapacitated Chaa.
 * Kanade moves, staggers, having been shot several times. Kanade leaves [#v1c3-2]_. Yuri is shocked/surprised. Hinata and Yuri go to the cafeteria.
 * They talk about Kanade and her powers. Yuri thinks that Kanade is god.
 * Ooyama spots Yuri and Hinata in the cafeteria, and joins them. Yuri leaves.
@@ -122,7 +122,7 @@ Chapter 6
 * Yuri believes that Kanade is the only 'NPC' that can explain themselves. She demands that Kanade smiles/laughs, because Kanade doesn't, Yuri still believes she isn't human. She tells Kanade that they are giving her the nickname "Tenshi".
 * Yuri tells Hinata that they are leaving, and Yuri remarks "I'll drag God out of you".
 * Hinata and Yuri leave the room as Ooyama shows up. All 3 leave and head to the tennis courts to have a strategy meeting. They play tennis (while Hinata umpires) while discussing the meeting.
-* <Guy> shows up at the tennis courts.
+* Chaa shows up at the tennis courts.
 
 .. [#v1c6-1] Not really holding her down or pinned, more just on top of.
 .. [#v1c6-2] The background shot has students peering into the classroom windows, with shocked faces [#wis-4]_. 
@@ -139,15 +139,15 @@ Volume 2
 Chapter 7
 -----------
 
-* Ooyama, Hinata and Yuri are digging holes in the forest [#v2c7-1]_. <Guy> is the one that told them to do that.
+* Ooyama, Hinata and Yuri are digging holes in the forest [#v2c7-1]_. Chaa is the one that told them to do that.
 * A "flashback" to when all 4 of them were at the tennis courts. How long ago that was can't be determined.
-* Yuri suggests they should team up, <Guy> doesn't like this, shoots Yuri which grazes her cheek.
-* <Guy> suggests fatally shooting Kanade, before tying her up and putting in a hole in the ground deep enough that she can't get back out of, so Kanade can't move or use her powers.
-* <Guy> says all 3 of them (Ooyama, Hinata and Yuri) will dig the holes.
+* Yuri suggests they should team up, Chaa doesn't like this, shoots Yuri which grazes her cheek.
+* Chaa suggests fatally shooting Kanade, before tying her up and putting in a hole in the ground deep enough that she can't get back out of, so Kanade can't move or use her powers.
+* Chaa says all 3 of them (Ooyama, Hinata and Yuri) will dig the holes.
 * Ooyama says they need to dig down 10 meters, it appears they have dug around 5 feet so far.
-* <Guy> falls asleep, Yuri goes to take his gun, and holds <Guy> at gunpoint. He pulls out his own gun and they standoff.
-* Hinata jumps in the way, pushing Yuri over. She gets back up and shoots <Guy>, hitting him. Yuri, Hinata and Ooyama run off.
-* Resting by a tree, they talk/plan. Yuri says she is going to challange <Guy> to a fight, and Kanade will referee, because she is the student council president.
+* Chaa falls asleep, Yuri goes to take his gun, and holds Chaa at gunpoint. He pulls out his own gun and they standoff.
+* Hinata jumps in the way, pushing Yuri over. She gets back up and shoots Chaa, hitting him. Yuri, Hinata and Ooyama run off.
+* Resting by a tree, they talk/plan. Yuri says she is going to challange Chaa to a fight, and Kanade will referee, because she is the student council president.
 * Yuri says if she loses, then she will do anything Kanade wants. If she wins, she wants Kanade to invite her for tea in her room.
 * Yuri also says that she wants to be friends with Kanade, which she seems to respond positively to [#v2c7-1]_. Yuri also says that the guy must come for tea too. Kanade agrees, saying that is how she would want it to be too.
 
@@ -157,21 +157,46 @@ Chapter 7
 Chapter 8
 -----------
 
-* <Guy> is having a dream about his partner, and wakes up in the forest.
+* Chaa is having a dream about his partner, and wakes up in the forest.
 * Cut to Yuri showing up with a bow and arrow, tying the challange letter to the end of the arrow.
 * Hinata asks how she can even fire it.
     | H: But do you even know how to fire an arrow?
     | Y: I can picture firing it in my mind.
     | H: [..] Imagining something and actually doing it are completly different!
-* They go to where <Guy> was last seen, and he hasn't moved.
+* They go to where Chaa was last seen, and he hasn't moved.
 * Yuri shoots the arrow, and it hits him between the eyes. They run away. The letter of challange states the duel will be at 4pm today.
 * Timeskip: Yuri and Kanade at the bottom of the stairs to the track field in front of the classrooms, with Hinata and Ooyama hiding behind the bushes at the top.
-* <Guy> shows up behind Ooyama and Hinata with a gun to Ooyama's head, asking why Kanade is here. They explain that Kanade is refereeing. He goes down the stairs.
+* Chaa shows up behind Ooyama and Hinata with a gun to Ooyama's head, asking why Kanade is here. They explain that Kanade is refereeing. He goes down the stairs.
 * Kanade askes for the rules, Yuri explains it's a `Ten Paces and Turn <Ten Paces and Turn>`_. 
-* They begin, Kanade counts. At 10, Yuri and <Guy> both turn to face each other.
+* They begin, Kanade counts. At 10, Yuri and Chaa both turn to face each other.
 
 Chapter 9
 -----------
+
+* Both shoot at each other. Yuri drops her gun, hit in the right arm and falls to the ground. Chaa still holds his gun out.
+* Chaa says that Yuri has lost, but Yuri says she hasn't. He shoots her again but Kanade blocks it with Hand Sonic. Hinata and Ooyama are shocked that she did.
+* Chaa asks what Kanade is doing, she says that the winner has been decided and she is conficating the gun.
+* Yuri shoots over Kanade's shoulder, hitting Chaa in the head. Yuri says that she won, Kanade disagrees. 
+* Yuri says to have it decided by a 3rd party (Hinata and Ooyama). They say Yuri won, Kanade is confused.
+
+Chapter 10
+-----------
+
+* Chaa wakes up. Him, Yuri, Ooyama and Hinata are in Kanade's room [#v2c9-1]_. The room isn't what Yuri was expecting (a bed with a canopy. Kanade says there isn't one like that in the dorms.) Kanade goes to make tea for Chaa.
+* Yuri goes through Kanade's clothes, saying her pyjamas are cute (and smell good), and asks Chaa if he can check if the other clothes smell good too.
+* Chaa says that Yuri is the spitting image of his wife. Kanade returns with tea.
+* Chaa and Yuri talk about how he got married in highschool, and ran away together. Chaa says they were seperated and he ended up in the afterlife alone. He also says:
+    | "because in this world, you have something that you still need to do"
+* Yuri invites Chaa to join them. Chaa says that he has become complete and he has regained all the little things he had back when he was alive.
+* Kanade says that the tea has cooled down and makes another cup. Yuri returns to smelling her clothes. She opens a draw and "finds something nice".
+* Yuri, Hinata, Ooyama, Chaa leave Kanade's room, with Yuri having taken something, saying "we might figure out one of her secrets".
+* Iwasawa passes by Yuri and co. Yuri notices and turns back, with Iwasawa looking back too.
+
+.. [#v2c9-1] Single bed room, doesn't have bunkbeds like Ooyama/Hinata's does.
+
+
+
+
 
 Working ideas
 ================
