@@ -53,6 +53,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #html_theme = 'neo_rtd_theme'
 #html_theme_path = [sphinx_theme.get_html_theme_path('neo_rtd_theme')]
 
+
+
+html_theme_options = {
+    'display_version': False,
+}
+
 # If true, links to the reST sources are added to the pages.
 html_show_sourcelink = True
 
@@ -60,6 +66,7 @@ html_show_sourcelink = True
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied

@@ -194,7 +194,24 @@ Chapter 10
 
 .. [#v2c9-1] Single bed room, doesn't have bunkbeds like Ooyama/Hinata's does.
 
+Chapter 11
+-----------
 
+* A crow wakes Iwasawa up, who has just appeared in the school [#wis-5]_, lying on a bench. Shocked and surprised, saying that she "has a voice" and she "can speak".
+* She runs to the music room, picks up a guitar and starts singing, which catches Kanade's attention.
+* Kanade goes to the music room and Iwasawa that "you're quite good" but she needs to retun to the classrooms.
+* Iwasawa doesn't know why she is there, Kanade explains it is because she died.
+* Iwasawa leaves, taking the guitar with her, saying "I'm not a girl who deserves to be rewarded". To herself, she says she wants to sing more. 
+* As Iwasawa is walking to class, Hisako looks down from a window.
+* NOW BACK AT PRESENT.
+* Hinata and Ooyama are talking about how there is a girl (Iwasawa) singing in various places around the school.
+* Cut to Iwasawa playing near the classrooms, with Kanade approching. Kanade asks "please go to class" and advises the teachers would confiscate the guitar. At the same time, Yuri is meeting with Hinata and Ooyama on the roof of the classrooms.
+* The teachers approch saying to go to class, notice that it's the guitar that was stolen from the music room. Iwasawa picks it up and runs into the clasroom building.
+* With the teachers following, Iwasawa corners herself at a dead end. Hisako leans through the window and pulls Iwasawa back and they hide under the windowsil. 
+* Hisako introduces herself and asks Iwasawa if she will let her fight with her.
+
+Chapter 12
+-----------
 
 
 
@@ -205,3 +222,4 @@ Working ideas
 .. [#wis-2] This means in my idea, I would need to show this, and extend this arch before HD. Unless this is covered later on in the manga, if Yuri goes over how/when she appeared.
 .. [#wis-3] This supports my idea that Kanade erased her own memory can't can't remember anything about Chiyo.
 .. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basiclly shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God".
+.. [#wis-5] They are wearing the school uniform for their gender.
