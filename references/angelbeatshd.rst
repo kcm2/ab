@@ -159,12 +159,12 @@ Chapter 8
 
 * <Guy> is having a dream about his partner, and wakes up in the forest.
 * Cut to Yuri showing up with a bow and arrow, tying the challange letter to the end of the arrow.
-* Hinata asks how she can even fire it, 
-*
+* Hinata asks how she can even fire it.
+    | H: But do you even know how to fire an arrow?
+    | Y: I can picture firing it in my mind.
+    | H: [..] Imagining something and actually doing it are completly different!
+* They go to where <Guy> was last seen, and he hasn't moved.
 
-* foo foo
-    | Bar bar
-    | baz baz
 
 Working ideas
 ================
