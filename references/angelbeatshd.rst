@@ -239,7 +239,36 @@ Chapter 13
 Chapter 14
 -----------
 
-* **flashback to a younger Iwasawa in school.**
+* **Flashback to a younger Iwasawa in school.**
+* Some other girls are talking to each other, saying that Iwasawa is a "weird one", smart and hard to approch.
+* **Cut to Ch 10)** where she walks back Yuri. Iwasawa is thinking to herself. She says that the "friends" she had before brought "nothing but lies and pain", and isolated herself. She wonders if she could smile with friends.
+* **Cut to the next day**, with Iwasawa and Hisako setting up speakers in front of the classrooms.
+* Hisako scolds Iwasawa for being late. Iwasawa has doubts and Hisako reassures her. 
+* They start playing which gets everyone's attention and they peform their song outsdie of the classrooms.
+* The students cheer and ask for another song. The teachers run out of the front doors, Hisako and Iwasawa run away, and hide behind a shed/small building somewhere to the east of the cafeteria as the teachers look for them.
+* Iwasawa hugs/pushes Hisako to the ground and said that she had the most fun singing, and that she needs Hisako.
+* Kanade is shown standing behind a wall after finding them. She turns and walks away.
+* Iwasawa and Hisako discuss the name for their band.
+* **Cut to** Hinata voice overing saying that the two girls (Hisako and Iwasawa) wouldn't join Yuri and they (SSS) were now facing a crisis, with Hinata's hand/arm shown being injured.
+
+Chapter 14.5
+-------------
+
+* A day/few days later, classmates reconise Hisako and Iwasawa and are fans of them.
+* Iwasawa goes to Hisako's room, while she was having a bath. Iwasawa suggests a band name, which Hisako rejects.
+* Iwasawa plays a game where she pokes Hisako's breasts and she has to guess what she was poked with. Hisako says that it tickles a lot and Iwasawa reveals that it was with the end of a piece of guitar string.
+* Iwasawa reflects and over she mentions that she isn't alone anymore after meeting Hisako.
+* Kanade knocks on her door, they panic and try to hide their guitars. Iwasawa slips on some paper and Kanade hears a thud.
+* Kanade barges in "what was that noise" and notices Hisako, topless, on top of Iwasawa.
+* Kanade is shocked, but says "it's already time for bed, so please finish in the morning". She leaves and shuts the door. Hisako goes "finish what" and is embarassed.
+
+Volume 3
+==========
+
+Chapter 15
+-----------
+
+
 
 Working ideas
 ================
