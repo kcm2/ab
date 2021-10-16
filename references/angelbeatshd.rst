@@ -268,7 +268,26 @@ Volume 3
 Chapter 15
 -----------
 
+* Yuri, Hinata, Chaa and Ooyama are playing vollyball on the track (in front of the classrooms), in swimsuits. Yuri wearing the one she 'stole' from Kanade. Hinata has cuts on them because the ground is hard and not sand.
+* Yuri asks Chaa to show them how they brought a gun into the world. He goes to somewhere in the forest to a tree with a hole in it.
+* They go in the hole and down a tunnel to a small room with electricity. Chaa mentions that the room was there to begin with and he just made it more livable. Chaa says it seems like a guard room [#wis-6]_.
+* There is also a door in the room and Chaa says that the path continues on behind the door. He also says that the path is so long that he doesn't know where it ends.
+* Chaa says that he has lived in the room since he arrived in the world.
+* Chaa then shows them how to make objects in the world, by getting dirt similar to clay, water. He squeezes his hands together. The SSS seem to nod off but Chaa tells them to wake up and shows that the process has finished, having made a nail.
+* Chaa explains that he wanted to build a home so it didn't matter when his wife arrived. 
+* They challange themselves to make something. 2 hours later, Yuri is sucessful with creating a nail.
+* Yuri says that it took 2 hours to make a nail, and asks how to make a gun. Chaa says to make each part individually and put them together, and that Chaa remembers all the details of how a gun is constructed.
+* Yuri comments:
+    | "This the world of the spirts right? If that's the case, then maybe it's related in some way."
+    | "So you're saying that as long as one has a good memory and strong desire, you can recreate anything in the world".
+    | "You can't make something as complicated as a gun quickly".
+* Chaa comments that it would take around a week, or 170 hours without stopping to make a gun.
+* Chaa says that past the door, he has only gone down 22 floors. Realising that he didn't have any food and wouldn't be able to return.
+* **Some time later**, Hinata and Ooyama return to the tree with backpacks carrying supplies. In the room, Yuri has made a pinwheel.
+* They go past the door and down the path and come across Noda who attacks them.
 
+Chapter 16
+-----------
 
 Working ideas
 ================
@@ -278,3 +297,4 @@ Working ideas
 .. [#wis-3] This supports my idea that Kanade erased her own memory can't can't remember anything about Chiyo.
 .. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basiclly shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God".
 .. [#wis-5] They are wearing the school uniform for their gender.
+.. [#wis-6] Important to use.
