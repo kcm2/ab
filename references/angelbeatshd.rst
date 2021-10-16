@@ -213,6 +213,17 @@ Chapter 11
 Chapter 12
 -----------
 
+* Iwasawa is confused as what Hisako meant by "fight". They go to the clubroom for the light music club.
+* Hisako expands by saying rebelling against the world by singing, and that she wants to help.
+* Hisako explains that the student council president after she arrived. She was told to behave and attend classes.
+* Hisako says she was unsure of what she was suppoed to do after hearing the world was the afterlife, but when she heard Iwasawa singing she thought it was love at first sight [#v2c11-1]_. 
+* Hisako says that Iwasawa is the one to be her vocalist. Hisako says she wants to form a band.
+* Hisako asks Iwasawa to strum an eletric guitar, and it resonates with her. Hisako asks Iwasawa to write a song for it.
+
+.. [#v2c11-1] Like finding a partner with the same objectives.
+
+Chapter 13
+-----------
 
 
 Working ideas
