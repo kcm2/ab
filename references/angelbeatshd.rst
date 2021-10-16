@@ -216,15 +216,30 @@ Chapter 12
 * Iwasawa is confused as what Hisako meant by "fight". They go to the clubroom for the light music club.
 * Hisako expands by saying rebelling against the world by singing, and that she wants to help.
 * Hisako explains that the student council president after she arrived. She was told to behave and attend classes.
-* Hisako says she was unsure of what she was suppoed to do after hearing the world was the afterlife, but when she heard Iwasawa singing she thought it was love at first sight [#v2c11-1]_. 
+* Hisako says she was unsure of what she was suppoed to do after hearing the world was the afterlife, but when she heard Iwasawa singing she thought it was love at first sight [#v2c12-1]_. 
 * Hisako says that Iwasawa is the one to be her vocalist. Hisako says she wants to form a band.
 * Hisako asks Iwasawa to strum an eletric guitar, and it resonates with her. Hisako asks Iwasawa to write a song for it.
 
-.. [#v2c11-1] Like finding a partner with the same objectives.
+.. [#v2c12-1] Like finding a partner with the same objectives.
 
 Chapter 13
 -----------
 
+* **Time skip**, Hisako taps Iwasawa's cheek with a drink, which surprises her. Iwasawa mentions that the song is almost done called "Crow Song".
+* Iwasawa demonstrates it to Hisako. Hisako is impressed. She asks if Iwasawa would still like to group up for a band. Iwasawa is anxious it and faints.
+* Kanade is outside and hears Hisako panicking, worried that Iwasawa is dying. Kanade adds that she isn't dead. Iwasawa's stomach grumbles.
+* Jump to Iwasawa in the infirmary, eating sandwiches and snacks. "So you still need to eat in the afterlife". Hisako scolds her.
+* Kanade says "you're not allowed to eat or drink in here" and "your body is no different from when you were alive, it's just that you can't die".
+* She leaves, saying to come to class tomorrow.
+* Hisako asks Iwasawa to take care of her body more, and that she doesn't want more people to die. They go to the roof of a building.
+* Hisako reveals that she "killed someone before" and explans that when she was alive the vocalist of the band she was in committed suicide. She blames herself for "taking my eyes off her". Iwasawa reassures her. Hisako says that she is forming a band with Iwasawa and they are holding a concert tomorrow in front of the classrooms.
+
+.. [#v2c13-1] This takes place at the same Yuri is dealing with the bow (Ch 8).
+
+Chapter 14
+-----------
+
+* **flashback to a younger Iwasawa in school.**
 
 Working ideas
 ================
