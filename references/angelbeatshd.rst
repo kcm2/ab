@@ -305,7 +305,21 @@ Chapter 16
 Chapter 17
 -----------
 
-* a
+* Hinata suggests talking to Shiina peacefully. He asks who she is and and if she is friends with Kanade/student council president.
+* Shiina swipes, and Yuri gets knocked down. Shiina approches her and is going to stab Yuri.
+* Hinata says something cringy and it gets Shiina's attention. She moves fast and cuts off his arm. He tells Yuri to run.
+* **Cut to another view**, Chaa and Ooyama find Noda. Noda runs and Chaa explains that Yuri/Hinata have gone to Shiina.
+* Noda is shocked at this and he runs off to go help them.
+* **Cut back to Yuri/Hinata**, Hinata is badly injured. Yuri is upset at Hinata being hurt.
+* Shiina stabs Hinata in the eye and he collapses. Yuri is shocked, and shoots Shiina.
+* Yuri carries a struggling Hinata to escape, Yuri feels ashamed that Hinata has been hurt.
+* Shiina quickly comes up behind Yuri and stabs her in the back, she collapses. Yuri crawls over to Hinata, and sits up to protect him.
+* Hinata starts passing out and starts to picture himself on a se-saw.
+
+Chapter 18
+-----------
+
+* aa
 
 Working ideas
 ================
