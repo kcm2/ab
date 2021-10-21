@@ -289,6 +289,24 @@ Chapter 15
 Chapter 16
 -----------
 
+* Noda attacks them, Chaa throws Ooyama and he gets sliced. Chaa restraints Noda with his arms.
+* Noda asks if the SSS are related to "the boss of the underground cavern", who said to Noda "if you want this game to end you have to defeat me".
+* Yuri says the world isn't like that, and offers to work together with Noda. Noda is star struck and agrees. Yuri says Noda's first task is to "kill the boss".
+* They go deeper into the cavern and are now on the 27th floor.
+* Hinata explains to Noda that the world is the afterlife and their goal is to "defeat God". Noda 'comes to his senses' and Chaa says that Yuri is his wife. Noda is shocked that he's "not the protaganist" and he's "a supporting character".
+* Upset, Noda runs away. Hinata feels that he doesn't have a purpose now that Chaa has joined them.
+* Hinata says they should go and find Noda. Yuri has already forgotten him. They split up to find Noda. Yuri and Chaa will go to the "boss", and Hinata and Ooyama will go look for Noda.
+* In his head, Hinata pictures a VN scene and he decides he and Chaa will go to the boss, Yuri and Ooyama will find Noda.
+* After some arguing, Hinata leaves with Yuri, Chaa leaves with Ooyama.
+* They go down into a large open area and Yuri yells out.
+* Walking around some, they spot Shiina sitting on a chair.
+* Yuri and Hinata talk/shout at her, and she vanishes, showing up behind them and she is about to attack them with knives.
+
+Chapter 17
+-----------
+
+* a
+
 Working ideas
 ================
 
