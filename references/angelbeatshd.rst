@@ -269,7 +269,7 @@ Chapter 15
 -----------
 
 * Yuri, Hinata, Chaa and Ooyama are playing vollyball on the track (in front of the classrooms), in swimsuits. Yuri wearing the one she 'stole' from Kanade. Hinata has cuts on them because the ground is hard and not sand.
-* Yuri asks Chaa to show them how they brought a gun into the world. He goes to somewhere in the forest to a tree with a hole in it.
+* Yuri asks Chaa to show them how they brought a gun into the world. He goes to somewhere in the forest [#v3c15-1]_ to a tree with a hole in it. 
 * They go in the hole and down a tunnel to a small room with electricity. Chaa mentions that the room was there to begin with and he just made it more livable. Chaa says it seems like a guard room [#wis-6]_.
 * There is also a door in the room and Chaa says that the path continues on behind the door. He also says that the path is so long that he doesn't know where it ends.
 * Chaa says that he has lived in the room since he arrived in the world.
@@ -285,6 +285,8 @@ Chapter 15
 * Chaa says that past the door, he has only gone down 22 floors. Realising that he didn't have any food and wouldn't be able to return.
 * **Some time later**, Hinata and Ooyama return to the tree with backpacks carrying supplies. In the room, Yuri has made a pinwheel.
 * They go past the door and down the path and come across Noda who attacks them.
+
+.. [#v3c15-1] In Ch 19 it's shown that they are running to the school from the south.
 
 Chapter 16
 -----------
@@ -319,7 +321,51 @@ Chapter 17
 Chapter 18
 -----------
 
-* aa
+* In a hallucinations, Hinata pictures him and Yuri on a se-saw. He stands on it and goes to touch her hand and Hinata grabs the knife (by the blade) Shiina is trying to stab Yuri with.
+* Hinata sweeps Shiina's leg and knocks her over. He begins to strangle her and she slices his stomach open.
+* Hinata breaks Shiina's neck and he starts to blackout.
+* In another hallucination, Hinata is in a circle cage with Yuri outside asking if he is happy. The cage begins to shatter, and they fall. Hinata and Yuri grab each other's hands...
+* **Cut back to the 'real world'**, Noda, Ooyama and Chaa show up.
+
+Chapter 19
+-----------
+
+* Hinata begins to wake up. Ooyama says that he slept for a long time. Hinata asks where Shiina is.
+* Shiina is tied up, but still 'asleep', but is shown to be pretending as she cuts herself free.
+* Yuri is examining Shiina's base. Hinata appears behind Yuri and scares her. Yuri is surprised that Hinata's wounds have healed. Hinata also mentioned that he could hear Yuri crying.
+* Hinata makes Yuri blow into a pinwheel which makes her laugh.
+* Yuri suggests that they should form a group and get revenge.
+* Ooyama comes in and says that Noda has ran away again and Chaa chased after him.
+* He also says that Shiina escaped too.
+* Hinata, Yuri and Ooyama take weapons from Shiina's base. They go down a tunnel to try and find Shiina.
+* Shiina appears, attacks Yuri (but she defends herself) before vanishing. They continue down the tunnel after her. As they get to a ladder, Shiina attacks again cutting off Ooyama's arm.
+* While escaping, they were attacked many times by Shiina but finally made it outside.
+* They run back up to the school's classrooms [#wis-7]_ which Kanade notices.
+* Shiina appears from behind them, at the top of the stairs at the front of the classrooms. Yuri baits Shiina into attacking.
+* Kanade blocks Shiina, defending Yuri, Hinata and Ooyama.
+
+Chapter 20
+-----------
+
+* Kanade stands on the stairs with Ooyama, Hinata and Yuri on the floor, defending them from Shiina.
+* Shiina starts fighting Kanade. Hinata realises that if the school rules are broken, Kanade will appear to protect the denfeceless. 
+* While Kanade is fighting Shiina, Yuri, Hinata and Ooyama go back to the forest to find Chaa and Noda.
+
+Chapter 20.5
+-------------
+
+* Kanade is looking for her swimsuit and is unable to find it.
+* **Cut to** Iwasawa and Hisako in a bathroom and they see a swimsuit hanging from a door. Iwasawa makes Hisako wear it.
+* Kanade comes into the bathroom and says thank you to Hisako for picking up the swimsuit for her [#v3c20.5-1]_.
+
+.. [#v3c20.5-1] There is a bit showing Kanade wearing the swimsuit, but this is an omake/bonus so could be argued as not canon.
+
+Volume 4
+==========
+
+Chapter 21
+-----------
+
 
 Working ideas
 ================
@@ -330,3 +376,4 @@ Working ideas
 .. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basiclly shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God".
 .. [#wis-5] They are wearing the school uniform for their gender.
 .. [#wis-6] Important to use.
+.. [#wis-7] They come from the south.
