@@ -366,6 +366,42 @@ Volume 4
 Chapter 21
 -----------
 
+* Hinata asks Yuri where they are going. They find them. Chaa explains he knocked Noda out as he didn't listen.
+* She asks Chaa and Noda to join the SSS.
+* They go back to the school classrooms, Kanade is still fighting Shiina.
+* The SSS make a plan.
+* Kanade is able to throw Shiina to the ground and goes to stab Shiina in the heart. Shiina uses speed to escape, to get behind Kanade and almost stab her.
+* Kanade is protected by Noda and Chaa and they offer to help.
+* Yuri plans that Noda and Chaa will help Kanade and to bring her to the school corner once defeated. Ooyama will go to the basketball courts to keep watch. Yuri and Hinata will be on the classroom roof.
+
+Chapter 22
+-----------
+
+* Kanade, Chaa and Noda fight Shiina.
+* Yuri explains her plan to Hinata, where he will jump/fall off the roof when Shiina is in the right spot. Hinata has doubts.
+* Shiina gets cornered, and Hinata jumps/falls and is able to slash Shiina.
+* Hinata collapses from the injuries.
+
+Chapter 23
+-----------
+
+* Hinata wakes up in the infirmary. Shiina is also in the bed next to him.
+* Yuri asks where she leart her skills, but Shiina doesn't answer. Yuri puts her hand on Shiina's cheek and asks if she would like to join the SSS. Shiina nods.
+* Yuri explains that Kanade is the only enemy.
+* Shiina tries to speak but Yuri tells her to rest.
+* Yuri explains to Shiina that they are partners. Shiina says "so this is what partners are like" [#wis-8]_ and she falls asleep.
+* Chaa comments "seems like she had been through a more hetic life than mine" [#wis-9]_.
+* Yuri talks with where to set up their base and they pick the principal's office, and the principal will be moved to the teacher's office.
+* Yuri assigns tasks. She tasks Chaa with making guns and Hinata and Ooyama to prepare the principals office.
+* Hinata complaints and Yuri says the teachers arn't human. Hinata replies "like NPCs". Yuri likes that term and starts the operation.
+
+Chapter 24
+-----------
+
+* Noda is carving a giant hammer in the forest [#v4c23-1]_. 
+* 
+
+.. [#v4c23-1] The manga/TL says that it's a Sunday, and it shows that the classroom is empty.
 
 Working ideas
 ================
@@ -377,3 +413,5 @@ Working ideas
 .. [#wis-5] They are wearing the school uniform for their gender.
 .. [#wis-6] Important to use.
 .. [#wis-7] They come from the south.
+.. [#wis-8] She could have been abaonded by a partner and left to die or be caught.
+.. [#wis-9] A bit of an important thing to remember.
