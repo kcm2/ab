@@ -398,10 +398,28 @@ Chapter 23
 Chapter 24
 -----------
 
-* Noda is carving a giant hammer in the forest [#v4c23-1]_. 
-* 
+* Noda is carving a giant hammer in the forest [#v4c24-1]_. 
+* Yuri and Shiina are in an currently unused classroom. Yuri asks Shiina what her name is, Shiina says she has the callsign "C7". Yuri sounds out and "Shi-na" sounds close to "C7" in Japanese and gives Shiina the name.
+* They talk about how Shiina is so strong Shiina is and she says she trains/trained every day on how to kill people.
+* Yuri makes comments about how Shiina is like she time traveled from the past. Shiina comments that the clothes make her uncomfortable and asks if this is really Japan. Yuri is shocked.
+* **Cut to** Ooyama celebrates with Hinata, saying they halted the principal's actions.
+* **Cut back** Yuri telling Shiina that she time traveled, saying that Shiina isn't from this era, and Shiina hid underground to wait for enemies to show up.
+* Yuri asks Shiina how long she hid, and she replies "roughtly 3000 days or so" (8.2 years).
+* Yuri says that Shiina won't have to kill again, and the SSS' target is God. Shiina makes a comment on Kanade's passion when fighting.
+* Noda burtsts into the room and shows her the trap he made - a stick of wood to bash Kanade when she knocks on the door.
+* Yuri disapproves and sends Noda away.
+* **Cut back to** Hinata going into the staff room, and telling the teacher that the seating layout for teachers and students need to change.
+* **Cut forward to** Hinata and Ooyama in the principal's office, with them now in control of his office.
+* **Cut back to** Hinata asking Ooyama how he managed to stop the principal. He explains the principal in haiku, and had him read the phrase "the afterlife" and the principal got lost in thought. And the sentence doesn't use any language of the seasons (?).
+* Hinata and Ooyama go up the stairs and meet Kanade. She asks "what are you up to this time", but is distracted by sounds coming from the teacher's office and comments that she is really busy today.
+* Relieved, Hinata and Ooyama look out the window at Iwasawa and Hisako playing outside.
 
-.. [#v4c23-1] The manga/TL says that it's a Sunday, and it shows that the classroom is empty.
+.. [#v4c24-1] The manga/TL says that it's a Sunday, and it shows that the classroom is empty.
+
+Chapter 25
+-----------
+
+* s
 
 Working ideas
 ================
