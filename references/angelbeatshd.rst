@@ -419,7 +419,34 @@ Chapter 24
 Chapter 25
 -----------
 
-* s
+* Iwasawa and Hisako are playing outside in front of the classrooms [#v4c25-1]_.
+* The teachers come out of the doors, Iwasawa and Hisako run away to the cafeteria and Yuri introduces herself [#v4c25-2]_.
+* Iwasawa passes on Yuri, but she says that it's for revenge on God. With some discussion, Hisako seems more supportive of joining, suggesting a 'rhythmical unit' and they are short on a bassist and drummer and are looking for girls to join them.
+* Yuri refers to Shiina for her thoughts, Shiina says it sounds fun.
+* Hisako gives Yuri the keys to the light music club.
+* **Cut to** them in the in the light music club and they start playing around with instruments.
+* **Later that night**, Shiina and Yuri show Hisako and Iwasawa. Hisako doesn't feel they played very well [#wis-11]_.
+* **Cut to** the next day, Hinata, Ooyama and Noda are moving furnature into the principal's office. Ooyama, shocked says that the principal solved the haiku.
+* The guys try to come up with a way to distract the principal again, and it comes to comparing asses. Yuri shows up asking why they are doing pervered things.
+* Yuri tells them about her progress with Hisako and Iwasawa, and then leaves.
+
+.. [#v4c25-1] The students are in their school uniforms, even though it's suppoedly a Sunday.
+.. [#v4c25-2] Yuri comments that it will be summer soon [#wis-10]_.
+
+Chapter 26
+-----------
+
+* Yuri puts forward a plan of a live peformance, Hisako doesn't feel confident in it as they haven't practised enough.
+* Ooyama, in the principal's office, notices students outside running somewhere. He comments on this and Hinata tells him to forget about them.
+* The girls have set up an improv concert near the cafeteria, and they start playing.
+* Hisako announces that the band is disbanding, but will stay with Iwasawa. But Yuri and Shiina have to go.
+* Yuri is not happy with this. Hisako explains that their musical skills are not good enough to be band support members.
+* Hisako explains that Yuri/Shiina doesn't need to play for them anymore but they will appriciciate the backup. Yuri agrees but in exchange Hisako/Iwasawa need to write another song.
+* The teachers approch and they all run away again. Everyone meets up and eats lunch behind the staff offices. Yuri talks about the operation to get the teachers out of the staff room. She discusses a plan with multiple distractions.
+* They plan for Shiina to scale the classroom building with out supports, Hisako/Iwasawa will have a live peformance. Chaa will stand on the track field with a big canon used to fire fireworks. Noda will stand as "no one will dare approch", and Hinata/Ooyama will swap the chairs around.
+
+Chapter 26.5
+-------------
 
 Working ideas
 ================
@@ -433,3 +460,5 @@ Working ideas
 .. [#wis-7] They come from the south.
 .. [#wis-8] She could have been abaonded by a partner and left to die or be caught.
 .. [#wis-9] A bit of an important thing to remember.
+.. [#wis-10] Supports the idea that there is still a passage of time, and dates this in Spring/near to summer.
+.. [#wis-11] Supports the idea that when Yuri plays at the end, Kanade is surprised/shocked that Yuri can play. (Little Busters full)
