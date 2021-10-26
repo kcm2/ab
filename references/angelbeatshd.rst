@@ -448,6 +448,11 @@ Chapter 26
 Chapter 26.5
 -------------
 
+* Yuri goes into the principal's office looking for Hinata and/or Ooyama. Only Noda is there.
+* Noda asks if he is useful. Yuri says he isn't. Outside he is angrily smacking the ground but loses his grip, and it hits him in the head.
+* He wakes up on Yuri's lap as she's kneeling down. Yuri says she was checking on Chaa but found Noda dead with his head split in half.
+* While Noda lies there, they have a heart-to-heart. Noda says that Yuri is important to him, and he'll protect her and becomes friends with Hinata.
+
 Working ideas
 ================
 
