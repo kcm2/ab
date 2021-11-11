@@ -463,7 +463,7 @@ Chapter 27
 * **Cut to** Iwasawa and Hisako having a new concert outside of the classrooms, with a new song 'Alchemy', which gets other student's attention and Yuri goes "operation start".
 * Student's in the gym hear and run out, the teacher tells them to stop. Noda holds the teacher back.
 * Kanade comes down some stairs from the side of the classrooms to go to Iwasawa and Hisako.
-* Someone shouts for Shiina to stop climbing up the side of the school building [#v5c26-1]_.
+* Someone shouts for Shiina to stop climbing up the side of the school building [#v5c27-1]_.
 * Chaa also has a big canon, pointing to a building, the teacher who notices runs away.
 * Kanade is 'pulled left and right' with all of the issues happening at once and gets confused at which one she should attend to first.
 * Yuri, from the principals office window, laughs at Kanade's confusion.
@@ -471,12 +471,25 @@ Chapter 27
 * Teachers return to staff room, the principal's desk has been moved to a student desk in the teacher's office. The other teachers say that this is a prank by the students.
 * The principal sits down at the desk and accepts this as his new place, much to the dismay at the other teachers.
 
-.. [#v5c26-1] This seems like the wall/corner clocest to the staff building.
+.. [#v5c27-1] This seems like the wall/corner clocest to the staff building.
 
 Chapter 28
 -----------
 
-* ff
+* **Cut to** Noda, behind the gym near the <burners>, having been critically attacked in the back.
+* Ooyama comments that it's really hot now [#v5c28-1]_.
+* Hinata, Ooyama and Noda talk about Yuri's order to recruit more people and find more humans.
+* They stumble on Noda's body and go to report this to Yuri. They go back to where they found Noda, who is now awake and sitting up.
+* Noda retells what happened - how he was looking for humans, he was walking around school where he got stabbed in the back, got stabbed more before collapsing, without seeing the attacker.
+* Noda says Shiina was the attacker, Yuri dismisses this straight away.
+* Yuri orders the SSS to hunt for the attacker. The group split up with the girls being together and the boys together.
+* The boys ask students if they know anyone like that, they comment that they don't think anyone like that exists in the school.
+* While on the school roof, Yuri asks Shiina to wait on the roof while Yuri goes to speak to Kanade, who is currently in a student council meeting.
+
+.. [#v5c28-1] Suggests that it is now summer and the uniforms have changed to the summer style.
+
+Chapter 29
+-----------
 
 Working ideas
 ================
