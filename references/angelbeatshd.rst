@@ -459,7 +459,24 @@ Volume 5
 Chapter 27
 -----------
 
-* Foobar.
+* Iwasawa and Hisako are in the music room composing new music, with them reviewing it.
+* **Cut to** Iwasawa and Hisako having a new concert outside of the classrooms, with a new song 'Alchemy', which gets other student's attention and Yuri goes "operation start".
+* Student's in the gym hear and run out, the teacher tells them to stop. Noda holds the teacher back.
+* Kanade comes down some stairs from the side of the classrooms to go to Iwasawa and Hisako.
+* Someone shouts for Shiina to stop climbing up the side of the school building [#v5c26-1]_.
+* Chaa also has a big canon, pointing to a building, the teacher who notices runs away.
+* Kanade is 'pulled left and right' with all of the issues happening at once and gets confused at which one she should attend to first.
+* Yuri, from the principals office window, laughs at Kanade's confusion.
+* 2 teachers pin down Noda, Shiina reached the top of the building with some teachers bringing a mattress, teachers also realise the canon Chaa has is a paper canon. Yuri complaints at her plan failing.
+* Teachers return to staff room, the principal's desk has been moved to a student desk in the teacher's office. The other teachers say that this is a prank by the students.
+* The principal sits down at the desk and accepts this as his new place, much to the dismay at the other teachers.
+
+.. [#v5c26-1] This seems like the wall/corner clocest to the staff building.
+
+Chapter 28
+-----------
+
+* ff
 
 Working ideas
 ================
