@@ -521,6 +521,25 @@ Chapter 30
 Chapter 31
 -----------
 
+* Ooyama wakes up and meets Hinata and Noda, who mention that Yuri is negotiating with the attacker.
+* Yuri asks the attacker for an explaination, and she replies "men" and they "... can't be forgiven" and she has decided to kill men.
+* The attacker is confused as the person dies but the next day it's like nothing happened and she keeps killing them, again and again. The three talk it over and Yuri invites the attacker to join the SSS.
+* The attacker declines
+    | Yuri: For everything to become like this must be God's idea of a practial joke, since everything is God's will.
+    | Attacker: Gods are just man's creation.
+    | Yuri: Before coming into this world, I thought the same way as you do. Here, evidence of God exisiting can be found everywhere... [#wis-12]_ 
+* The attacker doesn't agree with this, and still can't stand that men exist and just wants to kill them all.
+* Yuri shrugs the attacker off "what a pain". Yuri suggests a female only team of the SSS but the attacker mentions they don't care. Yuri mentions the attacker would still attack men without being ordered and that she is too stubborn, and says "just do as you please". Yuri then leaves the room, leaving the attacker alone [#wis-13]_. 
+* Yuri explains to Hinata/Noda/Ooyama that the attacker isn't joining them.
+* **Cut to** the attacker watching the SSS walk away, while she is in the classroom.
+* As they close the curtins and says "everything will be over once we defeat that girl?" meaning Kanade.
+
+Chapter 32
+-----------
+
+* A shot showing the attacker opening a bared and chained door with "no unauthorised entry" sign in the middle of the night.
+* 
+
 Working ideas
 ================
 
@@ -535,3 +554,5 @@ Working ideas
 .. [#wis-9] A bit of an important thing to remember.
 .. [#wis-10] Supports the idea that there is still a passage of time, and dates this in Spring/near to summer.
 .. [#wis-11] Supports the idea that when Yuri plays at the end, Kanade is surprised/shocked that Yuri can play. (Little Busters full)
+.. [#wis-12] In this discussion, Yuri says she feels that something is spying on them. This supports the idea of Chiyo having "left" but is still around watching over everything.
+.. [#wis-13] Chiyo would be angry that Yuri isn't showing any empathy towards the attacker.
