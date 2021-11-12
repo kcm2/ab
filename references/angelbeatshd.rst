@@ -538,7 +538,24 @@ Chapter 32
 -----------
 
 * A shot showing the attacker opening a bared and chained door with "no unauthorised entry" sign in the middle of the night.
-* 
+* **Cut to** some time and the attacker goes up to Kanade and asks for the stregnth to kill people. Kanade replies she can't do that. The attacker comments that she has seen Kanade having powers that humans don't have.
+* Kanade stands up from the desk she is sitting at, saying her having powers are different from giving people the ability to kill. The attacker reasks for the ability to kill people. Kanade says she can't give out that power.
+* The attacker says they are tired [#wis-14]_ and explains themselves. Kanade asks the attacker to explain what happened to them.
+* Yuri goes to the student council office and tries to find Kanade, to be told that she is on her break.
+* Yuri walks around the classrooms and comments that she has "lost track of the number of summers" she has spent in the afterlife world, and "how many more summers are there to come".
+* She notices a box of walkie talkies outside of the principal's office.
+* The attacker, with a different appearance comes up behind Yuri and asks if she needs an operator. Yuri is taken aback and wonders what happened to her.
+* Yuri says that she can't trust her that easily and the attacker mentions they will need to prove themselves, and offers their hand (for a handshake) to prove they mean no harm.
+* **Cut to** a memory from the attacker of Kanade typing on a computer (in Kanade's room). Kanade comments that it is still incomplete and might not work properly. The attacker suddenly vanishes from the room, Kanade sighs and thinks to herself.
+* **Cut back** to Yuri and the attacker's handshake, and asks if Yuri needs an operator. Yuri comments that it's interesting, really interesting [#v5c32-1]_.
+* Yuri says "so that was what happened" [#v5c32-1]_ and that she is now a member of the SSS. Yuri asks for their name and the attacker replies it's Yusa.
+
+.. [#v5c32-1] Yusa has explained to Yuri what happened with Kanade here, but I feel this could be cut.
+
+Chapter 33
+-----------
+
+* a
 
 Working ideas
 ================
@@ -556,3 +573,4 @@ Working ideas
 .. [#wis-11] Supports the idea that when Yuri plays at the end, Kanade is surprised/shocked that Yuri can play. (Little Busters full)
 .. [#wis-12] In this discussion, Yuri says she feels that something is spying on them. This supports the idea of Chiyo having "left" but is still around watching over everything.
 .. [#wis-13] Chiyo would be angry that Yuri isn't showing any empathy towards the attacker.
+.. [#wis-14] Something here about Chiyo saying to Kanade to not ignore/turn down people asking for help.
