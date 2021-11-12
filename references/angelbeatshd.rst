@@ -491,6 +491,36 @@ Chapter 28
 Chapter 29
 -----------
 
+* Yuri barges into the student council meeting and asks to speak to Kanade.
+* Yuri brings Kanade up to the roof of the classrooms, where Shiina is waiting.
+* Yuri asks if Kanade knows anything about the attacks and she comments "again?". Yuri is shocked at this has happened before. Kanade comments that the last incident happened a long time ago and shouldn't be the same person.
+    | Kanade: There's an old rumor from someone who graduated from this campus 3 years ago, it's not really worth mentioning as it's in the past.
+* Yuri comments to herself that she still can't get any information out of Kanade.
+* Yuri outbursts that Kanade is too simple. Kanade is taken aback for a moment but is confused. Yuri says that it is useful information and leaves with Shiina, but Kanade is still confused.
+* **Cut to** Hinata asking another 'NPC' (who is actually Naoi) about the slasher. Naoi replies that he doesn't know, but asks Hinata "what kind of person is the student council president?".
+* He replies that she isn't a person, and is an angel. Naoi is shocked, and walks away.
+* Ooyama asks Hinata if it's ok for NPCs to know, Hinata replies that Yuri told him that they forget the next day.
+* They overhear Noda shouting "hold it right there", they go to see what's up and see that Noda has been attacked again with scissors.
+
+Chapter 30
+-----------
+
+* Yuri is with the group where Noda 'died'. Yuri, Shiina, Hinata and Ooyama discuss. They think that Noda is the only one being targeted. They also think that is because Noda is the only one holding a weapon.
+* They walk around the classrooms with weapons, and the students are staring at them. They notice Kanade coming down the stairs, and she notices them, commenting "you guys never learn".
+* Kanade says she is confiscating the weapons, because it is morally wrong (rather than being against the school rules).
+* Yuri doesn't want to, Kanade activates Hand Sonic, and Yuri/SSS runs away.
+* Ooyama gets seperated, and pulled into an unused classroom. Hinata notices Ooyama is missing, and they go back and find that Ooyama has been attacked with scissors.
+* They discuss that this attacker is crazy, they split up again to find the attacker but Hinata asks Noda and Yuri for a favour.
+* Hinata explores, and finds a blood trail on the floor and follows it.
+* Hinata notices that the attacker is following them, he draws a gun and aims it above his head.
+* **Cut back** to Hinata planning with Yuri, he asks for the gun and Yuri knows he is planning to use it as a siginal.
+* **Cuts back to the present**, Hinata fires the gun and Noda swings in via the window.
+* Noda manages to get the attacker pinned down to the ground, who is actually a girl, he asks Hinata for help as holding her down is a struggle.
+* Shiina and Yuri arrive and Yuri comments that she's only attacking guys.
+
+Chapter 31
+-----------
+
 Working ideas
 ================
 
