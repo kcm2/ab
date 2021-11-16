@@ -665,6 +665,26 @@ Chapter 38
 Chapter 39
 -----------
 
+* Hinata is heading to the principal's office and notices a queue outside.
+* Yuri is holding interviews of people that want to join the SSS, rejecting anyone that doesn't have any memories that they died [#wis-20]_.
+* TK shows up and they quickly assume his human by the random stuff he says. He 'dances' with her and he 'accidently' throws her at the wall.
+* TK continues to say his weird lines, confusing everyone.
+* Yuri and the SSS discuss but are unable to say why TK is behaving like he does.
+
+Chapter 39.5
+-------------
+
+* Noda goes into the principal's office, looking for Yuri but Yusa is there. Yusa says that she had to accompany Shiina last night.
+* Yusa explains that because Shiina nearly vanishes, and because Yuri is sensitive about it, Yuri spent the night with her.
+* Noda says he will change his behaviour so Yuri will notice and they will spend the night together.
+* Some months pass and Yuri asks if it's quieter now and Yusa says she's just imagining things.
+
+Volume 7
+==========
+
+Chapter 40
+-----------
+
 * a
 
 Working ideas
@@ -690,3 +710,4 @@ Working ideas
 .. [#wis-18] What happens to the NPCs need explaining.
 .. [#wis-19] This location, as a shed in the middle of nowhere, seems a good thing to use.
 .. [#wis-20] This would need to be something Chiyo needs to do.
+.. [#wis-21] This would need explaining how students don't have memories of not dying.
