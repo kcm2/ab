@@ -578,6 +578,18 @@ Volume 6
 Chapter 34
 -----------
 
+* On the day of swim meet [#v6c34-1]_, everyone is at the swimming pool. Noda, Ooyama and Hinata are already there and Yuri and Shiina appear wearing swimsuits.
+* Kanade announces that the relay race will begin shortly [#wis-16]_. Everyone gets ready.
+* Hinata goes first with the back stroke. Once he reaches the other side, Ooyama does the <xx>. Noda goes next.
+* When Noda reaches the other side, Shiina goes back and runs, jumps and reaches the other end of the pool, before touching the side.
+* It is announced that the SSS are the winners, but because Shiina stepped off the starting block (in the previous bullet point) and not into water, the SSS get disqualified.
+* The swimming team (2nd place) are announced as the winners. Yuri is not happy about this. Shiina says that it is fun and walks back to get changed.
+
+.. [#v6c34-1] The swimming pool interior is shown has having an elevated for people to watch [#wis-15]_.
+
+Chapter 35
+-----------
+
 Working ideas
 ================
 
@@ -595,3 +607,5 @@ Working ideas
 .. [#wis-12] In this discussion, Yuri says she feels that something is spying on them. This supports the idea of Chiyo having "left" but is still around watching over everything.
 .. [#wis-13] Chiyo would be angry that Yuri isn't showing any empathy towards the attacker.
 .. [#wis-14] Something here about Chiyo saying to Kanade to not ignore/turn down people asking for help.
+.. [#wis-15] May change the design if I can find a better design.
+.. [#wis-16] Kanade is shown in school swimsuit here (implied no shoes/socks but not visible) but will change this. In the first appearance, she is shown without a hoodie, but in the 2nd appearance, she is wearing a hoodie over her swimming costume.
