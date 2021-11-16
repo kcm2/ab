@@ -596,7 +596,7 @@ Chapter 35
     | Yuri: This makes NPCs look like they really went home. Some staying at school because of club activities.
 * Yuri announces a new operation - operation camp fire. The idea behind it being only the NPCs would have 'gone home' and only humans would be remaining at school. This event would gather them together.
 * Hinata suggests about collecting firewood but Yuri says that someone else has already prepared it.
-* The SSS go to an old, overgrown shed, somewhere on campus with firewood inside [#v6c34-1]_ [#wis-19]_.
+* The SSS go to an old, overgrown shed, somewhere on campus with firewood inside [#v6c35-1]_ [#wis-19]_.
 * **Cut down** the SSS going up to Kanade in the libiary.
 * Yuri says the bonfire used to be an activity in the school that is no longer carried out [#wis-20]_.
 * Kanade explains the history of the bonfire.
