@@ -555,7 +555,28 @@ Chapter 32
 Chapter 33
 -----------
 
-* a
+* Yuri notices a poster for a swim meet.
+* **Cut to** Yuri in the principal's office with Noda, Hinata, Ooyama and Yusa and Yuri introduces Yusa. Yuri also brings up that they have walkie talkies now.
+* While taking Yuri brings up the swim meet poster, the members of the SSS have doubts, and they discuss.
+* Noda, Hinata and Ooyama go to the swimming pool to practice as it being a long time since they swam.
+* At the same time, Yuri and Shiina goes to the student council office to register themselves for the swim meet.
+* They are called forward, and Kanade declines them as they are not a club.
+* Yuri adds 'club' to the name, and Kanade declines it again as it doesn't exist.
+* Kanade thinks that the student council shouldn't be one to deny students who want to join the school's events, allows their application.
+* Yusa comes up to Yuri/Shiina to them and informs them that Hinata and Ooyama are doing ok but Noda is struggling to do the butterfly.
+* Chaa shows up and shows he is really skilled at swimming.
+* Back in the principal's office, Yuri and Yusa discuss the other teams, Shiina enters the room in her swimsuit.
+
+Chapter 33.5
+-------------
+
+.. Attention:: This chapter/omake has not been translated into English.
+
+Volume 6
+==========
+
+Chapter 34
+-----------
 
 Working ideas
 ================
