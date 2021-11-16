@@ -652,8 +652,20 @@ Chapter 37
 Chapter 38
 -----------
 
+* In the principal's office, Chaa presents another gun, and it is given to Ooyama, who doesn't want to use it but he accepts.
+* Outside, Yuri comments that it is getting cooler and that summer has finally ended.
+* Yuri comments about having to wear the normal uniform again. She tasks Shiina with designing a new uniform.
+* They go to the handicraft club with assistance with making the uniforms and they agree. 
+* A week later, Shiina presents the uniform she has in mind - which is a ninja outfit. Yuri is not happy with this as it is too outlandish. She rejects this design.
+* Noda takes a shot as designing the uniform, and makes power-rangers outfits, which Yuri also rejects.
+* The SSS come together and design the SSS uniform and create the logo. Yuri is happy with this uniform.
+* Yuri goes to Iwasawa and Hisako and asks them to wear the uniform. Iwasawa and Hisako feel that is is odd and don't want too but Yuri says if they do, the SSS will assist them with equipment. Hisako is sold and Iwasawa follows Hisako.
+* Yuri has a message play from the PA room, and they use a megaphone to continue speaking from outside the classrooms.
 
+Chapter 39
+-----------
 
+* a
 
 Working ideas
 ================
