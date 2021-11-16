@@ -616,7 +616,25 @@ Chapter 35
 Chapter 36
 -----------
 
-* a
+* Noda, Ooyama and Hinata go to the cafeteria and ask the dinner ladies to get the ingredients for the bonfire.
+* They go back to the principal's office where Yuri is with Yusa. Chaa shows up with a gun he made.
+* Yuri mentions festival decorations, and Shiina gets excited.
+* **Cut to** Kanade reading a poster made by the SSS and overhearing 2 students talking about the bonfire.
+* **Cut to** the SSS in a clearing somewhere, building the "tower" that is set alight.
+* As the sun sets, a crowd starts to gather and they light the bonfire and the students have a good time with music, dancing and eating.
+* Kanade shows up and Hinata and Yuri shoots at her. She blocks one with hand sonic and the other grazes her cheek.
+* They then open fire on her again and she uses Hand Sonic to defend herself. Yuri panics and calls for Shiina, who is too busy having fun.
+* Hinata says that Kanade is leaving and Yuri shoots her from the back, hitting her left thigh.
+* Noda goes in for a killing blow but Kanade stops him.
+* Kanade struggles to stand up and Yuri is asking why Kanade still wants to stop the festival.
+* Kanade says "There used to be a serious problem. It was a bush fire" and "it was very tragic, this kind of event should never happen again".
+* Hinata notices that the forest/trees have caught on fire.
+* The SSS manage to put the fire out, and the NPCs got away. Yuri feels the event was a failire.
+* Chaa has caught 2 "humands" who were aware they were in the afterlife.
+* Shiina laughs, saying that she's really happy as it looks like she's about to vanish.
+
+Chapter 37
+-----------
 
 
 Working ideas
