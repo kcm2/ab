@@ -636,6 +636,24 @@ Chapter 36
 Chapter 37
 -----------
 
+* Shiina says thank you as blobs of light appear around her.
+* Yuri knocks her over and begs her to not leave and she needs her. They have a moment together.
+* Kanade leaves and the Yuri says to go to the cafeteria.
+* Yuri doesn't feel like eating, as there is scholarship money split amongst everyone and used for meal allowance and prepared by god.
+* Yuri goes to the music room where Hisako and Iwasawa are practising.
+* Yuri asks them to leave the guitar cases open to collect money for busking.
+* Hisako and Iwasawa hold another small concert in the cafeteria and people donate their meal tickets.
+* The teachers notice and break up the peformance and they run to the classrooms.
+* They go back to the cafeteria and have a meal. Hinata is confused as it's still food from god.
+* Ooyama asks how the guild will eat, Yusa (after sneaking up behind them) says they will keep stolen food and prepare it themselves.
+* Yuri asks Shiina what she did to eat and she mentions there is a place to catch fish. Yuri comments that it is quite vast and they would make a map.
+* Yuri asks Shiina to not disappear anymore.
+
+Chapter 38
+-----------
+
+
+
 
 Working ideas
 ================
