@@ -590,17 +590,46 @@ Chapter 34
 Chapter 35
 -----------
 
+* **Time skip** to what appears to be the last day before summer break. Yuri, from the principal's office notices students walking back to the cafeteria or dorms [#wis-17]_.
+* Yuri comments "we've finally entered summer season", and comments on the NPCs.
+    | Yuri: They say they're going home, but they just disappear during breaks. [#wis-18]_
+    | Yuri: This makes NPCs look like they really went home. Some staying at school because of club activities.
+* Yuri announces a new operation - operation camp fire. The idea behind it being only the NPCs would have 'gone home' and only humans would be remaining at school. This event would gather them together.
+* Hinata suggests about collecting firewood but Yuri says that someone else has already prepared it.
+* The SSS go to an old, overgrown shed, somewhere on campus with firewood inside [#v6c34-1]_ [#wis-19]_.
+* **Cut down** the SSS going up to Kanade in the libiary.
+* Yuri says the bonfire used to be an activity in the school that is no longer carried out [#wis-20]_.
+* Kanade explains the history of the bonfire.
+    | Kanade: Back then, it was held every summer at the river side.
+    | K: There was a time the flames spread into the forest resulting in a massive fire.
+    | K: Since then, they decided to abolish the activity. 
+    | Yuri: They?
+    | K: The student council.
+    | Y: So if we get your permission, we could bring back the activity.
+    | K: No.
+* Yuri is very unhappy at this, says she will still put on the event without Kanade's permission and storms out of the libiary and will be in 3 days.
+* They go to the classrooms and design campfire posters.
+* They start distrbuting the posters, Shiina gets excited.
+
+.. [#v6c35-1] It's not clear where this is located. 
+
+Chapter 36
+-----------
+
+* a
+
+
 Working ideas
 ================
 
 .. [#wis-1] To still account for the "weird" behaviour with the NPCs that Yuri talks about, this could be that Yuri might have already been shunned because of frequent outbursts over the them being npcs by the time Hinata has shown up. At this moment, it doesn't look like Yuri is friends with anyone either.
 .. [#wis-2] This means in my idea, I would need to show this, and extend this arch before HD. Unless this is covered later on in the manga, if Yuri goes over how/when she appeared.
-.. [#wis-3] This supports my idea that Kanade erased her own memory can't can't remember anything about Chiyo.
-.. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basiclly shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God".
+.. [#wis-3] This supports my idea that Kanade erased her own memory can't remember anything about Chiyo.
+.. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basically shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God".
 .. [#wis-5] They are wearing the school uniform for their gender.
 .. [#wis-6] Important to use.
 .. [#wis-7] They come from the south.
-.. [#wis-8] She could have been abaonded by a partner and left to die or be caught.
+.. [#wis-8] She could have been abandoned by a partner and left to die or be caught.
 .. [#wis-9] A bit of an important thing to remember.
 .. [#wis-10] Supports the idea that there is still a passage of time, and dates this in Spring/near to summer.
 .. [#wis-11] Supports the idea that when Yuri plays at the end, Kanade is surprised/shocked that Yuri can play. (Little Busters full)
@@ -609,3 +638,7 @@ Working ideas
 .. [#wis-14] Something here about Chiyo saying to Kanade to not ignore/turn down people asking for help.
 .. [#wis-15] May change the design if I can find a better design.
 .. [#wis-16] Kanade is shown in school swimsuit here (implied no shoes/socks but not visible) but will change this. In the first appearance, she is shown without a hoodie, but in the 2nd appearance, she is wearing a hoodie over her swimming costume.
+.. [#wis-17] Two 'NPCs' talking to each other say "you going back home this summer break". It's not clear at this stage (V6C35) where they go or what happens, but this is an important thing to notice.
+.. [#wis-18] What happens to the NPCs need explaining.
+.. [#wis-19] This location, as a shed in the middle of nowhere, seems a good thing to use.
+.. [#wis-20] This would need to be something Chiyo needs to do.
