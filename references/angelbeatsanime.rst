@@ -146,10 +146,61 @@ Episode 6
 * Naoi mentions creating a prison for Kanade, and learning hypnotism.
 * <to continue>
 
+Episode 7
+-----------
 
+* the sss are in the printials office relaxing naoi hyptontises hinata otonashi scolds him
+* yuri brings otonashi and naoi to a private room and asks naoi to help regain otonashi's memories 
+* otonashi takes a seat and starts to remember memories with hatsune
+* <to do> get convesations with hatsune
+   * hatsune spent the past 2 years in hospital **** 
+   * otonashi sneaks hatsune out 
+   * hatsune doesn't see any of the christmas lights ---- idea for hatsune to wish to see this
+   * hatsune dies on his back
+   * sometime later, otonashi moves out
+   * when otonashi goes past a hospital, he gets inspired to be a doctor and studiues hard
+   * he goes to take his exams and is on the train, and it crashes
+* hatsune wakes up again and says he needs some time alone
+14 mins - otonashi regerts
+* otonashi goes to the roof where yuri is and they talk a bit
+* back in the principal's roof, they plan for monster stream - a fishing trip
+* on the way there, they walk past kanade where she is tending the flowers  and he invites her to come along fishing
+* kanade says it's against the rules to go down there 
+* otonashi pulls her along anyway and the sss is against it at first
+* they start fishing, kanade jumps in the air , and activates the clones
+* they serve the rest of the studetns the dinner
+* otonashi asks kanade to stay and not fight, and be with her
+* during cleanup, yuri stumbles along injured, she says kanade attacked her = evil kanade shows up on the school roof
 
+Episode 8
+-----------
 
+* evil kanade jumps down from the roof and starts attacking the SSS but yuri defends
+* kanade steps in to help and gets fatelly injured and is unconsious in the infirmary
+* <conversation about her powers>
+* yuri asks to buy time
+* yuri accesses kanade's computer and edits the ability settings
+* yuri goes back to the infirmary to see kanade with the sss but the bed she was staying in has been ransacked
+* yuri says they need to find the normal kanade, after sometime, they gather that kanade is in the guild
+* the sss make their way to the guild when some evil kanade's attack them 
+* they move further down and attack the next one and keep moving further down the guild
+* yuri, otonashi and yui reach the bottom the guild.
+* otonashi goes on his own to find the original kanade while yuri takes on a clone
+* otonashi asks kanade to use harmonics, and she does
+* the other kanade mentioned about the other clones will go inside her, and asks if kanade will be ok after and they start going back inside kanade
 
+Episode 9
+-----------
+
+* kanade, with yuri and otonashi are in the infirmary at night. yuri blames herself ------ yuri turning point
+* yuri goes back to the principials office and the sss talk about the situation, the sss are not sure who she'll be
+* yuri sents christ, with 2 unnamed sss members to angel's bedroom who can understand the manual who make changes to angel player
+--- start of otonashi's flashback
+date of crash is 14 jan, and otonashi wakes up at 1:23am on the 15th of jan
+on day 7, otonashi signs the donor card
+-- end of ofonathi flashback
+otonashi wakes up and kanade is awake
+<notes>
 
 
 
