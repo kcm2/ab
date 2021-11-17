@@ -670,6 +670,9 @@ Chapter 39
 * TK shows up and they quickly assume his human by the random stuff he says. He 'dances' with her and he 'accidently' throws her at the wall.
 * TK continues to say his weird lines, confusing everyone.
 * Yuri and the SSS discuss but are unable to say why TK is behaving like he does.
+* Yuri thinks that TK has "Savant syndrome" [#v6c39-1]_, and that might explain TK.
+
+.. [#v6c39-1] This is a real condition where prodigious talent can co-occur with a development condition such as autism.
 
 Chapter 39.5
 -------------
@@ -685,7 +688,47 @@ Volume 7
 Chapter 40
 -----------
 
-* a
+* As the SSS leaves the principal's office, they ask how they will know if TK has Savant syndrome and Yuri says they will test and find out.
+* They go to the music room and sit TK in front of a piano and play some classicial music. TK plays some basic melody and stops, proudly.
+* Yuri shouts "that's a completly different song" and kicks TK.
+* They go to the art room and sit TK in front of an easel and hand him a paintbrush. He draws a basic house like a child would. Yuri is unhappy and kicks him again.
+* Yuri takes TK to a classroom and writes down a the numbers of pi (``3.141592...``) and asks TK to memorise them before erasing the numbers off the board. TK starts reciting them (``3.15...``) and gets it wrong. Yuri is unhappy, again.
+* Yuri asks him what he wants to do, and TK says song lyrics. Yuri kicks him, again, and asks Yusa to get Chaa.
+* Chaa hands Yuri another gun. She asks how things are going and he replies "so-so", but there is someone he's worried about, but doesn't expand on this and leaves.
+* The SSS take TK to somewhere in the forst, and Yuri asks if he can shoot an empty can.
+* TK jumps, shoots, and nearly hits Yuri. She kicks him, again.
+* Yuri asks them to hold TK so he stops dancing. Hinata and Noda hold TK and TK shoots at the cup again and the bullet skims the can.
+* Yuri, impressed, asks them to do it again but Hinata has concerns and that they don't even know his name.
+* Yuri and Hinata talk together, and Yuri mentions she wants to have the SSS formed before it blooms.
+* Noda adds that because everyone's been saying "that guy from whatever kingdom come" [#v7c40-1]_ then he should be called "TK".
+* TK likes it and accepts it as his name.
+
+.. [#v7c40-1] TK's name comes from "tonikaku kiteru" (とにかく 来てる) which means, in general, "then somehow he just came" or "then he appeared out of nowhere".
+
+Chapter 41
+-----------
+
+* In the principal's office, Yuri is leaning out the window saying "summer vacation" is over already and the NPCs will be returning soon and they don't have much time left to find humans.
+* Yuri is looking for some ideas, and Noda suggests a slumber party. Yuri doesn't like it.
+* Ooyama suggests "a test of courage" and Yuri is happy with this idea, dressing up as ghosts and lurk over the mountains behind the school.
+* The SSS have produced posters and have put them up around the school. Yuri is not happy about how she is depicted on the posters. 
+* Yuri tells Hinata, Ooyama and TK to go and practice shooting, and they bond while doing so.
+* Yuri goes to see Hisako and Iwasawa about the test of courage and asks if they can help out, but it's not related to music.
+* Hisako agrees, but Iwasawa doesn't want to unless she gets to play music.
+* **Cut to** the night of the event, the posters instructed people to gather by the staircase by the classrooms at 11pm, but it was changed to 12am.
+* Yusa comments to Yuri that 86 students have joined.
+* **Cut to** the day of the event, and Kanade notices the event poster. Yuri also shows off the costumes that has been made, which are a mixture of western and eastern demons. Yuri is not happy with this.
+* Noda mentions they also made traps inside the school.
+* Noda first shows Yuri the "corridor of death". Yuri takes a step into it, slips and bangs her head on the floor. Noda mentions they have been waxed and it's really slippy.
+* Noda shows Yuri a locker with a fake candle in it, which activates a trap when opened. The trap shoots out a ball with spikes. Yuri shouts that Noda has never been to a test of courage before.
+* They go into the music room and a piano rolls towards Yuri as she enters through the door. Yuri shouts at Noda again as the traps have a risk of killing someone.
+* Yuri explains that the tests are meant to make people unnerved. As there isn't much time left, Yuri leaves Hinata and Ooyama incharge to fix things.
+* **Cut to** 11pm on the day of the event. Kanade goes to the stairs by the classrooms looking for the event, and assumes that they have cancelled the event. She says "I hope nothing bad will happen" and leaves.
+* The SSS comes out for the bushes, happy that they have managed to throw Kanade off. Which they did by delaying the event by an hour.
+* Yuri says for the others to roam around the school in the costumes, and starts the operation.
+
+Chapter 42
+-----------
 
 Working ideas
 ================
