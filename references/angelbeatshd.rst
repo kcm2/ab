@@ -730,6 +730,28 @@ Chapter 41
 Chapter 42
 -----------
 
+* Yuri welcomes everyone to the night's test of courage, and says they need to write their names on a candle and not let the flame blow out or they'll die.
+* She lets them begin and the students begin to walk around the classrooms.
+* Kanade approches them, coming from the gym. Yuri with the SSS (Shiina, Hinata, Ooyama, TK and Noda) stop her.
+* Kanade assumes it's a costume party, Yuri blames Noda with his stupid costume.
+* Yuri mentions that they have 4 guns in their arsenal and they'll stop Kanade if she gets in their way. Kanade mentions she will do because they are messing around in the middle of the night - as it's against the school rules.
+* The SSS start shooting at her. Kanade activates Distortion [#v7c42-1]_. The SSS are shocked.
+* They switch to melee and Kanade draws hand sonic. Yuri notices that Distortion has been deactivated, shoots at Kanade and hits the Hand Sonic.
+* Kanade gets in-close to Yuri and disarms her. Kanade says that Yuri is violating the swords and gun control law, and the school's rules.
+* Kanade confiscates the guns, Noda tries to attack her but she stops him. Kanade says she will tell the other students to go back to their dorms, and suggests the SSS should do so as well.
+* Yuri instructs the SSS to get to the event finish line, and to try and get the guns back.
+* Yuri, at the finish line, finds the first finishers were NPCs.
+* The rest of the SSS follow Kanade and she goes down the "corridor of death", and slips, and seaminly knocked out. The SSS were able to get their guns back.
+* Another person reaches the finish line, and they are an NPC and not a human.
+* Chaa shows up, saying he has a member that feels he would be more useful on the frontline, and they'll bring them over tomorrow.
+
+.. [#v7c42-1] This is the first time Kanade uses distortion.
+
+Chapter 43
+-----------
+
+* a
+
 Working ideas
 ================
 
