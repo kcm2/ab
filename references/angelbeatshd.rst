@@ -750,7 +750,21 @@ Chapter 42
 Chapter 43
 -----------
 
-* a
+* Chaa introduces Yuri to Fujimaki, who was found at the bonfire event.
+* Chaa says that Fujimaki used to be a Yakuza member and only knows how to use his wooden sword, and doesn't know how to use guns.
+* When Yuri talks to Fujimaki, she says he seems anxious. Yuri doesn't believe him as he stutters when talking, but hands him an SSS uniform.
+* With the SSS uniform on, Fujimaki is ready to fight but Yuri explains that they haven't found God yet and their current enemy is Kanade.
+* Noda, feeling threatened, challanges them and Hinata stops them. Yuri gives Fujimaki a gun and they go to practice shooting under one of the bridges.
+* Fujimaki tries shooting and is surprised by the recall. He then tries shooting more but keeps missing.
+* Fujimaki then explains he was a Yakuza member, but only for 1 day and explains his history. It brings Ooyama and others to tears. Yuri comments "I can't believe he had gone through so many things".
+* Yuri says to not get too carried away with their feelings and think of what the next operation should be.
+* **Cut to** an unknown character getting the attention of Mitsumura who is looking at a poster of an upcoming tournament and that they should practice soon.
+
+Chapter 44
+-----------
+
+* A.
+
 
 Working ideas
 ================
