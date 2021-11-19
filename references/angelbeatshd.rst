@@ -763,8 +763,24 @@ Chapter 43
 Chapter 44
 -----------
 
-* A.
+* The NPC students are returning now that summer break is over. A student with glasses goes to the principal's office.
+* Yuri starts the next operation - sports festival, with the aim of finding more humans. Yuri says they will be doing the 400m relay race. The student with glasses is listening behind the door.
+* The student turns the door handle, and gets hit by the trap Noda set up. Yuri and the SSS notice him on the ground outside the building and go down to help them up.
+* They bring the student back to the principal's office and they introduce themselves. The student is Takamatsu.
+* Takamatsu says he doesn't want to stay, but came to ask the SSS a question. He explains that a classmate of his, Mitsumura, asked him for advice and that there is something he would like to achieve at the upcomign event.
+* Takamatsu explains that Mitsumura was a sprinter when he was alive, and during a sports festival there was a race to determine the fastest 400x relay athlets in Japan. However, he dropped the baton when it was handed to him and he came last.
+* Hinata says to himself that he knows what that feels like, but he ran away from his problems.
+* Takamatsu continues that Mitsumura wasn't able to recover from his injuries (something to his left ankle) and could only spectate with crutches. 
+* He continues that every year there is a relay race at the festival, and Mitsumura (being a class representive) and has lead his class to victories each year. However, he doesn't feel that it is enough as he only won in the same school and he saw Shiina at the swimming contest and wants to beat her.
+* Takamatsu says he doesn't have any grudges against God and that he doesn't remember how he died, but would like to solve the mystery.
+* Yuri says she will do something about it, Takamatsu leaves. She says she would like to have those two into the SSS. Yuri and Shiina go to the classroom to meet Mitsumura.
+* He comes to them and tells Shiina that he would like to beat Shiina in a race and asks to compete against her.
+* Yuri asks what happens if here to lose, which he hasn't thought about. Yuri proposes that if he was to lose, he has to join the SSS. He accepts.
 
+Chapter 45
+-----------
+
+* a
 
 Working ideas
 ================
