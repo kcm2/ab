@@ -789,10 +789,40 @@ Chapter 45
 
 .. [#v7c45-1] There seems to be the beginings of a relationship between Ooyama and Fujimaki. Not romantic but more, brothers.
 
+<thing here for idea about chiyo doing this too but an OP section that she does in>
+
 Chapter 46
 -----------
 
-* aa
+* Kanade opens the sports festival, with as a vow to compete fairly and cleanly.
+* The rest of the SSS are outside of the field fence. Yuri and Shiina show up in their PE clothes, with the relay being the last event. Yuri says she's waiting for Yusa's report.
+* The events start.
+* Yusa reports in that the 400 meter relay is about to begin. Class C is the one in last place. Yuri and Shiina start and get moving.
+* An announcement calls for the next participants to get ready. Takamatsu comes from the classrooms. Speaking to himself, says that both he and Mitsumura are stuck in the world because of Mitsumura. Mitsumura comes up from behind them and they say they will try their best.
+* Yuri goes over to class C offering Shiina. They disagree to begin with but they let Shiina into the race. The participants get called and they line up on the track.
+* Shiina and Mitsumura shake hands for a good race.
+
+Chapter 46.5
+-------------
+
+* Yuri says they must do something to assure victory with the race. Someone suggests putting laxatives in the food. Yuri disagrees.
+* She suggests an Onigiri which has been exposed to the hot sun, and a girl must hand it over. Shiina and Yusa declines.
+* They decide to dress Ooyama in a girls uniform and sends him off to give Mitsumura the Onigiri, which he accepts, but doesn't eat it.
+
+Volume 8
+==========
+
+Chapter 47
+-----------
+
+Volume 9
+==========
+
+Volume 10
+==========
+
+Volume 11
+==========
 
 Working ideas
 ================
