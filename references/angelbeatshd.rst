@@ -780,7 +780,19 @@ Chapter 44
 Chapter 45
 -----------
 
-* a
+* Takamatsu is working out, doing one handed pressups in his dorm room.
+* Yuri is practising, with Hinata at the starting line, to pass to Shiina. She finishes very quickly to the surprise of Yuri.
+* Ooyama asks if Kanade will let them take part. Hinata mentions that the swimming competition was between clubs but this is between classes. Hinata mentions there is a seat in the classroom for Yuri but it's been empty for a long time.
+* Ooyama suggests lending Shiina to the losing class. Yuri praises Ooyama, who goes to Fujimaki [#v7c45-1]_.
+* **Time skip** the day before the sports festival. Mitsumura is on the track field training, feeling down. Takamatsu approches asking if he's training. Mitsumura is unnerved and feels he may drop the baton. Takamatsu says that he will be the one to pass him the baton.
+* **The next day** the sports festival is being set up. Shiina is excited
+
+.. [#v7c45-1] There seems to be the beginings of a relationship between Ooyama and Fujimaki. Not romantic but more, brothers.
+
+Chapter 46
+-----------
+
+* aa
 
 Working ideas
 ================
