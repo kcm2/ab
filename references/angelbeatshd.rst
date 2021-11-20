@@ -813,7 +813,7 @@ Volume 8
 ==========
 
 .. NOTE:: 
-    | Right now, the people in the world are (in order of appearance/introduction): Hinata, Kanade, Yuri, Ooyama, Chaa, Iwasawa, Hisako, Noda, Shiina, Naoi (not introduced), Yusa, TK, Fujimaki, Takamatsu.
+    | Right now, the people in the world are (in order of appearance/introduction): Hinata, Kanade (1), Yuri, Ooyama, Chaa, Iwasawa, Hisako, Noda, Shiina, Naoi (not introduced), Yusa, TK, Fujimaki, Takamatsu.
     | The following have not been introduced yet: Matsushita, Irie, Sekine, Takeyama, Yui.
 
 Chapter 47
@@ -871,3 +871,21 @@ Working ideas
 .. [#wis-20] This would need to be something Chiyo needs to do.
 .. [#wis-21] This would need explaining how students don't have memories of not dying.
 .. [#wis-22] Chiyo could be angry that Yuri repeatedly misleads people with how the world works, and keeping them from moving on for her own gain.
+
+Character introductions
+======================== 
+
+* Hinata. (1)
+* Kanade. (1)
+* Yuri
+* Ooyama
+* Chaa
+* Iwasawa
+* Hisako
+* Noda
+* Shiina ()
+* Naoi (introduced 29 but not named)
+* Yusa. (introduced xx, named 32)
+* TK. (39)
+* Fujimaki. (43)
+* Takamatsu. (44)
