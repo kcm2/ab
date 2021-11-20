@@ -812,6 +812,10 @@ Chapter 46.5
 Volume 8
 ==========
 
+.. NOTE:: 
+    | Right now, the people in the world are (in order of appearance/introduction): Hinata, Kanade, Yuri, Ooyama, Chaa, Iwasawa, Hisako, Noda, Shiina, Naoi (not introduced), Yusa, TK, Fujimaki, Takamatsu.
+    | The following have not been introduced yet: Matsushita, Irie, Sekine, Takeyama, Yui.
+
 Chapter 47
 -----------
 
@@ -828,7 +832,10 @@ Chapter 47
 Chapter 48
 -----------
 
-* 
+* Iwasawa is in the band room, Hisako comes in with some snacks saying to take a rest.
+* Hisako startles her as Iwasawa is focused.
+* Iwasawa stares out the window saying that when she "snaps back" it reminds her of when she woke up there and she got her voice back. It surprised her but made her happy at the same time.
+
 
 Volume 9
 ==========
