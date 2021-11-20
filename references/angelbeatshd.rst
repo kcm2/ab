@@ -835,7 +835,18 @@ Chapter 48
 * Iwasawa is in the band room, Hisako comes in with some snacks saying to take a rest.
 * Hisako startles her as Iwasawa is focused.
 * Iwasawa stares out the window saying that when she "snaps back" it reminds her of when she woke up there and she got her voice back. It surprised her but made her happy at the same time.
+* **Cuts to** the outside, a guy appears on a bench. He comments "my eyes! I can see" and "The bright sunshine, the bright blue sky, I miss it!".
+* He sees two students near by, he goes to them, grabs one and throws them over his shoulder in a jodo move. He comments "I can fight".
+* Kanade appears, saying he is quite strong and it's time for class so she should go back to his classroom.
+* Matsushita is unsure how he arrived and Kanade comments that he is in the aferlife and he will be rewarded if he behaves.
+* He walks past her and she asks where he's going. He replies that he realised that you won't get anything if you stick to the rules.
+* To himself, he comments that he doesn't matter about getting rewarded or not and he just wants to recall the things he missed over the years.
+* Takamatsu is watching over them from a classroom [#v8c48-1]_.
 
+.. [#v8c48-1] This is a callback to `chapter 11 <chapter-11>`_, where Hisako was watching over Iwasawa.
+
+Chapter 49
+-----------
 
 Volume 9
 ==========
