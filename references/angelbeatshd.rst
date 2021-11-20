@@ -843,7 +843,7 @@ Chapter 48
 * To himself, he comments that he doesn't matter about getting rewarded or not and he just wants to recall the things he missed over the years.
 * Takamatsu is watching over them from a classroom [#v8c48-1]_.
 
-.. [#v8c48-1] This is a callback to `chapter 11 <chapter-11>`_, where Hisako was watching over Iwasawa.
+.. [#v8c48-1] This is a callback to `chapter 11 <angelbeatshd#chapter-11>`_, where Hisako was watching over Iwasawa.
 
 Chapter 49
 -----------
