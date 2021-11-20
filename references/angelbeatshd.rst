@@ -815,6 +815,21 @@ Volume 8
 Chapter 47
 -----------
 
+* The contenders are ready at the start line of the relay race, with Takamatsu also running.
+* Yuri asks if he's fast. Yusa replies she doesn't know as she didn't investigate as Yuri didn't ask.
+* The race starts, Class F in first, C in second and E in third. Someone in class B (the one Takamatsu and Mitsumura are in) trips and falls and falls behind. Class C's 2nd runner drops their baton. F is in the lead.
+* The runner for class C approches Takamatsu, and he takes off his shirt. The baton has been passed to him and he starts running. He passes 6 people and is now in 2nd place. Takamatsu passes the baton to Mitsumura. He passes class F and is in the lead.
+* Class C's runner passes the baton to Shiina and she sets off running too. She quickly catches up to Mitsumura.
+* As they approch the finish line, it is neck-and-neck with Shiina just infront of Mitsumura. Takamatsu shouts, and Mitsumura passes the finish line just infront of Shiina.
+* Mitsumura comes to tears, with Takamatsu running towards him, but Mitsumura says "thank you" and vanishes. Takamatsu is shocked. Yuri is disappointed that he disappear.
+* Back in the principal's office, Yuri explains how the world works, Yuri misleads Takamatsu with explaining how the world works [#wis-22]_.
+* Takamatsu joins the SSS.
+
+Chapter 48
+-----------
+
+* 
+
 Volume 9
 ==========
 
@@ -848,3 +863,4 @@ Working ideas
 .. [#wis-19] This location, as a shed in the middle of nowhere, seems a good thing to use.
 .. [#wis-20] This would need to be something Chiyo needs to do.
 .. [#wis-21] This would need explaining how students don't have memories of not dying.
+.. [#wis-22] Chiyo could be angry that Yuri repeatedly misleads people with how the world works, and keeping them from moving on for her own gain.
