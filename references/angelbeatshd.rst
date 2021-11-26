@@ -939,7 +939,40 @@ Chapter 54
 Chapter 55
 -----------
 
-* a
+* The festival starts, with Ooyama and Matsushita cooking udon. Yuri is getting ready, Iwasawa and Hisako with the bands and the rest roaming around the school.
+* Roaming around the school, a guy in a costume comes up to Noda with a cardboard sword. The NPC thinks they are part of the game because the SSS has weapons. Noda takes it seriously and swings his weapon and cuts the cardboard sword.
+* Noda is kicked out for his actions. Kanade adds that it's also against the school rules too.
+* Kanade adds that the line to Matsushita's udon stand is causing a problem and for the SSS to do something about it.
+* Everyone queueing and eating loves the udon. Ooyama asks for some help.
+* **Cut to** the gym where Iwasawa and Hisako are listening to the bands, feeling that nothing is really catching their attention.
+* They are about to go get something to eat but a girl is about to peform a drum solo. It catches their attention and Iwasawa and Hisako go on stage and join in.
+* **Cut to** the beauty contest is starting. Yuri and Shiina go out on stage to see.. only 10 audience members.
+* Yusa says that all of the student are queueing for Matsushita's udon. They hear Iwasawa and Hisako playing and they go to see leaving no one left in the audience.
+* Those at the udon stall notice they have underestimated the udon's power, and Matsushita announces there are only 10 bowls left.
+
+Chapter 56
+-----------
+
+* An NPC comes up to the stand, begging for a taste - even if it's just one bite.
+* He says it was his lifelong dream before he died, this shocks the SSS.
+* **Cut to** Iwasawa and Hisako playing with the girl on the band with everyone enjoying it.
+* Yuri and Shiina enter the gym. Yuri orders Shiina to stop them.
+* Hisako notices and says "beautiful maiko, are you hear to stop us?"
+* Shiina is taken aback at being called a maiko. Shiina makes the band even more popular.
+* The udon stand is still shocked at the NPC who can remember life before he died.
+* Hinata explains the battlefront and invites them to join. The NPC explains he's not sure about joining. Hinata says they don't have anymore left, but Matsushita has a spare one.
+* The NPC has a taste and also says that is amazing and "it's good to be alive..I mean, dead".
+* Yuri comes running up the udon stand saying to stop ignoring her orders, and unhappy that they made too much.
+* Matsushita mentions the NPC and Yuri starts talking to them, but the NPC starts vanishing.
+* He says that his last dream has came true - meeting a beautiful girl and he disappears.
+* **Cut to** Yuri and the SSS back in the principal's office, unhappy. 
+* Yuri is also unhappy that they found the drummer as they are an NPC.
+* Yuri gets bashful when they explain the last guy disappeared because she's beautiful.
+
+Chapter 57
+-----------
+
+* a 
 
 Volume 10
 ==========
