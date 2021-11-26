@@ -928,6 +928,17 @@ Volume 9
 Chapter 54
 -----------
 
+* Matsushita is making udon in the cafeteria kitchens with Takamatsu and Ooyama.
+* After many tries, they finish the udon and the taste is perfect and they serve it to the SSS.
+* Yuri and Shiina go to sign up for the beauty contest and goes to the student council. Kanade tells them she can't because the contest isn't affiliated with them.
+* Yuri leaves and goes to the correct club to file. They say to join they need to pass some difficult exams. The two students whisper between themselves and accept Shiina and Yuri in.
+* **Cut to** the day before the festival and the student are setting up the school.
+* Yusa tells Yuri that the outfits have been completed and she tries it on. With Yuri in a wedding dress and Shiina in a kimono.
+* An NPC, with their face hidden over hears Fujimaki and Hinata taking about the SSS' plan for the beauty contest and making the udon.
+
+Chapter 55
+-----------
+
 * a
 
 Volume 10
