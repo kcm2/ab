@@ -994,6 +994,20 @@ Chapter 58
 Chapter 59
 -----------
 
+* The party committee says they haven't got enough people signed up and think they can't do it.
+* Hinata and Ooyama come in saying they have an idea - the masquerade ball.
+* The committee thinks it could work out and isn't a bad idea.
+* Hinata throws in things the SSS will do if they accept - making the masks, the posters and getting Hisako and Iwasawa to play.
+* The committee agree to hold a masquerade ball.
+* Hinata and Ooyama go to the band room and ask for the name of the band for the poster. Iwasawa is about to say something but Hisako stops them and says the band name is "beautiful the blood".
+* Ooyama and Hinata leave. To herself, Hisako say that it's the opposite of her band when she was alive.
+* Posters are put up and students start signing up.
+* **Cut to** the day before the event, Yuri reminds them to dress like NPCs and that everything is going to plan.
+* Yuri tells Hinata and Ooyama to take the masks to the gym. As they are carrying the boxes, Hinata hears a voice he seems to reconise. Ooyama bumps into him and he drops the masks. He says "she can't be here".
+
+Chapter 60
+-----------
+
 * a
 
 Volume 10
