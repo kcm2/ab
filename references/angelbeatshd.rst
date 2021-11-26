@@ -860,6 +860,42 @@ Chapter 49
 Chapter 50
 -----------
 
+* Matsushita is confused as to what Takamatsu means, saying he's just wrestling. Takamatsu says it looks like he's having fun.
+* Matsushita asks Takamatsu if he knows about the world, which he replies that Kanade told him that it's the afterlife.
+* They go to the Judo club's dojo [#v8c50-1]_. Matsushita is susprised at what Tatami mats look like.
+* Matsushita mentions that he did paralympic judo as he was losing his vision, but lost it completly at the end. Takamatsu said that his fried disappeared from the world and he's alone.
+* Takamatsu feels that he joined the SSS for a little bit but feels like they are a cult and haven't talked to them in a while. 
+* He mentions that he saw Matsushita's throw and felt like it was love at first sight and feels Matsushita is his spirtual mate. Takamatsu gives him a uniform and they get changed. Matsushita is shocked at Takamatsu's muscles and they begin.
+* In the fight, Matsushita is impressed and asks about challanging others. Takamatsu says he wants to see Matsushita's abilities and skills as close as possible.
+* Takamatsu asks if he knows how to play baseball. They go to the track field.
+* Takamatsu pitches a fastball, and Matsushita is surprised at the stregnth. Matsushita is susprised again.
+* Takamatsu pitches again, Matsushita swings the bat and the ball goes high in the sky, he is surprised again.
+* Matsushita reflects to himself and feels that his life has changed after meeting Takamatsu.
+
+.. [#v8c50-1] It's not clear where on the school this is located from the manga. Might need to check the map to see if it's mentioned anywhere.
+
+Chapter 51
+-----------
+
+* Takamatsu is outside the classrooms in the morning, Matsushita approches and Takamatsu says he's slow. Matsushita asks if he really is challanging others and he replies that he is.
+* Matsushita is a bit unsure as he hasn't practiced. Takamatsu reassures him, saying it's not that hard and that he's not alone and shouldn't be afraid.
+* They go into the dojo and challange the club leader.
+* Matsushita fights, and is surprised at how everything looks now that he can see.
+
+Chapter 52
+-----------
+
+* Matsushita throws the dujo leader and they are defeated.]
+* The teachers come in and Matsushita and Takamatsu run away, hiding behind bushes.
+* Matsushita hugs Takamatsu saying that he hasn't has this much fun fighting others.
+* Yuri comes up shouting at Takamatsu asking why he's been fooling around.
+* Yuri makes a 4th wall break saying that the story is like Hisako and Iwasawa.
+* Matsushita introduces himself and Yuri misunderstands his last name to mean "5th Dan" but he explains, and Yuri doesn't care.
+* Yuri invites him to join, and asks Takamatsu if he will still hang out if he joins. Takamatsu says yes and he joins the SSS.
+
+Chapter 53
+-----------
+
 * a
 
 Volume 9
