@@ -987,6 +987,13 @@ Chapter 57
 Chapter 58
 -----------
 
+* Yuri explains what a masquerade ball is to the rest of the SSS.
+* Hinata looks dissatastified and Yuri asks why, Yuri says they'll get ugly looking guys to persuade the committee to change.
+* Hinata and Ooyama leave the principal's office to head to the committee room.
+
+Chapter 59
+-----------
+
 * a
 
 Volume 10
