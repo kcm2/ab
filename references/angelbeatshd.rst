@@ -845,10 +845,22 @@ Chapter 48
 
 .. [#v8c48-1] This is a callback to :ref:`chapter 11<Chapter 11>`, where Hisako was watching over Iwasawa.
 
-
-
 Chapter 49
 -----------
+
+* The SSS are having a meal in the cafeteria, talking about a new person that is starting fights.
+* **Cut to** Matsushita starting fights and doing judo on various students outside the classrooms.
+* Kanade approches them and tells them to go to class. He asks her to stop bothering him. Kanade adds that the teachers won't like it if they don't attend classes.
+* Some teachers come up from behind Kanade asking if Matsushita is the guy fighting others. He runs away heading towards the cafeteria, but some teachers are approching from infront of him.
+* Takamatsu comes up from the bridges barrier. Grabs Matsushita and pulls him over the railings from behind.
+* In the water [#v8c49-1]_, Matsushita asks Takamatsu who he is. Takamatsu introduces himself and asks if he can join in the fun.
+
+.. [#v8c49-1] They need to have fallen from the railings to appear in the water at the bottom of the bridge, but the fall isn't shown.
+
+Chapter 50
+-----------
+
+* a
 
 Volume 9
 ==========
