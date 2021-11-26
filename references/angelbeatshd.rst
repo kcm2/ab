@@ -896,10 +896,39 @@ Chapter 52
 Chapter 53
 -----------
 
-* a
+* An unknown person is doing push ups on a bar. Saying "I'm done with this one, 2 more to go" and "I guess I won't be able to make them happen".
+* **Cut to** Yuri in the principal's office and everyone is introducing themselves. Yuri says they should do a new operation now that they have 10 members.
+* Yuri brings up that the cultural festival is around the corner.
+* Yuri says that during the festival, the NPCs will have various bands playing and she wants Iwasawa/Hisako to find a bassist and a drummer. Both Iwasawa and Hisako don't want to do it as they say it feels wrong.
+* Hisako asks Iwasawa on her thoughts, Iwasawa replies she'll do whatever Hisako wants. Hisako says yes then.
+* Yuri says she and Shiina will take part in a beauty contest. Yuri says it's up to the others to come up with an idea.
+* A haunted house is suggested, as well as setting up stalls and cooking a meal that will leave a mark on everyone's mind.
+* Matsushita says he remembers a kind of Udon that is unforgettable - Ise udon. Takamatsu says he can help.
+* Yuri assigns Ooyama, Takamatsu and Matsushita to made the udon and everyone else is tasked with searching for a human.
+* **Cut to** Iwasawa and Hisako saying they don't think they can find anyone that would be useful.
+
+Chapter 53.5
+-------------
+
+.. IMPORTANT:: 
+    | This is an omake (extra or bonus) so it can easily be argued that it isn't canon and can be ignored to fit with ideas.
+
+* Yuri and Shiina are in the baths in the dorms, and Kanade comes in.
+* Yuri asks why she is there and she replies that all the students can use the dorms bathhouse.
+* Yuri thinks that Kanade is there to obliterate them, Kanade denies it and starts cleaning. Yuri feels uncomfortable, as their schedules haven't overlapped before.
+* Yuri suggests that this may be the perfect time to strike as she is defenceless. Shiina reminds her that they are in the same boat too.
+* Yuri offers to wash Kanade's back, Kanade accepts. Yuri karate chops at her back, Kanade saying to herself that it's a weird way to wash someone.
+* Yuri asks if it hurts, and Kanade replies it doesn't and is just what she needed. Yuri calls for Shiina to help. She asks Kanade if it hurts and she replies no and "a little more to the right".
+* Kanade says she feels much better now and offers to clean them (Shiina/Yuri) in return and using the same technique.
+* After, Kanade says that she had a good bath and that they (Yuri/Shiina) actually have a good side. The girls, defeated in the bathhouse, disagree.
 
 Volume 9
 ==========
+
+Chapter 54
+-----------
+
+* a
 
 Volume 10
 ==========
