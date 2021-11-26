@@ -972,7 +972,22 @@ Chapter 56
 Chapter 57
 -----------
 
-* a 
+* **Time skip** and it is now December already, and the clouds are really low. Hinata asks if it snows in this world.
+* **Cut to** Yuri, Iwasawa and Hisako listening the NPC girl playing, with Yuri being impressed.
+* The girl is grateful that Iwasawa/Hisako let them joined the band. They introduce themselves and the girl is Araki.
+* Iwasawa talks about a name for the band but Hisako stops her. 
+* **Cut to** Yuri back in the principal's office. Yuri explains that it is now December and on the 24th the school held a Christmas party and that the NPCs vanished for winter break [#wis-23]_.
+* Yuri has made everyone's party admission forms and takes them to the student council.
+* Kanade says they can't do it, because the student council didn't orgnise it, but did in the past.
+* Yuri and Shiina go to the Christmas party committee, and the 2 students on the committee declines them.
+* The committee declines them because of the fire started at the bonfire, and voilated the rules with the swimming gala. They say the SSS are trouble makers [#wis-24]_ and can't be allowed at the party.
+* Yuri goes back to the principal's office. Yuri talks about how the NPCs remember their faces.
+* Yuri has the idea of using masks and having a masquerade ball.
+
+Chapter 58
+-----------
+
+* a
 
 Volume 10
 ==========
@@ -986,7 +1001,7 @@ Working ideas
 .. [#wis-1] To still account for the "weird" behaviour with the NPCs that Yuri talks about, this could be that Yuri might have already been shunned because of frequent outbursts over the them being npcs by the time Hinata has shown up. At this moment, it doesn't look like Yuri is friends with anyone either.
 .. [#wis-2] This means in my idea, I would need to show this, and extend this arch before HD. Unless this is covered later on in the manga, if Yuri goes over how/when she appeared.
 .. [#wis-3] This supports my idea that Kanade erased her own memory can't remember anything about Chiyo.
-.. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basically shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God".
+.. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basically shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God" [#wis-25]_.
 .. [#wis-5] They are wearing the school uniform for their gender.
 .. [#wis-6] Important to use.
 .. [#wis-7] They come from the south.
@@ -1005,6 +1020,9 @@ Working ideas
 .. [#wis-20] This would need to be something Chiyo needs to do.
 .. [#wis-21] This would need explaining how students don't have memories of not dying.
 .. [#wis-22] Chiyo could be angry that Yuri repeatedly misleads people with how the world works, and keeping them from moving on for her own gain.
+.. [#wis-23] May change the exact dates here to make it fit in better. As the party is on the 24th but the students go on break on the 21st.
+.. [#wis-24] This supports that the SSS are the "social outcasts" and why no other students really interact with them [#wis-25]_.
+.. [#wis-25] This could be shown by Otonashi not being in the SSS uniform speaking to the students normally.
 
 Character introductions
 ======================== 
