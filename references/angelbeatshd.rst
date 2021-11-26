@@ -1008,10 +1008,43 @@ Chapter 59
 Chapter 60
 -----------
 
-* a
+* The night of the event, starting at 6pm, the party has started. 
+* Yuri says to find new humans.
+* Hisako is playing the guitar on the stage.
+* Ooyama notices that Hinata seems distracted. Yuri notices Kanade and puts her hair up in a ponytail.
+* Yuri goes over and starts talking to her. Kanade says "arn't they meant to talk to the opposite gender" but Yuri says she doesn't have many girl friends.
+* Kanade says she can't decline, and Yuri invites her to have some drinks and snacks.
+* Yuri and Kanade are sitting at a table and they start talking. 
+    | Y: mentions she can remember how she died.
+    | K: That's unfortunate.
+    | Y: Some say this is the afterlife.
+    | K: Yep.
+    | Y: Who made this world?
+    | K: Who knows.
+* Yuri brings up "the tree of life" and the big bang. She asks Kanade who is responsible: Humans, CPU, God.
+* Kanade asks with a lifeline, to ask the audience, but also says that her answer isn't one the 3 Yuri gave.
+* Kanade answers "Sichuan" [#v9c60-1]_.
+* **Cut to** Hinata walking around trying to talk to girls but getting turned down, while Matsushita gets surrounded by girls.
+* A girl goes up to Hinata asking if she can talk to him.
+
+.. [#v9c60-1] This is a province in China, and where mapo tofu is from [#wis-26]_.
+
+Chapter 60.5
+-------------
+
+* Yuri says that operation 'demon picnic' ended in failure and that she has gathered to members about an upcoming operation called 'angel school life'.
+* Yuri explains the operation would be to approch her peacefully, gain her trust and be her friend.
+* Otonashi says that this will end in failure again. Ooyama says that Kanade is ruthless and cruel. Yuri starts the operation immediatly.
+* The SSS then start to dote on Kanade, with them eating lunch with her, Ooyama walking them back to the dorms, Noda offering to massage their shoulders and match up hair ribbons and Yuri feeding her personally.
+* Kanade wonders why everyone is being nice to her all of a sudden, and as a thank you she makes some lunch boxes she wants to share. Except the lunch is raw liver.
 
 Volume 10
 ==========
+
+Chapter 61
+-----------
+
+* a
 
 Volume 11
 ==========
@@ -1044,6 +1077,7 @@ Working ideas
 .. [#wis-23] May change the exact dates here to make it fit in better. As the party is on the 24th but the students go on break on the 21st.
 .. [#wis-24] This supports that the SSS are the "social outcasts" and why no other students really interact with them [#wis-25]_.
 .. [#wis-25] This could be shown by Otonashi not being in the SSS uniform speaking to the students normally.
+.. [#wis-26] I feel this could/should be changed to be a more serious answer where Kanade could talk about some rough memories she has of Chiyo.
 
 Character introductions
 ======================== 
