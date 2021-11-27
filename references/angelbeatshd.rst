@@ -1157,8 +1157,24 @@ Chapter 67
 Chapter 68
 -----------
 
+* The ceremony starts, as the student councl president, Kanade reads some things out [#v10c68-1]_.
+* As the ceremony comes to an end, Yuri asks if everyone is ready.
+* Outside, the students are saying congratulations. Emlia comes up to Hisako and says to prepare for the concert.
+* They go to the cafeteria where the instruments have been set up and the students start arriving [#v10c68-2]_.
+* Hisako and Emlia start playing and Yuri starts the operation.
+* Emlia says they are approching the last song and congratulates the students on the graduation.
+* Emlia reaches out for Hisako, but Iwasawa grabs her hand.
+
+.. [#v10c68-1] It's not clear what is said in the manga as it only shows "clips", and what Kanade says isn't shown either.
+.. [#v10c68-2] It's not clear when during the day the ceremony takes place. As Yuri said they vanish at midnight, it might be this takes place in the evening.
+
 Volume 11
 ==========
+
+Chapter 69
+-----------
+
+* a
 
 Working ideas
 ================
