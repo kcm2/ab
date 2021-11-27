@@ -1044,7 +1044,21 @@ Volume 10
 Chapter 61
 -----------
 
-* a
+* Hinata turns around to look at the girl. Hinata seems to reconise her as a club manager when he was alive [#v10c61-1]_. With the mask on, the girl looks and sounds like his old manager.
+* He asks for her name, but she declines as that defeats the point of the masquerade ball. Hinata starts having a bit of a panic attack.
+* The band (Iwasawa/Hinata/Araki) start playing and the students start dancing.
+* Yuri and Kanade notice and Kanade asks if they should dance together, even though they are both girls. Yuri agrees.
+* The girl with Hinata offers the dance too, but he panicks yelling "stop" and "leave me alone" before running out of the gym.
+* It is snowing outside, Ooyama and Takamatsu go outside to him. Hinata explains that he remembered something from his past.
+* Matsushita comes outside saying that the girl he was talking to doesn't remember how she died [#wis-27]_.
+* Kanade has accidently thrown Yuri into the rafters, apologising as she forgot to turn the passive skill off.
+
+.. [#v10c61-1] Hinata's backstory is mainly explained in the VN.
+
+Chapter 62
+-----------
+
+* 
 
 Volume 11
 ==========
@@ -1078,6 +1092,7 @@ Working ideas
 .. [#wis-24] This supports that the SSS are the "social outcasts" and why no other students really interact with them [#wis-25]_.
 .. [#wis-25] This could be shown by Otonashi not being in the SSS uniform speaking to the students normally.
 .. [#wis-26] I feel this could/should be changed to be a more serious answer where Kanade could talk about some rough memories she has of Chiyo.
+.. [#wis-27] This may need to be changed to fit in with the ideas.
 
 Character introductions
 ======================== 
