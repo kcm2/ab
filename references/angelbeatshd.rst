@@ -1129,6 +1129,25 @@ Chapter 65
 Chapter 66
 -----------
 
+* Emlia catches up to Hisako at the entrance to the classroom building, saying she has discussed some matters with the members of her band, Lost Paradise. She says that they would like to peform at the graduation ceremony.
+* Hisako says that her band has already orgnised a concert.
+* Emlia invites her to join, Hisako says she needs to think about it.
+* Hisako catches up to Iwasawa asking what she and Araki are doing. Iwasawa replies that they were going to look at the flowers again.
+* Hisako is unhappy, saying that they haven't been practising. Iwasawa says "then lets go practice" and Hisako is taken aback from this and agrees. Iwasawa goes to get Araki and will meet Hisako in the band room.
+* Iwasawa and Araki enter, with Araki on her arm, late.
+* Araki kisses Iwasawa's cheek to get a bit of rice, Hisako is infurated. They practice.
+* Hisako is distracted, and they take a break from practising.
+* In the cafeteria, Hisako is having some rice and curry. She is distracted and jelous.
+* Emlia comes up to her and explains that she's feeling jelous.
+* Hisako is taken aback, shocked at Emlia implying that she's in love with Iwasawa. Hisako, being angry gets up and leaves. Emlia says to come by their club room for a bit.
+* Hisako does and they jam for a bit. Emlia asks if Hisako will joining their band for the graduation.
+* Hisako says she's still thinking about it, and to herself says she was almost tricked into agreeing. She thinks to herself and ends up staring into space.
+* Emlia invites Hisako up to the roof, and they go. Emlia asks Hisako to join again. Emlia explains that she really wants the achievement of peforming next to them but can break up after but still remain friends.
+* Hisako agrees to peform the ceremony with her.
+
+Chapter 67
+-----------
+
 * a
 
 Volume 11
