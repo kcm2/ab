@@ -1095,6 +1095,16 @@ Chapter 63
 Chapter 64
 -----------
 
+* Hisako and "Emlia" [#v9c64-1]_ talk about bands. Emlia explains that she is headhunting for members. Hisako declines but Emlia points that Iwasawa and Araki are not playing or practising.
+* Hisako declines again but gives in saying she'll jam just once.
+* Hisako and Emlia 'shread' and Hisako says she's really having fun. Hisako repeatedly tells Emlia to stop talking like a metal head and they start to play again.
+* Hisako says to herself that Iwasawa seems so far away now.
+
+.. [#v9c64-1] Not sure if this is intentional or a translation error that the name here compared to the last chapter is different.
+
+Chapter 65
+-----------
+
 * a
 
 Volume 11
