@@ -1148,7 +1148,14 @@ Chapter 66
 Chapter 67
 -----------
 
-* a
+* Students look at posters of the concert at the graduation ceremony. Some students notice that Hisako is meant to be in another band. Iwasawa sees this and is shocked.
+* **Jump to** the principal's office with Yuri shocked at Hisako is splitting away from the SSS. Yusa confirms that Hisako has joined the other band. Hinata asks what is the plan now for the ceremony.
+* Chaa comes in with a box full of weapons. He asks what are they doing in the ceremony and Yuri says she's out of ideas.
+* **Jump to** Hisako and Emlia practising. Araki and Iwasawa are looking at a poster. Yuri comes up to her and says that Iwasawa's music is essential and for them to work together. 
+* **The next day**, the day of the graduation and the students are called to arrive in the gym and the ceremony starts.
+
+Chapter 68
+-----------
 
 Volume 11
 ==========
