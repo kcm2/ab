@@ -1058,7 +1058,19 @@ Chapter 61
 Chapter 62
 -----------
 
-* 
+* After the party, the band is cleaning up and Araki says that it was a sucess.
+* **Cut to** some time later, Ooyama and Hinata are walking through the classroom corridors and says that now the party is over he feels that the weather has gotten warmer.
+* Kanade comes up behind them, she pokes Hinata's back, and she hands him a leaflet. He panics.
+* Kanade explains that because they are not graduating she has prepared the catalog of the ceremony for them. Hinata and Ooyama are confused as to what she means [#wis-28]_.
+* Surprised, they go back to the principal's office and Yuri explains that it's normal.
+    | Yuri: Of course they have them here. This is a school after all.
+* Yuri explains that if they have a 3rd year student in the SSS, they'll graduate and leave the world [#wis-29]_. She asks if anyone in the SSS is a 3rd year student and Iwasawa raises her hand.
+* Everyone in the SSS is shocked, and Iwasawa says his goodbye.
+* Yuri continues to explain: [#wis-30]_
+    | * Because the SSS are "human", they can't graduate like that.
+    | * After the entrance ceremony, they'll be assigned the same class and year.
+    | * aa
+
 
 Volume 11
 ==========
@@ -1093,6 +1105,9 @@ Working ideas
 .. [#wis-25] This could be shown by Otonashi not being in the SSS uniform speaking to the students normally.
 .. [#wis-26] I feel this could/should be changed to be a more serious answer where Kanade could talk about some rough memories she has of Chiyo.
 .. [#wis-27] This may need to be changed to fit in with the ideas.
+.. [#wis-28] The list of who is graduating could be determined by a function or report in Angel Player.
+.. [#wis-29] A note/point for me to come back to.
+.. [#wis-30] Another note for me to come back to.
 
 Character introductions
 ======================== 
