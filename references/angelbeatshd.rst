@@ -925,6 +925,9 @@ Chapter 53.5
 Volume 9
 ==========
 
+.. NOTE:: 
+    | The following have not been introduced yet: Irie, Sekine, Takeyama, Yui.
+
 Chapter 54
 -----------
 
@@ -1041,6 +1044,9 @@ Chapter 60.5
 Volume 10
 ==========
 
+.. NOTE:: 
+    | The following have not been introduced yet: Irie, Sekine, Takeyama, Yui.
+
 Chapter 61
 -----------
 
@@ -1105,6 +1111,24 @@ Chapter 64
 Chapter 65
 -----------
 
+* **The next day**, Hisako is going through the corridors and runs into Iwasawa.
+* Iwasawa says that she is going to the libiary, because Araki wants to. Hisako storms away, jelous.
+* Iwasawa finds Araki in the libiary, talking about what books they like. Araki gives Iwasawa a book on music theory.
+* Iwasawa gets dizy and passes out. She wakes up Araki's lap somewhere outside.
+* Iwasawa feels ashamed because she doesn't understand the basic parts of music theroy. Araki reassures her and says she should stick to her own style.
+* In the classroom building, Ooyama and Fujimaki say that they have finished putting up all the posters.
+* Kanade comes from behind them and takes it down, saying they need permission from the student council first.
+* **Jump to** the principal's office with Yuri not surprised. Yuri goes to the student council's office to neogtiate.
+* Yuri says that Kanade is cool (relaxed) and the vice-president looks reliable and should approve it.
+* Yuri goes into the student council office and Naoi says they won't get permission with their behaviour. He introduces himself as the newly elected vice-president. 
+* Yuri shoves him out of the way saying he was asking the president (Kanade). She declines them because they have been breaking the school rules.
+* Yuri appologies saying they won't do it again. Kanade accepts this but Naoi interjects saying that since he's became vice president, they've been skipping classes and disrupting others [#wis-33]_.
+* Kanade then repeats him and says she won't accept it that easily. Naoi adds that the council won't ever accept propsals from the SSS, and kicks them out of the office [#wis-34]_.
+* Speaking to Hinata, Yuri says that they need to prepare again, and think of other ways to plan the concert.
+
+Chapter 66
+-----------
+
 * a
 
 Volume 11
@@ -1145,6 +1169,8 @@ Working ideas
 .. [#wis-30] Another note for me to come back to.
 .. [#wis-31] An idea that they meet again.
 .. [#wis-32] A good important note.
+.. [#wis-33] In the gap between the end of the manga and the anime, Naoi could be the one pressuring Kanade to be more agressive to the SSS and more pro-active at stopping them.
+.. [#wis-34] Naoi could use his position to brainwash Kanade into doing things, in a bid to find information out about Chiyo.
 
 Character introductions
 ======================== 
