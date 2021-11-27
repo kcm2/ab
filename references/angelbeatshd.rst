@@ -1078,6 +1078,23 @@ Chapter 62
 Chapter 63
 -----------
 
+* Iwasawa goes to Araki and asks if they can talk as Iwasawa wants to be closer to her.
+* They go to the cafeteria to have something to eat. Araki picks the red bean ice and goes to order it.
+* Iwasawa sneezes because Hisako was talking about her, Hisako spying from around the corner. Iwasawa and Araki eat together.
+* After, they go to play badminton and Iwasawa struggles as she's not played it before. Hisako watching from behind the fence.
+* They say goodbye for the day, with flower viewing tomorrow.
+* Hisako meets back up with Iwasawa and asks how the date with Araki went.
+* **Back to** the principal's office with Yuri, they start the operation with making posters and spreading them around the school.
+* Yuri adds to make the posters say that it's a midnight concert and the NPCs disappear at midnight [#wis-32]_ and everyone who didn't disappear must be a human.
+* **The next day** Araki and Iwasawa are looking at the flower garden. 
+* Araki comes over to Iwasawa having caught a butterfly in her hands. Iwasawa tries to catch it.
+* Hisako, watching from afar has a pain in her chest. Iwasawa and Araki talk.
+* Iwasawa explains that her favourite animal is a crow.
+* Hisako, "angry" storms away going back to the classrooms. Another student goes up to her saying that she is the main vocalist of a band called "Lost Paradise" called Emily.
+
+Chapter 64
+-----------
+
 * a
 
 Volume 11
@@ -1117,6 +1134,7 @@ Working ideas
 .. [#wis-29] A note/point for me to come back to.
 .. [#wis-30] Another note for me to come back to.
 .. [#wis-31] An idea that they meet again.
+.. [#wis-32] A good important note.
 
 Character introductions
 ======================== 
