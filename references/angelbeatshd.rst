@@ -1067,10 +1067,18 @@ Chapter 62
 * Yuri explains that if they have a 3rd year student in the SSS, they'll graduate and leave the world [#wis-29]_. She asks if anyone in the SSS is a 3rd year student and Iwasawa raises her hand.
 * Everyone in the SSS is shocked, and Iwasawa says his goodbye.
 * Yuri continues to explain: [#wis-30]_
-    | * Because the SSS are "human", they can't graduate like that.
-    | * After the entrance ceremony, they'll be assigned the same class and year.
-    | * aa
+    | - Because the SSS are "human", they can't graduate like that.
+    | - After the entrance ceremony, they'll be assigned the same class and year.
+    | - The 3rd year NPCs graduate and disappear, and replaced by new 1st year NPCs.
+* Iwasawa realises that Araki will disappear [#wis-31]_ and she isn't happy with this.
+* Yuri suggests holding a concert for the ceremony.
+* Iwasawa and Hisako leave the principal's office. Iwasawa feels sad because she doesn't know anything about Araki and Hisako points out that now is the perfect time to find out.
+* As Iwasawa goes to see Araki, a shadowed girl is seen from behind.
 
+Chapter 63
+-----------
+
+* a
 
 Volume 11
 ==========
@@ -1108,6 +1116,7 @@ Working ideas
 .. [#wis-28] The list of who is graduating could be determined by a function or report in Angel Player.
 .. [#wis-29] A note/point for me to come back to.
 .. [#wis-30] Another note for me to come back to.
+.. [#wis-31] An idea that they meet again.
 
 Character introductions
 ======================== 
