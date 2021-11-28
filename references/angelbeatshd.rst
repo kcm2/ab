@@ -1251,9 +1251,27 @@ Chapter 73
 Chapter 74
 -----------
 
-* a
+* **At some point in the future** the SSS are attacking Kanade, who is using Distortion.
+* A girl wakes up, initially shocked that she's awake but then quickly confused at what all the shooting is.
+    | *What is this!? War!? When did Japan get into a war!?
+* Yusa notices the girls's appearance, and alerts Yuri. Who sends Shiina to protect her.
+* Kanade approches the girl, but Shiina comes down and pushes Kanade back. Shiina takes the girl to safety.
+* The battle between Kanade and the SSS continues.
+* Back in the principal's office, the girl, Sekine introduces herself.
+* Yuri says that she's a member of the battlefront and will fight with them. Sekine says she can't and ask them to not make her do it.
+* Yuri looks at her and says that Sekine has a tsukkomi act [#v11c74-1]_.
+* Hinata says she could be a fit in with the band. Yuri dismisses this but Sekine says she can play bass.
+* Yuri introduces Sekine to Iwasawa. Iwasawa is happy that they can have a 4th member, Sekine is happy that she can avoid the gun fights.
+* Sekine goes into the band room, and Hisako and Irie introduce themselves. Sekine says to herself "why this weak girl (Irie) is the drummer".
+* They start to practice. Sekine is confident but loses it quickly. Hisako says that Sekine is terrible but she retorts that the band are at a professional level.
+* Hisako makes Sekine stay and practice until tomorrow's rehearsal.
 
+.. [#v11c74-1] A character arch-type that doesn't laugh at jokes and shoots down other's jokes. Like Kyon from Haruhi. A straight man.
 
+Chapter 75
+-----------
+
+* 
 
 Working ideas
 ================
@@ -1318,4 +1336,5 @@ Character introductions
 * Araki (57, vanished 70)
 * Emily/Emlia (63, vanished 70)
 * Irie. (71)
+* Sekine. (74)
 
