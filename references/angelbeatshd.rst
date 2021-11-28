@@ -1213,6 +1213,10 @@ Chapter 71
 Chapter 72
 -----------
 
+* In the middle of the night, Irie is really tired and doubts that she can do it.
+* Irie gets up and sits against the wall, talking about her past:
+    | Irie: I'm alone again. Why can't I do something about this. It always seems like that.. 
+    | I'm always being teased because of my personality. That's the reason I died. I definteitly bothered everyone when I came to this world.
 * a
 
 
