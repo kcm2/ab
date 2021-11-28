@@ -1188,12 +1188,12 @@ Chapter 70
 * She is able to defend and block the bullets and activates distortion. Noda charges her but she stabs him.
 * All of the SSS have been defeated and Kanade does inside.
 * As the song concludes, Iwasawa yells congratulations and the students vanish [#wis-35]_.
-* Hisako is really shocked that everyone has disappeared. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there were no humans there. Emlia and Araki vanished with them too.
+* Hisako is really shocked that everyone has disappeared [#v11c70-1]_. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there were no humans there. Emlia and Araki vanished with them too.
 * Kanade says she didn't give them permission for the concert.
 * Yuri asks why she can be so calm when a lot of students just disappeared. Kanade replies that it is normal. Yuri is disgusted and says they'll defeat her one day.
     | *"You weren't surprised by anything huh? As expected of Angel. But from now on, we'll keep seeking revenge on God. Someday, we will even defeat you."*
 
-.. [#v11c70] Yuri said (in :ref:`chapter 63<Chapter 63>`) that they disappear at midnight, but it's not clear what time this is taking place at [#wis-36]_.
+.. [#v11c70-1] Yuri said (in :ref:`chapter 63<Chapter 63>`) that they disappear at midnight, but it's not clear what time this is taking place at [#wis-36]_.
 
 Chapter 71
 -----------
@@ -1273,7 +1273,7 @@ Chapter 75
 
 * In the night, Sekine is still practicing, she feels that it's impossible. Irie comes in with drinks.
 * Sekine says that Irie is really good, but she dismisses her saying that she hadn't touched the drums before she arrived.
-* Sekine asks how long Irie has been practicing and Irie reluctantly says 6 years. Irie says she will have to practise, and reassures Sekine. Irie says to practise together.
+* Sekine asks how long Irie has been practicing and Irie reluctantly says 6 years [#v11c75-1]_. Irie says she will have to practise, and reassures Sekine. Irie says to practise together.
 * The next day, Hisako is angry at Sekine as she keeps making mistakes and that she hasn't gotten better.
 * Hisako doesn't think that Sekine is taking things seriously and Sekine calls her a monster.
 * Hisako didn't like that and asks again but Sekine says it should be the name of the band. Sekine suggests "Girls and Monster" but Iwasawa changes "and" to "dead" to form "Girls Dead Monster" as they are all dead. GirlDeMo for short.
