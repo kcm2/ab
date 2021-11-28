@@ -1183,7 +1183,27 @@ Chapter 69
 Chapter 70
 -----------
 
+* The SSS stop Kanade on the bridge. Someone shoots near her and the SSS say they won't let her pass. Kanade activates Hand Sonic.
+* Fujimaki opts to use his sword, Matsushita his fists and Noda his weapon. They shoot at Kanade.
+* She is able to defend and block the bullets and activates distortion. Noda charges her but she stabs him.
+* All of the SSS have been defeated and Kanade does inside.
+* As the song concludes, Iwasawa yells congratulations and the students vanish [#wis-35]_.
+* Hisako is really shocked that everyone has disappeared. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there was no humans there.
+* Kanade says she didn't give them permission for the concert.
+* Yuri asks why she can be so calm when a lot of students just disappeared. Kanade replies that it is normal. Yuri is dicusted and says they'll defeat her one day.
+    | "You weren't susprised by anything huh? As expected of Angel. But from now on, we'll keep seeking revenge on God. Someday, we will even defeat you.
+
+.. [#v11c70] Yuri said (in :ref:`chapter 63<Chapter 63>`) that they disappear at midnight, but it's not clear what time this is taking place at [#wis-36]_.
+
+Chapter 71
+-----------
+
 * a
+
+
+
+
+
 
 Working ideas
 ================
@@ -1222,6 +1242,8 @@ Working ideas
 .. [#wis-32] A good important note.
 .. [#wis-33] In the gap between the end of the manga and the anime, Naoi could be the one pressuring Kanade to be more agressive to the SSS and more pro-active at stopping them.
 .. [#wis-34] Naoi could use his position to brainwash Kanade into doing things, in a bid to find information out about Chiyo.
+.. [#wis-35] This sets the precedence for the concert at the end with Chiyo.
+.. [#wis-36] If a time is specified, this could be explained as a lot of emotion to make them disappear.
 
 Character introductions
 ======================== 
