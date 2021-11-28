@@ -1218,7 +1218,7 @@ Chapter 72
     | *I'm alone again. Why can't I do something about this. It always seems like that..*
     | *I'm always being teased because of my personality.*
     | *That's the reason I died. I definteitly bothered everyone when I came to this world.*
-* Irie falls asleep at some point.
+* Irie falls asleep at some point [#wis-38]_.
 * Hisako shouts at her to wake up. Irie apologieses. 
 * They start playing again, but Irie messes up again. Hisako is really fustrated again and sends Irie to practice on her own in a different room.
 * Irie feels that she is still useless again, but continues to try and practice for days.
@@ -1229,10 +1229,29 @@ Chapter 72
 Chapter 73
 -----------
 
+* **Some time later** In the music room, Hisako says that Irie's rhythm has improved, and moving on to the next part to practice. 
+* Irie isn't thrilled and gets confused at the different parts of the drums.
+* Hisako brings out a stero to show Irie what the end result will sound like. Irie finds it amazing.
+* Hisako says that she still needs to practice on her own.
+* While on her own, Irie feels disheartned, gives up and is about to leave the room but bumps into Hisako.
+* Hisako says she's going to the river and asks if Irie is going to the dorms as she hasn't showered in a while.
+* Irie says "it's not the same" which Hisako asks what she meant, Irie tries to shrug it off but Hisako makes her say it again.
+* Irie says even if she plays the drums, everyone will hate it. She continues:
+    | *Because that's how it's always gone. That's how it always went for me.*
+    | *I was forced to be the student council president at the last moment and because everyone's laughing stock.*
+    | *Everyone had a lot of fun, except me, being confused by myself.*
+    | *Look at that, again. Everyone's is laughing at me again.*
+    | *Surely it will be the same again. Why...*
+* Hisako pulls her in for a hug and reassures Irie, saying she noticed that Irie never gave up. Irie cries a little.
+* Irie starts to vanish a little but Yuri comes in shouting "stop disappearing" [#wis-39]_.
+* Yuri explained that she did this because Yusa told her Irie was going to disappear.
+* Irie, now motivated, goes back to practicing.
+* Late at night, Hisako asks Irie why she's startled so easily. Irie explains that it's because a ghost suddenly popped up. Hisako is confused as they are already dead.
+
+Chapter 74
+-----------
+
 * a
-
-
-
 
 
 
@@ -1276,6 +1295,8 @@ Working ideas
 .. [#wis-35] This sets the precedence for the concert at the end with Chiyo.
 .. [#wis-36] If a time is specified, this could be explained as a lot of emotion to make them disappear.
 .. [#wis-37] Supports the idea that there is a queue and a limit on the number of people that can be in the world at once as it appears she has just arrived.
+.. [#wis-38] Kanade could meet Irie here at night one time and form a bond, if she doesn't appear later.
+.. [#wis-39] Part of Irie's resolotuion could be to be the student council president when Kanade can't.
 
 Character introductions
 ======================== 
