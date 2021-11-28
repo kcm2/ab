@@ -1216,8 +1216,21 @@ Chapter 72
 * In the middle of the night, Irie is really tired and doubts that she can do it.
 * Irie gets up and sits against the wall, talking about her past:
     | *I'm alone again. Why can't I do something about this. It always seems like that..*
-    | *I'm always being teased because of my personality. That's the reason I died. I definteitly bothered everyone when I came to this world.*
+    | *I'm always being teased because of my personality.*
+    | *That's the reason I died. I definteitly bothered everyone when I came to this world.*
+* Irie falls asleep at some point.
+* Hisako shouts at her to wake up. Irie apologieses. 
+* They start playing again, but Irie messes up again. Hisako is really fustrated again and sends Irie to practice on her own in a different room.
+* Irie feels that she is still useless again, but continues to try and practice for days.
+* Hisako shouts at her to wake up again, and points out that Irie has been practicing for 4 days and she should go take a bath.
+* Irie comes back after having a bath and practice more.
+* Irie still can't play in tune, and Hisako sends her to practice on her own again.
+
+Chapter 73
+-----------
+
 * a
+
 
 
 
