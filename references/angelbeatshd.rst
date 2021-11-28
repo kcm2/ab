@@ -1286,8 +1286,26 @@ Chapter 75
 Chapter 76
 -----------
 
-* a
+* The SSS ask what this operation will involve. Yuri describes the operation to them. 
+* Yuri says that Chaa will prepare the fans and backup support.
+* The SSS get the event prepared. Irie gives Sekine the SSS uniform.
+* **Cut to** Naoi wondering what the SSS are up to. Kanade doesn't know who he's talking about [#v11c76]_.
+* **Cut to** the cafeteria, with everyone having meals. The operation starts and the main lights are turned off and the band start playing.
 
+.. [#v11c76] Kanade doesn't know who Naoi is, which could be added to [#wis-34]_.
+
+Chapter 77
+-----------
+
+* Kanade shows up on the bridge to the cafeteria. She says that she didn't give permission to hold a concert. Hinata says they won't let her stop them.
+* The concert continues, and at the climax the fans start.
+* Outside, the SSS and Kanade notice the tickets as they mistake it for snow to start with. The SSS retreat into the cafeteria.
+* The SSS then have a meal using the meal tickets.
+* Yuri thinks to herself as to how long the fight will go on for.
+* **Cut to** the present day and Hinata tells Otonashi that that's what happened.
+* Otonashi questions it and Hinata says they've spent several decades and nothing has changed.
+* Otonashi and Hinata approch the principal's office, Yuri coming out saying how long it's taking them to get back.
+* Yuri says "Welcome to the battlefront".
 
 Working ideas
 ================
