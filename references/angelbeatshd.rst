@@ -16,8 +16,8 @@ Chapter 1
 
 * The first few pages start off within the anime timeline (where Otonashi exists), where Hinata shows up to a strategy meeting in his NPC uniform as he slept in. Him and Otonashi run back to the dorms to get changed, and the flashback starts.
 * Hinata was killed by being hit by a lorry [#v1c1-1]_.
-* He wakes up on the right hand side of the classroom buildings, other students not really caring that he's suddenly appeared.
-* He is approched by Kanade who informs him that class is about to start.
+* He wakes up on the right-hand side of the classroom buildings, other students not really caring that he's suddenly appeared.
+* He is approached by Kanade who informs him that class is about to start.
 * He and Kanade run to the classroom, going past Yuri who notices, and is still in the normal uniform.
 * The other students and the teacher already know his name [#v1c1-2]_.
 * In a panic, he runs to the roof and looks out over the school [#v1c1-3]_ when Yuri kicks him off the roof.
@@ -41,13 +41,13 @@ Chapter 2
 * Kanade comes up to them and tells it's time for class.
 * Yuri goes "no u" and Kanade replies she's been given permission from the teachers.
 * Yuri thinks Kanade controls the NPCs and "she's as close to god as it gets" [#v1c2-1]_ [#wis-2]_.
-* Hinata asks if Kanade thinks God exists, she replies that she doesn't know, and can't imigine if he did exist [#wis-3]_. Hinata already thinks she is feigning ignorance.
+* Hinata asks if Kanade thinks God exists, she replies that she doesn't know, and can't imagine if he did exist [#wis-3]_. Hinata already thinks she is feigning ignorance.
 * He asks if there is there is anyone she likes/loves. She replies no.
 * Hinata asks what she would do if he were to confess, she replies she doesn't know. As he is about to ask Kanade to go out with him, Yuri kicks him off the roof. He wakes up in the infirmary.
 * Yuri talks about how love might not be a feeling in the afterlife world, and "there is no way we could fall in love". Yuri looks out the window, defeated, at this.
 * Hinata thinks that this is a good idea, and allows people to heal wounds. Hinata noticed that Yuri deflects happiness and always seems to be rushing around.
 * Yuri goes to kiss Hinata but pulls away as the joke.
-* Hinata asks if he can still get hungry even though they are dead. Yuri confirms this, and they they can sleepy too.
+* Hinata asks if he can still get hungry even though they are dead. Yuri confirms this, and that they can sleepy too.
 * Yuri is unsure if they also have sexual urges too. 
 * Hinata and Yuri go to the cafeteria.
 * Yuri says that the world is a place for people to sort their hearts out, and once they have no more regrets, they will disappear [#v1c2-2]_.
@@ -57,7 +57,7 @@ Chapter 2
 * The next day, Hinata meets Yuri on the classroom roof. 
 * A gunshot is heard. Yuri seems shocked that a gun exists in the world. They run to go find the source.
 
-.. [#v1c2-1] This is before we've been shown any of her powers, meaning Yuri had to have came to this conclusion before the start of the manga [#wis-2]_.
+.. [#v1c2-1] This is before we've been shown any of her powers, meaning Yuri had to have come to this conclusion before the start of the manga [#wis-2]_.
 .. [#v1c2-2] This seems to conflict with her behaviour in the anime.
 .. [#v1c2-3] This will need explaining what happens when the roommate is kicked out.
 
@@ -70,7 +70,7 @@ Chapter 3
 * The teachers stop Hinata and Yuri. They say "<Kanade> just went in". The teacher was about to reply but gunshots are heard.
 * They burst into the room. Kanade has blood on her [#v1c3-1]_ and sees her standing in front of the incapacitated Chaa.
 * Kanade moves, staggers, having been shot several times. Kanade leaves [#v1c3-2]_. Yuri is shocked/surprised. Hinata and Yuri go to the cafeteria.
-* They talk about Kanade and her powers. Yuri thinks that Kanade is god.
+* They talk about Kanade and her powers. Yuri thinks that Kanade is God.
 * Ooyama spots Yuri and Hinata in the cafeteria, and joins them. Yuri leaves.
 * Ooyama and Hinata talk in their dorm room at night. Hinata asks Ooyama if he thinks Kanade is the same as them. He replies that he does.
 
@@ -83,7 +83,7 @@ Chapter 4
 * Yuri and Hinata meet again on the roof of the classrooms, and discuss a plan to take the principal hostage.
 * They are about to take the principal hostage - Hinata has a bat and Yuri managed to sneak the gun out of the staff room, though it has no bullets left.
 * Yuri demands for God to come out, the principal doesn't know anything about it. He calls her insane.
-* The principal comments "why do I always have to keep dealing with this" and he further explains that he doesn't rememebr how many times it's been, and others have pulled the same stunt.
+* The principal comments "why do I always have to keep dealing with this" and he further explains that he doesn't remember how many times it's been, and others have pulled the same stunt.
 * Kanade comes into the principal's office. She goes to stab Hinata first but Yuri pulls her attention away.
 * Hinata tries to attack Kanade from behind, but Hand Sonic slices through the metal bat.
 * Hinata grabs Kanade's hand, and she throws him back against the wall. He grabs her ankle. She says that she doesn't want to hurt him.
@@ -91,7 +91,7 @@ Chapter 4
 * Yuri releases the principal. Kanade asks Yuri to hand over the gun. Yuri asks Kanade to withdraw Hand Sonic, she does so. Yuri then holds the gun to Kanade's head. Yuri demands Kanade answers. Kanade reactivates Hand Sonic, but Hinata gets in the way before she can stab Yuri.
 * Hinata "dies" in Yuri's arms on the floor. He wakes up in the infirmary. Yuri mentions Kanade destroyed the gun [#v1c4-1]_.
 * Hinata and Yuri go to the cafeteria. Hinata has Nattou and curry. Yuri thinks that Kanade is on the same level as God, or 2nd in command, and thinks that the power was given to her.
-* Yuri then says that if Kanade is the one that maintains order, they have to destroy that order and that will force god to appear.
+* Yuri then says that if Kanade is the one that maintains order, they have to destroy that order and that will force God to appear.
 * Hinata then goes back to his room. He gives Ooyama the Nattou. He makes an off-hand remark about the world being in a game, this confuses Ooyama and he replies "but I wonder how you get out of this world" and Hinata is shocked.
 * Ooyama revealed that he thought Hinata already knew.
 
@@ -102,13 +102,13 @@ Chapter 5
 
 * Hinata takes Ooyama to meet Yuri, which is on the roof of the classrooms.
 * Yuri kicks Hinata off the roof, again, and wakes up in the infirmary.
-* During the discussion, Hinata says things that hit a nerve with Yuri. "You're not as capable as you think you are. That's right, if you were by yourself you wouldn't accomplish anything."
-* Yuri, angry at this, wants to seperate saying "I don't need partners, that's right, I'll be fine by myself. It's always been like that". She leaves the infirmary.
+* During the discussion, Hinata says things that hit a nerve with Yuri. "You're not as capable as you think you are. That's right, if you were by yourself, you wouldn't accomplish anything."
+* Yuri, angry at this, wants to separate saying "I don't need partners, that's right, I'll be fine by myself. It's always been like that". She leaves the infirmary.
 * Hinata meets Ooyama outside of the classrooms.
 * Yuri is seen going up the classroom stairs.
-* During a discussion between Hinata and Ooyama, he says "Hinata, you seem like a game protaganist. You solve everyone's problems and save them. It would have been great...If I... had a friend like that." Ooyama picks up on that Yuri must be deeply troubled.
+* During a discussion between Hinata and Ooyama, he says "Hinata, you seem like a game protagonist. You solve everyone's problems and save them. It would have been great...If I... had a friend like that." Ooyama picks up on that Yuri must be deeply troubled.
 * To himself, Hinata thinks "to be on your own in this world...is really lonely".
-* Hinata also says "I've already decided..to bever leave her[Yuri] alone...to never let her feel lonely".
+* Hinata also says "I've already decided...to bever leave her[Yuri] alone...to never let her feel lonely".
 
 Chapter 6
 -----------
@@ -116,8 +116,8 @@ Chapter 6
 * Yuri goes into the classroom Kanade is in. Hinata has gone to the roof but can't find Yuri.
 * Hinata shows up at the classroom, there has been a fight and Yuri is `holding` [#v1c6-1]_ Kanade down on the ground.
 * Deranged, Yuri is demanding that Kanade spit it out, asking where "the guy pulling the strings" is. Kanade replies that she doesn't know. Yuri also says to Kanade "how about I let you taste the pain of death".
-* A teacher shows up and pulls Yuri off Kanade. Yuri continues to spout deranged comments such as "she's not human", "she's an angel with special powers". The teacher comments that he'll listen in the guidance councillers office. The teacher continues to drag her away.
-* Hinata punches the teacher, after come conversation, he hugs Yuri, who punshes him. Hinata wipes a tear from Yuri's eye, she goes to hit him again but Kanade grabs her hand. Kanade apologies to Hinata saying he has became her scapegoat. She uses a tissue/hankie to wipe his cheeks.
+* A teacher shows up and pulls Yuri off Kanade. Yuri continues to spout deranged comments such as "she's not human", "she's an angel with special powers". The teacher comments that he'll listen in the guidance councillor’s office. The teacher continues to drag her away.
+* Hinata punches the teacher, after come conversation, he hugs Yuri, who punches him. Hinata wipes a tear from Yuri's eye, she goes to hit him again but Kanade grabs her hand. Kanade apologies to Hinata saying he has become her scapegoat. She uses a tissue/hankie to wipe his cheeks.
 * Yuri announces that she is the leader of the team rebelling against God. Kanade is surprised "something like that exists?" [#v1c6-2]_.
 * Yuri believes that Kanade is the only 'NPC' that can explain themselves. She demands that Kanade smiles/laughs, because Kanade doesn't, Yuri still believes she isn't human. She tells Kanade that they are giving her the nickname "Tenshi".
 * Yuri tells Hinata that they are leaving, and Yuri remarks "I'll drag God out of you".
@@ -147,7 +147,7 @@ Chapter 7
 * Ooyama says they need to dig down 10 meters, it appears they have dug around 5 feet so far.
 * Chaa falls asleep, Yuri goes to take his gun, and holds Chaa at gunpoint. He pulls out his own gun and they standoff.
 * Hinata jumps in the way, pushing Yuri over. She gets back up and shoots Chaa, hitting him. Yuri, Hinata and Ooyama run off.
-* Resting by a tree, they talk/plan. Yuri says she is going to challange Chaa to a fight, and Kanade will referee, because she is the student council president.
+* Resting by a tree, they talk/plan. Yuri says she is going to challenge Chaa to a fight, and Kanade will referee, because she is the student council president.
 * Yuri says if she loses, then she will do anything Kanade wants. If she wins, she wants Kanade to invite her for tea in her room.
 * Yuri also says that she wants to be friends with Kanade, which she seems to respond positively to [#v2c7-1]_. Yuri also says that the guy must come for tea too. Kanade agrees, saying that is how she would want it to be too.
 
@@ -158,14 +158,14 @@ Chapter 8
 -----------
 
 * Chaa is having a dream about his partner, and wakes up in the forest.
-* Cut to Yuri showing up with a bow and arrow, tying the challange letter to the end of the arrow.
+* Cut to Yuri showing up with a bow and arrow, tying the challenge letter to the end of the arrow.
 * Hinata asks how she can even fire it.
     | H: But do you even know how to fire an arrow?
     | Y: I can picture firing it in my mind.
-    | H: [..] Imagining something and actually doing it are completly different!
+    | H: [..] Imagining something and actually doing it are completely different!
 * They go to where Chaa was last seen, and he hasn't moved.
-* Yuri shoots the arrow, and it hits him between the eyes. They run away. The letter of challange states the duel will be at 4pm today.
-* Timeskip: Yuri and Kanade at the bottom of the stairs to the track field in front of the classrooms, with Hinata and Ooyama hiding behind the bushes at the top.
+* Yuri shoots the arrow, and it hits him between the eyes. They run away. The letter of challenge states the duel will be at 4pm today.
+* **Time skip:** Yuri and Kanade at the bottom of the stairs to the track field in front of the classrooms, with Hinata and Ooyama hiding behind the bushes at the top.
 * Chaa shows up behind Ooyama and Hinata with a gun to Ooyama's head, asking why Kanade is here. They explain that Kanade is refereeing. He goes down the stairs.
 * Kanade askes for the rules, Yuri explains it's a `Ten Paces and Turn <Ten Paces and Turn>`_. 
 * They begin, Kanade counts. At 10, Yuri and Chaa both turn to face each other.
@@ -175,7 +175,7 @@ Chapter 9
 
 * Both shoot at each other. Yuri drops her gun, hit in the right arm and falls to the ground. Chaa still holds his gun out.
 * Chaa says that Yuri has lost, but Yuri says she hasn't. He shoots her again but Kanade blocks it with Hand Sonic. Hinata and Ooyama are shocked that she did.
-* Chaa asks what Kanade is doing, she says that the winner has been decided and she is conficating the gun.
+* Chaa asks what Kanade is doing, she says that the winner has been decided and she is confiscating the gun.
 * Yuri shoots over Kanade's shoulder, hitting Chaa in the head. Yuri says that she won, Kanade disagrees. 
 * Yuri says to have it decided by a 3rd party (Hinata and Ooyama). They say Yuri won, Kanade is confused.
 
@@ -185,7 +185,7 @@ Chapter 10
 * Chaa wakes up. Him, Yuri, Ooyama and Hinata are in Kanade's room [#v2c9-1]_. The room isn't what Yuri was expecting (a bed with a canopy. Kanade says there isn't one like that in the dorms.) Kanade goes to make tea for Chaa.
 * Yuri goes through Kanade's clothes, saying her pyjamas are cute (and smell good), and asks Chaa if he can check if the other clothes smell good too.
 * Chaa says that Yuri is the spitting image of his wife. Kanade returns with tea.
-* Chaa and Yuri talk about how he got married in highschool, and ran away together. Chaa says they were seperated and he ended up in the afterlife alone. He also says:
+* Chaa and Yuri talk about how he got married in high school, and ran away together. Chaa says they were separated and he ended up in the afterlife alone. He also says:
     | "because in this world, you have something that you still need to do"
 * Yuri invites Chaa to join them. Chaa says that he has become complete and he has regained all the little things he had back when he was alive.
 * Kanade says that the tea has cooled down and makes another cup. Yuri returns to smelling her clothes. She opens a draw and "finds something nice".
@@ -199,15 +199,15 @@ Chapter 11
 
 * A crow wakes Iwasawa up, who has just appeared in the school [#wis-5]_, lying on a bench. Shocked and surprised, saying that she "has a voice" and she "can speak".
 * She runs to the music room, picks up a guitar and starts singing, which catches Kanade's attention.
-* Kanade goes to the music room and Iwasawa that "you're quite good" but she needs to retun to the classrooms.
+* Kanade goes to the music room and Iwasawa that "you're quite good" but she needs to return to the classrooms.
 * Iwasawa doesn't know why she is there, Kanade explains it is because she died.
 * Iwasawa leaves, taking the guitar with her, saying "I'm not a girl who deserves to be rewarded". To herself, she says she wants to sing more. 
 * As Iwasawa is walking to class, Hisako looks down from a window.
 * NOW BACK AT PRESENT.
 * Hinata and Ooyama are talking about how there is a girl (Iwasawa) singing in various places around the school.
-* Cut to Iwasawa playing near the classrooms, with Kanade approching. Kanade asks "please go to class" and advises the teachers would confiscate the guitar. At the same time, Yuri is meeting with Hinata and Ooyama on the roof of the classrooms.
-* The teachers approch saying to go to class, notice that it's the guitar that was stolen from the music room. Iwasawa picks it up and runs into the clasroom building.
-* With the teachers following, Iwasawa corners herself at a dead end. Hisako leans through the window and pulls Iwasawa back and they hide under the windowsil. 
+* Cut to Iwasawa playing near the classrooms, with Kanade approaching. Kanade asks "please go to class" and advises the teachers would confiscate the guitar. At the same time, Yuri is meeting with Hinata and Ooyama on the roof of the classrooms.
+* The teachers approach saying to go to class, notice that it's the guitar that was stolen from the music room. Iwasawa picks it up and runs into the classroom building.
+* With the teachers following, Iwasawa corners herself at a dead end. Hisako leans through the window and pulls Iwasawa back and they hide under the windowsill. 
 * Hisako introduces herself and asks Iwasawa if she will let her fight with her.
 
 Chapter 12
@@ -216,9 +216,9 @@ Chapter 12
 * Iwasawa is confused as what Hisako meant by "fight". They go to the clubroom for the light music club.
 * Hisako expands by saying rebelling against the world by singing, and that she wants to help.
 * Hisako explains that the student council president after she arrived. She was told to behave and attend classes.
-* Hisako says she was unsure of what she was suppoed to do after hearing the world was the afterlife, but when she heard Iwasawa singing she thought it was love at first sight [#v2c12-1]_. 
+* Hisako says she was unsure of what she was supposed to do after hearing the world was the afterlife, but when she heard Iwasawa singing she thought it was love at first sight [#v2c12-1]_. 
 * Hisako says that Iwasawa is the one to be her vocalist. Hisako says she wants to form a band.
-* Hisako asks Iwasawa to strum an eletric guitar, and it resonates with her. Hisako asks Iwasawa to write a song for it.
+* Hisako asks Iwasawa to strum an electric guitar, and it resonates with her. Hisako asks Iwasawa to write a song for it.
 
 .. [#v2c12-1] Like finding a partner with the same objectives.
 
@@ -228,23 +228,23 @@ Chapter 13
 * **Time skip**, Hisako taps Iwasawa's cheek with a drink, which surprises her. Iwasawa mentions that the song is almost done called "Crow Song".
 * Iwasawa demonstrates it to Hisako. Hisako is impressed. She asks if Iwasawa would still like to group up for a band. Iwasawa is anxious it and faints.
 * Kanade is outside and hears Hisako panicking, worried that Iwasawa is dying. Kanade adds that she isn't dead. Iwasawa's stomach grumbles.
-* Jump to Iwasawa in the infirmary, eating sandwiches and snacks. "So you still need to eat in the afterlife". Hisako scolds her.
+* Jump to Iwasawa in the infirmary, eating sandwiches and snacks. "So, you still need to eat in the afterlife". Hisako scolds her.
 * Kanade says "you're not allowed to eat or drink in here" and "your body is no different from when you were alive, it's just that you can't die".
 * She leaves, saying to come to class tomorrow.
 * Hisako asks Iwasawa to take care of her body more, and that she doesn't want more people to die. They go to the roof of a building.
-* Hisako reveals that she "killed someone before" and explans that when she was alive the vocalist of the band she was in committed suicide. She blames herself for "taking my eyes off her". Iwasawa reassures her. Hisako says that she is forming a band with Iwasawa and they are holding a concert tomorrow in front of the classrooms.
+* Hisako reveals that she "killed someone before" and explains that when she was alive the vocalist of the band she was in committed suicide. She blames herself for "taking my eyes off her". Iwasawa reassures her. Hisako says that she is forming a band with Iwasawa and they are holding a concert tomorrow in front of the classrooms.
 
 .. [#v2c13-1] This takes place at the same Yuri is dealing with the bow (Ch 8).
 
 Chapter 14
 -----------
 
-* **Flashback to a younger Iwasawa in school.**
-* Some other girls are talking to each other, saying that Iwasawa is a "weird one", smart and hard to approch.
+* **Flashback** to a younger Iwasawa in school.
+* Some other girls are talking to each other, saying that Iwasawa is a "weird one", smart and hard to approach.
 * **Cut to Ch 10)** where she walks back Yuri. Iwasawa is thinking to herself. She says that the "friends" she had before brought "nothing but lies and pain", and isolated herself. She wonders if she could smile with friends.
 * **Cut to the next day**, with Iwasawa and Hisako setting up speakers in front of the classrooms.
 * Hisako scolds Iwasawa for being late. Iwasawa has doubts and Hisako reassures her. 
-* They start playing which gets everyone's attention and they peform their song outsdie of the classrooms.
+* They start playing which gets everyone's attention and they perform their song outside of the classrooms.
 * The students cheer and ask for another song. The teachers run out of the front doors, Hisako and Iwasawa run away, and hide behind a shed/small building somewhere to the east of the cafeteria as the teachers look for them.
 * Iwasawa hugs/pushes Hisako to the ground and said that she had the most fun singing, and that she needs Hisako.
 * Kanade is shown standing behind a wall after finding them. She turns and walks away.
@@ -254,13 +254,13 @@ Chapter 14
 Chapter 14.5
 -------------
 
-* A day/few days later, classmates reconise Hisako and Iwasawa and are fans of them.
+* A day/few days later, classmates recognise Hisako and Iwasawa and are fans of them.
 * Iwasawa goes to Hisako's room, while she was having a bath. Iwasawa suggests a band name, which Hisako rejects.
 * Iwasawa plays a game where she pokes Hisako's breasts and she has to guess what she was poked with. Hisako says that it tickles a lot and Iwasawa reveals that it was with the end of a piece of guitar string.
 * Iwasawa reflects and over she mentions that she isn't alone anymore after meeting Hisako.
 * Kanade knocks on her door, they panic and try to hide their guitars. Iwasawa slips on some paper and Kanade hears a thud.
 * Kanade barges in "what was that noise" and notices Hisako, topless, on top of Iwasawa.
-* Kanade is shocked, but says "it's already time for bed, so please finish in the morning". She leaves and shuts the door. Hisako goes "finish what" and is embarassed.
+* Kanade is shocked, but says "it's already time for bed, so please finish in the morning". She leaves and shuts the door. Hisako goes "finish what" and is embarrassed.
 
 Volume 3
 ==========
@@ -268,22 +268,22 @@ Volume 3
 Chapter 15
 -----------
 
-* Yuri, Hinata, Chaa and Ooyama are playing vollyball on the track (in front of the classrooms), in swimsuits. Yuri wearing the one she 'stole' from Kanade. Hinata has cuts on them because the ground is hard and not sand.
+* Yuri, Hinata, Chaa and Ooyama are playing volleyball on the track (in front of the classrooms), in swimsuits. Yuri wearing the one she 'stole' from Kanade. Hinata has cuts on them because the ground is hard and not sand.
 * Yuri asks Chaa to show them how they brought a gun into the world. He goes to somewhere in the forest [#v3c15-1]_ to a tree with a hole in it. 
-* They go in the hole and down a tunnel to a small room with electricity. Chaa mentions that the room was there to begin with and he just made it more livable. Chaa says it seems like a guard room [#wis-6]_.
+* They go in the hole and down a tunnel to a small room with electricity. Chaa mentions that the room was there to begin with and he just made it more liveable. Chaa says it seems like a guard room [#wis-6]_.
 * There is also a door in the room and Chaa says that the path continues on behind the door. He also says that the path is so long that he doesn't know where it ends.
 * Chaa says that he has lived in the room since he arrived in the world.
 * Chaa then shows them how to make objects in the world, by getting dirt similar to clay, water. He squeezes his hands together. The SSS seem to nod off but Chaa tells them to wake up and shows that the process has finished, having made a nail.
 * Chaa explains that he wanted to build a home so it didn't matter when his wife arrived. 
-* They challange themselves to make something. 2 hours later, Yuri is sucessful with creating a nail.
+* They challenge themselves to make something. 2 hours later, Yuri is successful with creating a nail.
 * Yuri says that it took 2 hours to make a nail, and asks how to make a gun. Chaa says to make each part individually and put them together, and that Chaa remembers all the details of how a gun is constructed.
 * Yuri comments:
     | "This the world of the spirts right? If that's the case, then maybe it's related in some way."
-    | "So you're saying that as long as one has a good memory and strong desire, you can recreate anything in the world".
+    | "So, you're saying that as long as one has a good memory and strong desire, you can recreate anything in the world".
     | "You can't make something as complicated as a gun quickly".
 * Chaa comments that it would take around a week, or 170 hours without stopping to make a gun.
 * Chaa says that past the door, he has only gone down 22 floors. Realising that he didn't have any food and wouldn't be able to return.
-* **Some time later**, Hinata and Ooyama return to the tree with backpacks carrying supplies. In the room, Yuri has made a pinwheel.
+* **Sometime later**, Hinata and Ooyama return to the tree with backpacks carrying supplies. In the room, Yuri has made a pinwheel.
 * They go past the door and down the path and come across Noda who attacks them.
 
 .. [#v3c15-1] In Ch 19 it's shown that they are running to the school from the south.
@@ -295,7 +295,7 @@ Chapter 16
 * Noda asks if the SSS are related to "the boss of the underground cavern", who said to Noda "if you want this game to end you have to defeat me".
 * Yuri says the world isn't like that, and offers to work together with Noda. Noda is star struck and agrees. Yuri says Noda's first task is to "kill the boss".
 * They go deeper into the cavern and are now on the 27th floor.
-* Hinata explains to Noda that the world is the afterlife and their goal is to "defeat God". Noda 'comes to his senses' and Chaa says that Yuri is his wife. Noda is shocked that he's "not the protaganist" and he's "a supporting character".
+* Hinata explains to Noda that the world is the afterlife and their goal is to "defeat God". Noda 'comes to his senses' and Chaa says that Yuri is his wife. Noda is shocked that he's "not the protagonist" and he's "a supporting character".
 * Upset, Noda runs away. Hinata feels that he doesn't have a purpose now that Chaa has joined them.
 * Hinata says they should go and find Noda. Yuri has already forgotten him. They split up to find Noda. Yuri and Chaa will go to the "boss", and Hinata and Ooyama will go look for Noda.
 * In his head, Hinata pictures a VN scene and he decides he and Chaa will go to the boss, Yuri and Ooyama will find Noda.
@@ -308,7 +308,7 @@ Chapter 17
 -----------
 
 * Hinata suggests talking to Shiina peacefully. He asks who she is and and if she is friends with Kanade/student council president.
-* Shiina swipes, and Yuri gets knocked down. Shiina approches her and is going to stab Yuri.
+* Shiina swipes, and Yuri gets knocked down. Shiina approaches her and is going to stab Yuri.
 * Hinata says something cringy and it gets Shiina's attention. She moves fast and cuts off his arm. He tells Yuri to run.
 * **Cut to another view**, Chaa and Ooyama find Noda. Noda runs and Chaa explains that Yuri/Hinata have gone to Shiina.
 * Noda is shocked at this and he runs off to go help them.
@@ -316,12 +316,12 @@ Chapter 17
 * Shiina stabs Hinata in the eye and he collapses. Yuri is shocked, and shoots Shiina.
 * Yuri carries a struggling Hinata to escape, Yuri feels ashamed that Hinata has been hurt.
 * Shiina quickly comes up behind Yuri and stabs her in the back, she collapses. Yuri crawls over to Hinata, and sits up to protect him.
-* Hinata starts passing out and starts to picture himself on a se-saw.
+* Hinata starts passing out and starts to picture himself on a see-saw.
 
 Chapter 18
 -----------
 
-* In a hallucinations, Hinata pictures him and Yuri on a se-saw. He stands on it and goes to touch her hand and Hinata grabs the knife (by the blade) Shiina is trying to stab Yuri with.
+* In a hallucination, Hinata pictures him and Yuri on a see-saw. He stands on it and goes to touch her hand and Hinata grabs the knife (by the blade) Shiina is trying to stab Yuri with.
 * Hinata sweeps Shiina's leg and knocks her over. He begins to strangle her and she slices his stomach open.
 * Hinata breaks Shiina's neck and he starts to blackout.
 * In another hallucination, Hinata is in a circle cage with Yuri outside asking if he is happy. The cage begins to shatter, and they fall. Hinata and Yuri grab each other's hands...
@@ -348,7 +348,7 @@ Chapter 20
 -----------
 
 * Kanade stands on the stairs with Ooyama, Hinata and Yuri on the floor, defending them from Shiina.
-* Shiina starts fighting Kanade. Hinata realises that if the school rules are broken, Kanade will appear to protect the denfeceless. 
+* Shiina starts fighting Kanade. Hinata realises that if the school rules are broken, Kanade will appear to protect the defenceless. 
 * While Kanade is fighting Shiina, Yuri, Hinata and Ooyama go back to the forest to find Chaa and Noda.
 
 Chapter 20.5
@@ -386,27 +386,27 @@ Chapter 23
 -----------
 
 * Hinata wakes up in the infirmary. Shiina is also in the bed next to him.
-* Yuri asks where she leart her skills, but Shiina doesn't answer. Yuri puts her hand on Shiina's cheek and asks if she would like to join the SSS. Shiina nods.
+* Yuri asks where she learnt her skills, but Shiina doesn't answer. Yuri puts her hand on Shiina's cheek and asks if she would like to join the SSS. Shiina nods.
 * Yuri explains that Kanade is the only enemy.
 * Shiina tries to speak but Yuri tells her to rest.
 * Yuri explains to Shiina that they are partners. Shiina says "so this is what partners are like" [#wis-8]_ and she falls asleep.
-* Chaa comments "seems like she had been through a more hetic life than mine" [#wis-9]_.
+* Chaa comments "seems like she had been through a more hectic life than mine" [#wis-9]_.
 * Yuri talks with where to set up their base and they pick the principal's office, and the principal will be moved to the teacher's office.
-* Yuri assigns tasks. She tasks Chaa with making guns and Hinata and Ooyama to prepare the principals office.
-* Hinata complaints and Yuri says the teachers arn't human. Hinata replies "like NPCs". Yuri likes that term and starts the operation.
+* Yuri assigns tasks. She tasks Chaa with making guns and Hinata and Ooyama to prepare the principal’s office.
+* Hinata complaints and Yuri says the teachers aren’t human. Hinata replies "like NPCs". Yuri likes that term and starts the operation.
 
 Chapter 24
 -----------
 
 * Noda is carving a giant hammer in the forest [#v4c24-1]_. 
-* Yuri and Shiina are in an currently unused classroom. Yuri asks Shiina what her name is, Shiina says she has the callsign "C7". Yuri sounds out and "Shi-na" sounds close to "C7" in Japanese and gives Shiina the name.
+* Yuri and Shiina are in a currently unused classroom. Yuri asks Shiina what her name is, Shiina says she has the callsign "C7". Yuri sounds out and "Shi-na" sounds close to "C7" in Japanese and gives Shiina the name.
 * They talk about how Shiina is so strong Shiina is and she says she trains/trained every day on how to kill people.
-* Yuri makes comments about how Shiina is like she time traveled from the past. Shiina comments that the clothes make her uncomfortable and asks if this is really Japan. Yuri is shocked.
+* Yuri makes comments about how Shiina is like she time travelled from the past. Shiina comments that the clothes make her uncomfortable and asks if this is really Japan. Yuri is shocked.
 * **Cut to** Ooyama celebrates with Hinata, saying they halted the principal's actions.
-* **Cut back** Yuri telling Shiina that she time traveled, saying that Shiina isn't from this era, and Shiina hid underground to wait for enemies to show up.
-* Yuri asks Shiina how long she hid, and she replies "roughtly 3000 days or so" (8.2 years).
+* **Cut back** Yuri telling Shiina that she time travelled, saying that Shiina isn't from this era, and Shiina hid underground to wait for enemies to show up.
+* Yuri asks Shiina how long she hid, and she replies "roughly 3000 days or so" (8.2 years).
 * Yuri says that Shiina won't have to kill again, and the SSS' target is God. Shiina makes a comment on Kanade's passion when fighting.
-* Noda burtsts into the room and shows her the trap he made - a stick of wood to bash Kanade when she knocks on the door.
+* Noda bursts into the room and shows her the trap he made - a stick of wood to bash Kanade when she knocks on the door.
 * Yuri disapproves and sends Noda away.
 * **Cut back to** Hinata going into the staff room, and telling the teacher that the seating layout for teachers and students need to change.
 * **Cut forward to** Hinata and Ooyama in the principal's office, with them now in control of his office.
@@ -426,24 +426,24 @@ Chapter 25
 * Hisako gives Yuri the keys to the light music club.
 * **Cut to** them in the in the light music club and they start playing around with instruments.
 * **Later that night**, Shiina and Yuri show Hisako and Iwasawa. Hisako doesn't feel they played very well [#wis-11]_.
-* **Cut to** the next day, Hinata, Ooyama and Noda are moving furnature into the principal's office. Ooyama, shocked says that the principal solved the haiku.
-* The guys try to come up with a way to distract the principal again, and it comes to comparing asses. Yuri shows up asking why they are doing pervered things.
+* **Cut to** the next day, Hinata, Ooyama and Noda are moving furniture into the principal's office. Ooyama, shocked says that the principal solved the haiku.
+* The guys try to come up with a way to distract the principal again, and it comes to comparing asses. Yuri shows up asking why they are doing perverted things.
 * Yuri tells them about her progress with Hisako and Iwasawa, and then leaves.
 
-.. [#v4c25-1] The students are in their school uniforms, even though it's suppoedly a Sunday.
+.. [#v4c25-1] The students are in their school uniforms, even though it's supposedly a Sunday.
 .. [#v4c25-2] Yuri comments that it will be summer soon [#wis-10]_.
 
 Chapter 26
 -----------
 
-* Yuri puts forward a plan of a live peformance, Hisako doesn't feel confident in it as they haven't practised enough.
+* Yuri puts forward a plan of a live performance, Hisako doesn't feel confident in it as they haven't practised enough.
 * Ooyama, in the principal's office, notices students outside running somewhere. He comments on this and Hinata tells him to forget about them.
 * The girls have set up an improv concert near the cafeteria, and they start playing.
 * Hisako announces that the band is disbanding, but will stay with Iwasawa. But Yuri and Shiina have to go.
 * Yuri is not happy with this. Hisako explains that their musical skills are not good enough to be band support members.
-* Hisako explains that Yuri/Shiina doesn't need to play for them anymore but they will appriciciate the backup. Yuri agrees but in exchange Hisako/Iwasawa need to write another song.
-* The teachers approch and they all run away again. Everyone meets up and eats lunch behind the staff offices. Yuri talks about the operation to get the teachers out of the staff room. She discusses a plan with multiple distractions.
-* They plan for Shiina to scale the classroom building with out supports, Hisako/Iwasawa will have a live peformance. Chaa will stand on the track field with a big canon used to fire fireworks. Noda will stand as "no one will dare approch", and Hinata/Ooyama will swap the chairs around.
+* Hisako explains that Yuri/Shiina doesn't need to play for them anymore but they will appreciate the backup. Yuri agrees but in exchange Hisako/Iwasawa need to write another song.
+* The teachers approach and they all run away again. Everyone meets up and eats lunch behind the staff offices. Yuri talks about the operation to get the teachers out of the staff room. She discusses a plan with multiple distractions.
+* They plan for Shiina to scale the classroom building without supports, Hisako/Iwasawa will have a live performance. Chaa will stand on the track field with a big canon used to fire fireworks. Noda will stand as "no one will dare approach", and Hinata/Ooyama will swap the chairs around.
 
 Chapter 26.5
 -------------
@@ -461,17 +461,17 @@ Chapter 27
 
 * Iwasawa and Hisako are in the music room composing new music, with them reviewing it.
 * **Cut to** Iwasawa and Hisako having a new concert outside of the classrooms, with a new song 'Alchemy', which gets other student's attention and Yuri goes "operation start".
-* Student's in the gym hear and run out, the teacher tells them to stop. Noda holds the teacher back.
+* Students in the gym hear and run out, the teacher tells them to stop. Noda holds the teacher back.
 * Kanade comes down some stairs from the side of the classrooms to go to Iwasawa and Hisako.
 * Someone shouts for Shiina to stop climbing up the side of the school building [#v5c27-1]_.
 * Chaa also has a big canon, pointing to a building, the teacher who notices runs away.
 * Kanade is 'pulled left and right' with all of the issues happening at once and gets confused at which one she should attend to first.
-* Yuri, from the principals office window, laughs at Kanade's confusion.
+* Yuri, from the principal’s office window, laughs at Kanade's confusion.
 * 2 teachers pin down Noda, Shiina reached the top of the building with some teachers bringing a mattress, teachers also realise the canon Chaa has is a paper canon. Yuri complaints at her plan failing.
-* Teachers return to staff room, the principal's desk has been moved to a student desk in the teacher's office. The other teachers say that this is a prank by the students.
+* Teachers return to staff room; the principal's desk has been moved to a student desk in the teacher's office. The other teachers say that this is a prank by the students.
 * The principal sits down at the desk and accepts this as his new place, much to the dismay at the other teachers.
 
-.. [#v5c27-1] This seems like the wall/corner clocest to the staff building.
+.. [#v5c27-1] This seems like the wall/corner closest to the staff building.
 
 Chapter 28
 -----------
@@ -494,7 +494,7 @@ Chapter 29
 * Yuri barges into the student council meeting and asks to speak to Kanade.
 * Yuri brings Kanade up to the roof of the classrooms, where Shiina is waiting.
 * Yuri asks if Kanade knows anything about the attacks and she comments "again?". Yuri is shocked at this has happened before. Kanade comments that the last incident happened a long time ago and shouldn't be the same person.
-    | Kanade: There's an old rumor from someone who graduated from this campus 3 years ago, it's not really worth mentioning as it's in the past.
+    | Kanade: There's an old rumour from someone who graduated from this campus 3 years ago, it's not really worth mentioning as it's in the past.
 * Yuri comments to herself that she still can't get any information out of Kanade.
 * Yuri outbursts that Kanade is too simple. Kanade is taken aback for a moment but is confused. Yuri says that it is useful information and leaves with Shiina, but Kanade is still confused.
 * **Cut to** Hinata asking another 'NPC' (who is actually Naoi) about the slasher. Naoi replies that he doesn't know, but asks Hinata "what kind of person is the student council president?".
@@ -509,11 +509,11 @@ Chapter 30
 * They walk around the classrooms with weapons, and the students are staring at them. They notice Kanade coming down the stairs, and she notices them, commenting "you guys never learn".
 * Kanade says she is confiscating the weapons, because it is morally wrong (rather than being against the school rules).
 * Yuri doesn't want to, Kanade activates Hand Sonic, and Yuri/SSS runs away.
-* Ooyama gets seperated, and pulled into an unused classroom. Hinata notices Ooyama is missing, and they go back and find that Ooyama has been attacked with scissors.
+* Ooyama gets separated, and pulled into an unused classroom. Hinata notices Ooyama is missing, and they go back and find that Ooyama has been attacked with scissors.
 * They discuss that this attacker is crazy, they split up again to find the attacker but Hinata asks Noda and Yuri for a favour.
 * Hinata explores, and finds a blood trail on the floor and follows it.
 * Hinata notices that the attacker is following them, he draws a gun and aims it above his head.
-* **Cut back** to Hinata planning with Yuri, he asks for the gun and Yuri knows he is planning to use it as a siginal.
+* **Cut back** to Hinata planning with Yuri, he asks for the gun and Yuri knows he is planning to use it as a signal.
 * **Cuts back to the present**, Hinata fires the gun and Noda swings in via the window.
 * Noda manages to get the attacker pinned down to the ground, who is actually a girl, he asks Hinata for help as holding her down is a struggle.
 * Shiina and Yuri arrive and Yuri comments that she's only attacking guys.
@@ -522,24 +522,24 @@ Chapter 31
 -----------
 
 * Ooyama wakes up and meets Hinata and Noda, who mention that Yuri is negotiating with the attacker.
-* Yuri asks the attacker for an explaination, and she replies "men" and they "... can't be forgiven" and she has decided to kill men.
+* Yuri asks the attacker for an explanation, and she replies "men" and they "... can't be forgiven" and she has decided to kill men.
 * The attacker is confused as the person dies but the next day it's like nothing happened and she keeps killing them, again and again. The three talk it over and Yuri invites the attacker to join the SSS.
 * The attacker declines
-    | Yuri: For everything to become like this must be God's idea of a practial joke, since everything is God's will.
+    | Yuri: For everything to become like this must be God's idea of a practical joke, since everything is God's will.
     | Attacker: Gods are just man's creation.
-    | Yuri: Before coming into this world, I thought the same way as you do. Here, evidence of God exisiting can be found everywhere... [#wis-12]_ 
+    | Yuri: Before coming into this world, I thought the same way as you do. Here, evidence of God existing can be found everywhere... [#wis-12]_ 
 * The attacker doesn't agree with this, and still can't stand that men exist and just wants to kill them all.
 * Yuri shrugs the attacker off "what a pain". Yuri suggests a female only team of the SSS but the attacker mentions they don't care. Yuri mentions the attacker would still attack men without being ordered and that she is too stubborn, and says "just do as you please". Yuri then leaves the room, leaving the attacker alone [#wis-13]_. 
 * Yuri explains to Hinata/Noda/Ooyama that the attacker isn't joining them.
 * **Cut to** the attacker watching the SSS walk away, while she is in the classroom.
-* As they close the curtins and says "everything will be over once we defeat that girl?" meaning Kanade.
+* As they close the curtains and says "everything will be over once we defeat that girl?" meaning Kanade.
 
 Chapter 32
 -----------
 
 * A shot showing the attacker opening a bared and chained door with "no unauthorised entry" sign in the middle of the night.
-* **Cut to** some time and the attacker goes up to Kanade and asks for the stregnth to kill people. Kanade replies she can't do that. The attacker comments that she has seen Kanade having powers that humans don't have.
-* Kanade stands up from the desk she is sitting at, saying her having powers are different from giving people the ability to kill. The attacker reasks for the ability to kill people. Kanade says she can't give out that power.
+* **Cut to** some time and the attacker goes up to Kanade and asks for the strength to kill people. Kanade replies she can't do that. The attacker comments that she has seen Kanade having powers that humans don't have.
+* Kanade stands up from the desk she is sitting at, saying her having powers are different from giving people the ability to kill. The attacker re-asks for the ability to kill people. Kanade says she can't give out that power.
 * The attacker says they are tired [#wis-14]_ and explains themselves. Kanade asks the attacker to explain what happened to them.
 * Yuri goes to the student council office and tries to find Kanade, to be told that she is on her break.
 * Yuri walks around the classrooms and comments that she has "lost track of the number of summers" she has spent in the afterlife world, and "how many more summers are there to come".
@@ -597,7 +597,7 @@ Chapter 35
 * Yuri announces a new operation - operation camp fire. The idea behind it being only the NPCs would have 'gone home' and only humans would be remaining at school. This event would gather them together.
 * Hinata suggests about collecting firewood but Yuri says that someone else has already prepared it.
 * The SSS go to an old, overgrown shed, somewhere on campus with firewood inside [#v6c35-1]_ [#wis-19]_.
-* **Cut down** the SSS going up to Kanade in the libiary.
+* **Cut down** the SSS going up to Kanade in the library.
 * Yuri says the bonfire used to be an activity in the school that is no longer carried out [#wis-20]_.
 * Kanade explains the history of the bonfire.
     | Kanade: Back then, it was held every summer at the river side.
@@ -605,11 +605,11 @@ Chapter 35
     | K: Since then, they decided to abolish the activity. 
     | Yuri: They?
     | K: The student council.
-    | Y: So if we get your permission, we could bring back the activity.
+    | Y: So, if we get your permission, we could bring back the activity.
     | K: No.
-* Yuri is very unhappy at this, says she will still put on the event without Kanade's permission and storms out of the libiary and will be in 3 days.
+* Yuri is very unhappy at this; says she will still put on the event without Kanade's permission and storms out of the library and will be in 3 days.
 * They go to the classrooms and design campfire posters.
-* They start distrbuting the posters, Shiina gets excited.
+* They start distributing the posters, Shiina gets excited.
 
 .. [#v6c35-1] It's not clear where this is located. 
 
@@ -627,10 +627,10 @@ Chapter 36
 * Hinata says that Kanade is leaving and Yuri shoots her from the back, hitting her left thigh.
 * Noda goes in for a killing blow but Kanade stops him.
 * Kanade struggles to stand up and Yuri is asking why Kanade still wants to stop the festival.
-* Kanade says "There used to be a serious problem. It was a bush fire" and "it was very tragic, this kind of event should never happen again".
+* Kanade says "There used to be a serious problem. It was a bush fire" and "it was very tragic; this kind of event should never happen again".
 * Hinata notices that the forest/trees have caught on fire.
-* The SSS manage to put the fire out, and the NPCs got away. Yuri feels the event was a failire.
-* Chaa has caught 2 "humands" who were aware they were in the afterlife.
+* The SSS manage to put the fire out, and the NPCs got away. Yuri feels the event was a failure.
+* Chaa has caught 2 "humans" who were aware they were in the afterlife.
 * Shiina laughs, saying that she's really happy as it looks like she's about to vanish.
 
 Chapter 37
@@ -639,12 +639,12 @@ Chapter 37
 * Shiina says thank you as blobs of light appear around her.
 * Yuri knocks her over and begs her to not leave and she needs her. They have a moment together.
 * Kanade leaves and the Yuri says to go to the cafeteria.
-* Yuri doesn't feel like eating, as there is scholarship money split amongst everyone and used for meal allowance and prepared by god.
+* Yuri doesn't feel like eating, as there is scholarship money split amongst everyone and used for meal allowance and prepared by God.
 * Yuri goes to the music room where Hisako and Iwasawa are practising.
 * Yuri asks them to leave the guitar cases open to collect money for busking.
 * Hisako and Iwasawa hold another small concert in the cafeteria and people donate their meal tickets.
-* The teachers notice and break up the peformance and they run to the classrooms.
-* They go back to the cafeteria and have a meal. Hinata is confused as it's still food from god.
+* The teachers notice and break up the performance and they run to the classrooms.
+* They go back to the cafeteria and have a meal. Hinata is confused as it's still food from God.
 * Ooyama asks how the guild will eat, Yusa (after sneaking up behind them) says they will keep stolen food and prepare it themselves.
 * Yuri asks Shiina what she did to eat and she mentions there is a place to catch fish. Yuri comments that it is quite vast and they would make a map.
 * Yuri asks Shiina to not disappear anymore.
@@ -657,9 +657,9 @@ Chapter 38
 * Yuri comments about having to wear the normal uniform again. She tasks Shiina with designing a new uniform.
 * They go to the handicraft club with assistance with making the uniforms and they agree. 
 * A week later, Shiina presents the uniform she has in mind - which is a ninja outfit. Yuri is not happy with this as it is too outlandish. She rejects this design.
-* Noda takes a shot as designing the uniform, and makes power-rangers outfits, which Yuri also rejects.
+* Noda takes a shot as designing the uniform, and makes Power Rangers outfits, which Yuri also rejects.
 * The SSS come together and design the SSS uniform and create the logo. Yuri is happy with this uniform.
-* Yuri goes to Iwasawa and Hisako and asks them to wear the uniform. Iwasawa and Hisako feel that is is odd and don't want too but Yuri says if they do, the SSS will assist them with equipment. Hisako is sold and Iwasawa follows Hisako.
+* Yuri goes to Iwasawa and Hisako and asks them to wear the uniform. Iwasawa and Hisako feel that it is odd and don't want too but Yuri says if they do, the SSS will assist them with equipment. Hisako is sold and Iwasawa follows Hisako.
 * Yuri has a message play from the PA room, and they use a megaphone to continue speaking from outside the classrooms.
 
 Chapter 39
@@ -689,13 +689,13 @@ Chapter 40
 -----------
 
 * As the SSS leaves the principal's office, they ask how they will know if TK has Savant syndrome and Yuri says they will test and find out.
-* They go to the music room and sit TK in front of a piano and play some classicial music. TK plays some basic melody and stops, proudly.
-* Yuri shouts "that's a completly different song" and kicks TK.
+* They go to the music room and sit TK in front of a piano and play some classical music. TK plays some basic melody and stops, proudly.
+* Yuri shouts "that's a completely different song" and kicks TK.
 * They go to the art room and sit TK in front of an easel and hand him a paintbrush. He draws a basic house like a child would. Yuri is unhappy and kicks him again.
-* Yuri takes TK to a classroom and writes down a the numbers of pi (``3.141592...``) and asks TK to memorise them before erasing the numbers off the board. TK starts reciting them (``3.15...``) and gets it wrong. Yuri is unhappy, again.
+* Yuri takes TK to a classroom and writes down the numbers of pi (``3.141592...``) and asks TK to memorise them before erasing the numbers off the board. TK starts reciting them (``3.15...``) and gets it wrong. Yuri is unhappy, again.
 * Yuri asks him what he wants to do, and TK says song lyrics. Yuri kicks him, again, and asks Yusa to get Chaa.
 * Chaa hands Yuri another gun. She asks how things are going and he replies "so-so", but there is someone he's worried about, but doesn't expand on this and leaves.
-* The SSS take TK to somewhere in the forst, and Yuri asks if he can shoot an empty can.
+* The SSS take TK to somewhere in the forest, and Yuri asks if he can shoot an empty can.
 * TK jumps, shoots, and nearly hits Yuri. She kicks him, again.
 * Yuri asks them to hold TK so he stops dancing. Hinata and Noda hold TK and TK shoots at the cup again and the bullet skims the can.
 * Yuri, impressed, asks them to do it again but Hinata has concerns and that they don't even know his name.
@@ -722,7 +722,7 @@ Chapter 41
 * Noda first shows Yuri the "corridor of death". Yuri takes a step into it, slips and bangs her head on the floor. Noda mentions they have been waxed and it's really slippy.
 * Noda shows Yuri a locker with a fake candle in it, which activates a trap when opened. The trap shoots out a ball with spikes. Yuri shouts that Noda has never been to a test of courage before.
 * They go into the music room and a piano rolls towards Yuri as she enters through the door. Yuri shouts at Noda again as the traps have a risk of killing someone.
-* Yuri explains that the tests are meant to make people unnerved. As there isn't much time left, Yuri leaves Hinata and Ooyama incharge to fix things.
+* Yuri explains that the tests are meant to make people unnerved. As there isn't much time left, Yuri leaves Hinata and Ooyama in charge to fix things.
 * **Cut to** 11pm on the day of the event. Kanade goes to the stairs by the classrooms looking for the event, and assumes that they have cancelled the event. She says "I hope nothing bad will happen" and leaves.
 * The SSS comes out for the bushes, happy that they have managed to throw Kanade off. Which they did by delaying the event by an hour.
 * Yuri says for the others to roam around the school in the costumes, and starts the operation.
@@ -732,7 +732,7 @@ Chapter 42
 
 * Yuri welcomes everyone to the night's test of courage, and says they need to write their names on a candle and not let the flame blow out or they'll die.
 * She lets them begin and the students begin to walk around the classrooms.
-* Kanade approches them, coming from the gym. Yuri with the SSS (Shiina, Hinata, Ooyama, TK and Noda) stop her.
+* Kanade approaches them, coming from the gym. Yuri with the SSS (Shiina, Hinata, Ooyama, TK and Noda) stop her.
 * Kanade assumes it's a costume party, Yuri blames Noda with his stupid costume.
 * Yuri mentions that they have 4 guns in their arsenal and they'll stop Kanade if she gets in their way. Kanade mentions she will do because they are messing around in the middle of the night - as it's against the school rules.
 * The SSS start shooting at her. Kanade activates Distortion [#v7c42-1]_. The SSS are shocked.
@@ -741,7 +741,7 @@ Chapter 42
 * Kanade confiscates the guns, Noda tries to attack her but she stops him. Kanade says she will tell the other students to go back to their dorms, and suggests the SSS should do so as well.
 * Yuri instructs the SSS to get to the event finish line, and to try and get the guns back.
 * Yuri, at the finish line, finds the first finishers were NPCs.
-* The rest of the SSS follow Kanade and she goes down the "corridor of death", and slips, and seaminly knocked out. The SSS were able to get their guns back.
+* The rest of the SSS follow Kanade and she goes down the "corridor of death", and slips, and seemingly knocked out. The SSS were able to get their guns back.
 * Another person reaches the finish line, and they are an NPC and not a human.
 * Chaa shows up, saying he has a member that feels he would be more useful on the frontline, and they'll bring them over tomorrow.
 
@@ -754,7 +754,7 @@ Chapter 43
 * Chaa says that Fujimaki used to be a Yakuza member and only knows how to use his wooden sword, and doesn't know how to use guns.
 * When Yuri talks to Fujimaki, she says he seems anxious. Yuri doesn't believe him as he stutters when talking, but hands him an SSS uniform.
 * With the SSS uniform on, Fujimaki is ready to fight but Yuri explains that they haven't found God yet and their current enemy is Kanade.
-* Noda, feeling threatened, challanges them and Hinata stops them. Yuri gives Fujimaki a gun and they go to practice shooting under one of the bridges.
+* Noda, feeling threatened, challenges them and Hinata stops them. Yuri gives Fujimaki a gun and they go to practice shooting under one of the bridges.
 * Fujimaki tries shooting and is surprised by the recall. He then tries shooting more but keeps missing.
 * Fujimaki then explains he was a Yakuza member, but only for 1 day and explains his history. It brings Ooyama and others to tears. Yuri comments "I can't believe he had gone through so many things".
 * Yuri says to not get too carried away with their feelings and think of what the next operation should be.
@@ -767,11 +767,11 @@ Chapter 44
 * Yuri starts the next operation - sports festival, with the aim of finding more humans. Yuri says they will be doing the 400m relay race. The student with glasses is listening behind the door.
 * The student turns the door handle, and gets hit by the trap Noda set up. Yuri and the SSS notice him on the ground outside the building and go down to help them up.
 * They bring the student back to the principal's office and they introduce themselves. The student is Takamatsu.
-* Takamatsu says he doesn't want to stay, but came to ask the SSS a question. He explains that a classmate of his, Mitsumura, asked him for advice and that there is something he would like to achieve at the upcomign event.
-* Takamatsu explains that Mitsumura was a sprinter when he was alive, and during a sports festival there was a race to determine the fastest 400x relay athlets in Japan. However, he dropped the baton when it was handed to him and he came last.
+* Takamatsu says he doesn't want to stay, but came to ask the SSS a question. He explains that a classmate of his, Mitsumura, asked him for advice and that there is something he would like to achieve at the upcoming event.
+* Takamatsu explains that Mitsumura was a sprinter when he was alive, and during a sports festival there was a race to determine the fastest 400x relay athletes in Japan. However, he dropped the baton when it was handed to him and he came last.
 * Hinata says to himself that he knows what that feels like, but he ran away from his problems.
 * Takamatsu continues that Mitsumura wasn't able to recover from his injuries (something to his left ankle) and could only spectate with crutches. 
-* He continues that every year there is a relay race at the festival, and Mitsumura (being a class representive) and has lead his class to victories each year. However, he doesn't feel that it is enough as he only won in the same school and he saw Shiina at the swimming contest and wants to beat her.
+* He continues that every year there is a relay race at the festival, and Mitsumura (being a class representative) and has led his class to victories each year. However, he doesn't feel that it is enough as he only won in the same school and he saw Shiina at the swimming contest and wants to beat her.
 * Takamatsu says he doesn't have any grudges against God and that he doesn't remember how he died, but would like to solve the mystery.
 * Yuri says she will do something about it, Takamatsu leaves. She says she would like to have those two into the SSS. Yuri and Shiina go to the classroom to meet Mitsumura.
 * He comes to them and tells Shiina that he would like to beat Shiina in a race and asks to compete against her.
@@ -780,16 +780,16 @@ Chapter 44
 Chapter 45
 -----------
 
-* Takamatsu is working out, doing one handed pressups in his dorm room.
+* Takamatsu is working out, doing one handed press-up in his dorm room.
 * Yuri is practising, with Hinata at the starting line, to pass to Shiina. She finishes very quickly to the surprise of Yuri.
 * Ooyama asks if Kanade will let them take part. Hinata mentions that the swimming competition was between clubs but this is between classes. Hinata mentions there is a seat in the classroom for Yuri but it's been empty for a long time.
 * Ooyama suggests lending Shiina to the losing class. Yuri praises Ooyama, who goes to Fujimaki [#v7c45-1]_.
-* **Time skip** the day before the sports festival. Mitsumura is on the track field training, feeling down. Takamatsu approches asking if he's training. Mitsumura is unnerved and feels he may drop the baton. Takamatsu says that he will be the one to pass him the baton.
+* **Time skip** the day before the sports festival. Mitsumura is on the track field training, feeling down. Takamatsu approaches asking if he's training. Mitsumura is unnerved and feels he may drop the baton. Takamatsu says that he will be the one to pass him the baton.
 * **The next day** the sports festival is being set up. Shiina is excited
 
-.. [#v7c45-1] There seems to be the beginings of a relationship between Ooyama and Fujimaki. Not romantic but more, brothers.
+.. [#v7c45-1] There seems to be the beginnings of a relationship between Ooyama and Fujimaki. Not romantic but more, brothers.
 
-<thing here for idea about chiyo doing this too but an OP section that she does in>
+<thing here for idea about Chiyo doing this too but an OP section that she does in>
 
 Chapter 46
 -----------
@@ -797,7 +797,7 @@ Chapter 46
 * Kanade opens the sports festival, with as a vow to compete fairly and cleanly.
 * The rest of the SSS are outside of the field fence. Yuri and Shiina show up in their PE clothes, with the relay being the last event. Yuri says she's waiting for Yusa's report.
 * The events start.
-* Yusa reports in that the 400 meter relay is about to begin. Class C is the one in last place. Yuri and Shiina start and get moving.
+* Yusa reports in that the 400-meter relay is about to begin. Class C is the one in last place. Yuri and Shiina start and get moving.
 * An announcement calls for the next participants to get ready. Takamatsu comes from the classrooms. Speaking to himself, says that both he and Mitsumura are stuck in the world because of Mitsumura. Mitsumura comes up from behind them and they say they will try their best.
 * Yuri goes over to class C offering Shiina. They disagree to begin with but they let Shiina into the race. The participants get called and they line up on the track.
 * Shiina and Mitsumura shake hands for a good race.
@@ -822,10 +822,10 @@ Chapter 47
 * The contenders are ready at the start line of the relay race, with Takamatsu also running.
 * Yuri asks if he's fast. Yusa replies she doesn't know as she didn't investigate as Yuri didn't ask.
 * The race starts, Class F in first, C in second and E in third. Someone in class B (the one Takamatsu and Mitsumura are in) trips and falls and falls behind. Class C's 2nd runner drops their baton. F is in the lead.
-* The runner for class C approches Takamatsu, and he takes off his shirt. The baton has been passed to him and he starts running. He passes 6 people and is now in 2nd place. Takamatsu passes the baton to Mitsumura. He passes class F and is in the lead.
+* The runner for class C approaches Takamatsu, and he takes off his shirt. The baton has been passed to him and he starts running. He passes 6 people and is now in 2nd place. Takamatsu passes the baton to Mitsumura. He passes class F and is in the lead.
 * Class C's runner passes the baton to Shiina and she sets off running too. She quickly catches up to Mitsumura.
-* As they approch the finish line, it is neck-and-neck with Shiina just infront of Mitsumura. Takamatsu shouts, and Mitsumura passes the finish line just infront of Shiina.
-* Mitsumura comes to tears, with Takamatsu running towards him, but Mitsumura says "thank you" and vanishes. Takamatsu is shocked. Yuri is disappointed that he disappear.
+* As they approach the finish line, it is neck-and-neck with Shiina just in front of Mitsumura. Takamatsu shouts, and Mitsumura passes the finish line just in front of Shiina.
+* Mitsumura comes to tears, with Takamatsu running towards him, but Mitsumura says "thank you" and vanishes. Takamatsu is shocked. Yuri is disappointed that he disappears.
 * Back in the principal's office, Yuri explains how the world works, Yuri misleads Takamatsu with explaining how the world works [#wis-22]_.
 * Takamatsu joins the SSS.
 
@@ -836,23 +836,23 @@ Chapter 48
 * Hisako startles her as Iwasawa is focused.
 * Iwasawa stares out the window saying that when she "snaps back" it reminds her of when she woke up there and she got her voice back. It surprised her but made her happy at the same time.
 * **Cuts to** the outside, a guy appears on a bench. He comments "my eyes! I can see" and "The bright sunshine, the bright blue sky, I miss it!".
-* He sees two students near by, he goes to them, grabs one and throws them over his shoulder in a jodo move. He comments "I can fight".
+* He sees two students nearby, he goes to them, grabs one and throws them over his shoulder in a judo move. He comments "I can fight".
 * Kanade appears, saying he is quite strong and it's time for class so she should go back to his classroom.
-* Matsushita is unsure how he arrived and Kanade comments that he is in the aferlife and he will be rewarded if he behaves.
+* Matsushita is unsure how he arrived and Kanade comments that he is in the afterlife and he will be rewarded if he behaves.
 * He walks past her and she asks where he's going. He replies that he realised that you won't get anything if you stick to the rules.
 * To himself, he comments that he doesn't matter about getting rewarded or not and he just wants to recall the things he missed over the years.
 * Takamatsu is watching over them from a classroom [#v8c48-1]_.
 
-.. [#v8c48-1] This is a callback to :ref:`chapter 11<Chapter 11>`, where Hisako was watching over Iwasawa.
+.. [#v8c48-1] This is a call back to :ref:`chapter 11<Chapter 11>`, where Hisako was watching over Iwasawa.
 
 Chapter 49
 -----------
 
 * The SSS are having a meal in the cafeteria, talking about a new person that is starting fights.
 * **Cut to** Matsushita starting fights and doing judo on various students outside the classrooms.
-* Kanade approches them and tells them to go to class. He asks her to stop bothering him. Kanade adds that the teachers won't like it if they don't attend classes.
-* Some teachers come up from behind Kanade asking if Matsushita is the guy fighting others. He runs away heading towards the cafeteria, but some teachers are approching from infront of him.
-* Takamatsu comes up from the bridges barrier. Grabs Matsushita and pulls him over the railings from behind.
+* Kanade approaches them and tells them to go to class. He asks her to stop bothering him. Kanade adds that the teachers won't like it if they don't attend classes.
+* Some teachers come up from behind Kanade asking if Matsushita is the guy fighting others. He runs away heading towards the cafeteria, but some teachers are approaching from in front of him.
+* Takamatsu comes up from the bridge’s barrier. Grabs Matsushita and pulls him over the railings from behind.
 * In the water [#v8c49-1]_, Matsushita asks Takamatsu who he is. Takamatsu introduces himself and asks if he can join in the fun.
 
 .. [#v8c49-1] They need to have fallen from the railings to appear in the water at the bottom of the bridge, but the fall isn't shown.
@@ -862,13 +862,13 @@ Chapter 50
 
 * Matsushita is confused as to what Takamatsu means, saying he's just wrestling. Takamatsu says it looks like he's having fun.
 * Matsushita asks Takamatsu if he knows about the world, which he replies that Kanade told him that it's the afterlife.
-* They go to the Judo club's dojo [#v8c50-1]_. Matsushita is susprised at what Tatami mats look like.
-* Matsushita mentions that he did paralympic judo as he was losing his vision, but lost it completly at the end. Takamatsu said that his fried disappeared from the world and he's alone.
+* They go to the Judo club's dojo [#v8c50-1]_. Matsushita is surprised at what Tatami mats look like.
+* Matsushita mentions that he did Paralympic judo as he was losing his vision, but lost it completely at the end. Takamatsu said that his fried disappeared from the world and he's alone.
 * Takamatsu feels that he joined the SSS for a little bit but feels like they are a cult and haven't talked to them in a while. 
-* He mentions that he saw Matsushita's throw and felt like it was love at first sight and feels Matsushita is his spirtual mate. Takamatsu gives him a uniform and they get changed. Matsushita is shocked at Takamatsu's muscles and they begin.
-* In the fight, Matsushita is impressed and asks about challanging others. Takamatsu says he wants to see Matsushita's abilities and skills as close as possible.
+* He mentions that he saw Matsushita's throw and felt like it was love at first sight and feels Matsushita is his spiritual mate. Takamatsu gives him a uniform and they get changed. Matsushita is shocked at Takamatsu's muscles and they begin.
+* In the fight, Matsushita is impressed and asks about challenging others. Takamatsu says he wants to see Matsushita's abilities and skills as close as possible.
 * Takamatsu asks if he knows how to play baseball. They go to the track field.
-* Takamatsu pitches a fastball, and Matsushita is surprised at the stregnth. Matsushita is susprised again.
+* Takamatsu pitches a fastball, and Matsushita is surprised at the strength. Matsushita is surprised again.
 * Takamatsu pitches again, Matsushita swings the bat and the ball goes high in the sky, he is surprised again.
 * Matsushita reflects to himself and feels that his life has changed after meeting Takamatsu.
 
@@ -877,15 +877,15 @@ Chapter 50
 Chapter 51
 -----------
 
-* Takamatsu is outside the classrooms in the morning, Matsushita approches and Takamatsu says he's slow. Matsushita asks if he really is challanging others and he replies that he is.
+* Takamatsu is outside the classrooms in the morning, Matsushita approaches and Takamatsu says he's slow. Matsushita asks if he really is challenging others and he replies that he is.
 * Matsushita is a bit unsure as he hasn't practiced. Takamatsu reassures him, saying it's not that hard and that he's not alone and shouldn't be afraid.
-* They go into the dojo and challange the club leader.
+* They go into the dojo and challenge the club leader.
 * Matsushita fights, and is surprised at how everything looks now that he can see.
 
 Chapter 52
 -----------
 
-* Matsushita throws the dujo leader and they are defeated.]
+* Matsushita throws the judo leader and they are defeated.]
 * The teachers come in and Matsushita and Takamatsu run away, hiding behind bushes.
 * Matsushita hugs Takamatsu saying that he hasn't has this much fun fighting others.
 * Yuri comes up shouting at Takamatsu asking why he's been fooling around.
@@ -933,7 +933,7 @@ Chapter 54
 
 * Matsushita is making udon in the cafeteria kitchens with Takamatsu and Ooyama.
 * After many tries, they finish the udon and the taste is perfect and they serve it to the SSS.
-* Yuri and Shiina go to sign up for the beauty contest and goes to the student council. Kanade tells them she can't because the contest isn't affiliated with them.
+* Yuri and Shiina go to sign up for the beauty contest and go to the student council. Kanade tells them she can't because the contest isn't affiliated with them.
 * Yuri leaves and goes to the correct club to file. They say to join they need to pass some difficult exams. The two students whisper between themselves and accept Shiina and Yuri in.
 * **Cut to** the day before the festival and the student are setting up the school.
 * Yusa tells Yuri that the outfits have been completed and she tries it on. With Yuri in a wedding dress and Shiina in a kimono.
@@ -948,8 +948,8 @@ Chapter 55
 * Kanade adds that the line to Matsushita's udon stand is causing a problem and for the SSS to do something about it.
 * Everyone queueing and eating loves the udon. Ooyama asks for some help.
 * **Cut to** the gym where Iwasawa and Hisako are listening to the bands, feeling that nothing is really catching their attention.
-* They are about to go get something to eat but a girl is about to peform a drum solo. It catches their attention and Iwasawa and Hisako go on stage and join in.
-* **Cut to** the beauty contest is starting. Yuri and Shiina go out on stage to see.. only 10 audience members.
+* They are about to go get something to eat but a girl is about to perform a drum solo. It catches their attention and Iwasawa and Hisako go on stage and join in.
+* **Cut to** the beauty contest is starting. Yuri and Shiina go out on stage to see... only 10 audience members.
 * Yusa says that all of the student are queueing for Matsushita's udon. They hear Iwasawa and Hisako playing and they go to see leaving no one left in the audience.
 * Those at the udon stall notice they have underestimated the udon's power, and Matsushita announces there are only 10 bowls left.
 
@@ -963,7 +963,7 @@ Chapter 56
 * Hisako notices and says "beautiful maiko, are you hear to stop us?"
 * Shiina is taken aback at being called a maiko. Shiina makes the band even more popular.
 * The udon stand is still shocked at the NPC who can remember life before he died.
-* Hinata explains the battlefront and invites them to join. The NPC explains he's not sure about joining. Hinata says they don't have anymore left, but Matsushita has a spare one.
+* Hinata explains the battlefront and invites them to join. The NPC explains he's not sure about joining. Hinata says they don't have any more left, but Matsushita has a spare one.
 * The NPC has a taste and also says that is amazing and "it's good to be alive..I mean, dead".
 * Yuri comes running up the udon stand saying to stop ignoring her orders, and unhappy that they made too much.
 * Matsushita mentions the NPC and Yuri starts talking to them, but the NPC starts vanishing.
@@ -981,9 +981,9 @@ Chapter 57
 * Iwasawa talks about a name for the band but Hisako stops her. 
 * **Cut to** Yuri back in the principal's office. Yuri explains that it is now December and on the 24th the school held a Christmas party and that the NPCs vanished for winter break [#wis-23]_.
 * Yuri has made everyone's party admission forms and takes them to the student council.
-* Kanade says they can't do it, because the student council didn't orgnise it, but did in the past.
+* Kanade says they can't do it, because the student council didn't organise it, but did in the past.
 * Yuri and Shiina go to the Christmas party committee, and the 2 students on the committee declines them.
-* The committee declines them because of the fire started at the bonfire, and voilated the rules with the swimming gala. They say the SSS are trouble makers [#wis-24]_ and can't be allowed at the party.
+* The committee declines them because of the fire started at the bonfire, and violated the rules with the swimming gala. They say the SSS are trouble makers [#wis-24]_ and can't be allowed at the party.
 * Yuri goes back to the principal's office. Yuri talks about how the NPCs remember their faces.
 * Yuri has the idea of using masks and having a masquerade ball.
 
@@ -991,7 +991,7 @@ Chapter 58
 -----------
 
 * Yuri explains what a masquerade ball is to the rest of the SSS.
-* Hinata looks dissatastified and Yuri asks why, Yuri says they'll get ugly looking guys to persuade the committee to change.
+* Hinata looks dissatisfied and Yuri asks why, Yuri says they'll get ugly looking guys to persuade the committee to change.
 * Hinata and Ooyama leave the principal's office to head to the committee room.
 
 Chapter 59
@@ -1003,10 +1003,10 @@ Chapter 59
 * Hinata throws in things the SSS will do if they accept - making the masks, the posters and getting Hisako and Iwasawa to play.
 * The committee agree to hold a masquerade ball.
 * Hinata and Ooyama go to the band room and ask for the name of the band for the poster. Iwasawa is about to say something but Hisako stops them and says the band name is "beautiful the blood".
-* Ooyama and Hinata leave. To herself, Hisako say that it's the opposite of her band when she was alive.
+* Ooyama and Hinata leave. To herself, Hisako says that it's the opposite of her band when she was alive.
 * Posters are put up and students start signing up.
 * **Cut to** the day before the event, Yuri reminds them to dress like NPCs and that everything is going to plan.
-* Yuri tells Hinata and Ooyama to take the masks to the gym. As they are carrying the boxes, Hinata hears a voice he seems to reconise. Ooyama bumps into him and he drops the masks. He says "she can't be here".
+* Yuri tells Hinata and Ooyama to take the masks to the gym. As they are carrying the boxes, Hinata hears a voice he seems to recognise. Ooyama bumps into him and he drops the masks. He says "she can't be here".
 
 Chapter 60
 -----------
@@ -1015,7 +1015,7 @@ Chapter 60
 * Yuri says to find new humans.
 * Hisako is playing the guitar on the stage.
 * Ooyama notices that Hinata seems distracted. Yuri notices Kanade and puts her hair up in a ponytail.
-* Yuri goes over and starts talking to her. Kanade says "arn't they meant to talk to the opposite gender" but Yuri says she doesn't have many girl friends.
+* Yuri goes over and starts talking to her. Kanade says "aren’t they meant to talk to the opposite gender" but Yuri says she doesn't have many girlfriends.
 * Kanade says she can't decline, and Yuri invites her to have some drinks and snacks.
 * Yuri and Kanade are sitting at a table and they start talking. 
     | Y: mentions she can remember how she died.
@@ -1036,8 +1036,8 @@ Chapter 60.5
 -------------
 
 * Yuri says that operation 'demon picnic' ended in failure and that she has gathered to members about an upcoming operation called 'angel school life'.
-* Yuri explains the operation would be to approch her peacefully, gain her trust and be her friend.
-* Otonashi says that this will end in failure again. Ooyama says that Kanade is ruthless and cruel. Yuri starts the operation immediatly.
+* Yuri explains the operation would be to approach her peacefully, gain her trust and be her friend.
+* Otonashi says that this will end in failure again. Ooyama says that Kanade is ruthless and cruel. Yuri starts the operation immediately.
 * The SSS then start to dote on Kanade, with them eating lunch with her, Ooyama walking them back to the dorms, Noda offering to massage their shoulders and match up hair ribbons and Yuri feeding her personally.
 * Kanade wonders why everyone is being nice to her all of a sudden, and as a thank you she makes some lunch boxes she wants to share. Except the lunch is raw liver.
 
@@ -1050,11 +1050,11 @@ Volume 10
 Chapter 61
 -----------
 
-* Hinata turns around to look at the girl. Hinata seems to reconise her as a club manager when he was alive [#v10c61-1]_. With the mask on, the girl looks and sounds like his old manager.
+* Hinata turns around to look at the girl. Hinata seems to recognise her as a club manager when he was alive [#v10c61-1]_. With the mask on, the girl looks and sounds like his old manager.
 * He asks for her name, but she declines as that defeats the point of the masquerade ball. Hinata starts having a bit of a panic attack.
 * The band (Iwasawa/Hinata/Araki) start playing and the students start dancing.
 * Yuri and Kanade notice and Kanade asks if they should dance together, even though they are both girls. Yuri agrees.
-* The girl with Hinata offers the dance too, but he panicks yelling "stop" and "leave me alone" before running out of the gym.
+* The girl with Hinata offers the dance too, but he panics yelling "stop" and "leave me alone" before running out of the gym.
 * It is snowing outside, Ooyama and Takamatsu go outside to him. Hinata explains that he remembered something from his past.
 * Matsushita comes outside saying that the girl he was talking to doesn't remember how she died [#wis-27]_.
 * Kanade has accidently thrown Yuri into the rafters, apologising as she forgot to turn the passive skill off.
@@ -1064,10 +1064,10 @@ Chapter 61
 Chapter 62
 -----------
 
-* After the party, the band is cleaning up and Araki says that it was a sucess.
-* **Cut to** some time later, Ooyama and Hinata are walking through the classroom corridors and says that now the party is over he feels that the weather has gotten warmer.
+* After the party, the band is cleaning up and Araki says that it was a success.
+* **Cut to** sometime later, Ooyama and Hinata are walking through the classroom corridors and says that now the party is over he feels that the weather has gotten warmer.
 * Kanade comes up behind them, she pokes Hinata's back, and she hands him a leaflet. He panics.
-* Kanade explains that because they are not graduating she has prepared the catalog of the ceremony for them. Hinata and Ooyama are confused as to what she means [#wis-28]_.
+* Kanade explains that because they are not graduating, she has prepared the catalogue of the ceremony for them. Hinata and Ooyama are confused as to what she means [#wis-28]_.
 * Surprised, they go back to the principal's office and Yuri explains that it's normal.
     | Yuri: Of course they have them here. This is a school after all.
 * Yuri explains that if they have a 3rd year student in the SSS, they'll graduate and leave the world [#wis-29]_. She asks if anyone in the SSS is a 3rd year student and Iwasawa raises her hand.
@@ -1103,7 +1103,7 @@ Chapter 64
 
 * Hisako and "Emlia" [#v9c64-1]_ talk about bands. Emlia explains that she is headhunting for members. Hisako declines but Emlia points that Iwasawa and Araki are not playing or practising.
 * Hisako declines again but gives in saying she'll jam just once.
-* Hisako and Emlia 'shread' and Hisako says she's really having fun. Hisako repeatedly tells Emlia to stop talking like a metal head and they start to play again.
+* Hisako and Emlia 'shred' and Hisako says she's really having fun. Hisako repeatedly tells Emlia to stop talking like a metal head and they start to play again.
 * Hisako says to herself that Iwasawa seems so far away now.
 
 .. [#v9c64-1] Not sure if this is intentional or a translation error that the name here compared to the last chapter is different.
@@ -1112,38 +1112,38 @@ Chapter 65
 -----------
 
 * **The next day**, Hisako is going through the corridors and runs into Iwasawa.
-* Iwasawa says that she is going to the libiary, because Araki wants to. Hisako storms away, jelous.
-* Iwasawa finds Araki in the libiary, talking about what books they like. Araki gives Iwasawa a book on music theory.
-* Iwasawa gets dizy and passes out. She wakes up Araki's lap somewhere outside.
-* Iwasawa feels ashamed because she doesn't understand the basic parts of music theroy. Araki reassures her and says she should stick to her own style.
+* Iwasawa says that she is going to the library, because Araki wants to. Hisako storms away, jealous.
+* Iwasawa finds Araki in the library, talking about what books they like. Araki gives Iwasawa a book on music theory.
+* Iwasawa gets dizzy and passes out. She wakes up Araki's lap somewhere outside.
+* Iwasawa feels ashamed because she doesn't understand the basic parts of music theory. Araki reassures her and says she should stick to her own style.
 * In the classroom building, Ooyama and Fujimaki say that they have finished putting up all the posters.
 * Kanade comes from behind them and takes it down, saying they need permission from the student council first.
-* **Jump to** the principal's office with Yuri not surprised. Yuri goes to the student council's office to neogtiate.
+* **Jump to** the principal's office with Yuri not surprised. Yuri goes to the student council's office to negotiate.
 * Yuri says that Kanade is cool (relaxed) and the vice-president looks reliable and should approve it.
 * Yuri goes into the student council office and Naoi says they won't get permission with their behaviour. He introduces himself as the newly elected vice-president. 
 * Yuri shoves him out of the way saying he was asking the president (Kanade). She declines them because they have been breaking the school rules.
-* Yuri appologies saying they won't do it again. Kanade accepts this but Naoi interjects saying that since he's became vice president, they've been skipping classes and disrupting others [#wis-33]_.
-* Kanade then repeats him and says she won't accept it that easily. Naoi adds that the council won't ever accept propsals from the SSS, and kicks them out of the office [#wis-34]_.
+* Yuri apologies saying they won't do it again. Kanade accepts this but Naoi interjects saying that since he's became vice president, they've been skipping classes and disrupting others [#wis-33]_.
+* Kanade then repeats him and says she won't accept it that easily. Naoi adds that the council won't ever accept proposals from the SSS, and kicks them out of the office [#wis-34]_.
 * Speaking to Hinata, Yuri says that they need to prepare again, and think of other ways to plan the concert.
 
 Chapter 66
 -----------
 
-* Emlia catches up to Hisako at the entrance to the classroom building, saying she has discussed some matters with the members of her band, Lost Paradise. She says that they would like to peform at the graduation ceremony.
-* Hisako says that her band has already orgnised a concert.
+* Emlia catches up to Hisako at the entrance to the classroom building, saying she has discussed some matters with the members of her band, Lost Paradise. She says that they would like to perform at the graduation ceremony.
+* Hisako says that her band has already organised a concert.
 * Emlia invites her to join, Hisako says she needs to think about it.
 * Hisako catches up to Iwasawa asking what she and Araki are doing. Iwasawa replies that they were going to look at the flowers again.
-* Hisako is unhappy, saying that they haven't been practising. Iwasawa says "then lets go practice" and Hisako is taken aback from this and agrees. Iwasawa goes to get Araki and will meet Hisako in the band room.
+* Hisako is unhappy, saying that they haven't been practising. Iwasawa says "then let’s go practice" and Hisako is taken aback from this and agrees. Iwasawa goes to get Araki and will meet Hisako in the band room.
 * Iwasawa and Araki enter, with Araki on her arm, late.
-* Araki kisses Iwasawa's cheek to get a bit of rice, Hisako is infurated. They practice.
+* Araki kisses Iwasawa's cheek to get a bit of rice, Hisako is infuriated. They practice.
 * Hisako is distracted, and they take a break from practising.
-* In the cafeteria, Hisako is having some rice and curry. She is distracted and jelous.
-* Emlia comes up to her and explains that she's feeling jelous.
+* In the cafeteria, Hisako is having some rice and curry. She is distracted and jealous.
+* Emlia comes up to her and explains that she's feeling jealous.
 * Hisako is taken aback, shocked at Emlia implying that she's in love with Iwasawa. Hisako, being angry gets up and leaves. Emlia says to come by their club room for a bit.
-* Hisako does and they jam for a bit. Emlia asks if Hisako will joining their band for the graduation.
+* Hisako does and they jam for a bit. Emlia asks if Hisako will be joining their band for the graduation.
 * Hisako says she's still thinking about it, and to herself says she was almost tricked into agreeing. She thinks to herself and ends up staring into space.
-* Emlia invites Hisako up to the roof, and they go. Emlia asks Hisako to join again. Emlia explains that she really wants the achievement of peforming next to them but can break up after but still remain friends.
-* Hisako agrees to peform the ceremony with her.
+* Emlia invites Hisako up to the roof, and they go. Emlia asks Hisako to join again. Emlia explains that she really wants the achievement of performing next to them but can break up after but still remain friends.
+* Hisako agrees to perform the ceremony with her.
 
 Chapter 67
 -----------
@@ -1157,12 +1157,12 @@ Chapter 67
 Chapter 68
 -----------
 
-* The ceremony starts, as the student councl president, Kanade reads some things out [#v10c68-1]_.
+* The ceremony starts, as the student council president, Kanade reads some things out [#v10c68-1]_.
 * As the ceremony comes to an end, Yuri asks if everyone is ready.
 * Outside, the students are saying congratulations. Emlia comes up to Hisako and says to prepare for the concert.
 * They go to the cafeteria where the instruments have been set up and the students start arriving [#v10c68-2]_.
 * Hisako and Emlia start playing and Yuri starts the operation.
-* Emlia says they are approching the last song and congratulates the students on the graduation.
+* Emlia says they are approaching the last song and congratulates the students on the graduation.
 * Emlia reaches out for Hisako, but Iwasawa grabs her hand.
 
 .. [#v10c68-1] It's not clear what is said in the manga as it only shows "clips", and what Kanade says isn't shown either.
@@ -1175,10 +1175,10 @@ Chapter 69
 -----------
 
 * Emlia asks why Iwasawa is there and she replies "it's obvious" and to congratulate them on their graduation and to get Hisako back.
-* Both Hisako and Emlia are confused. Emlia says that Iwasawa is also a 3rd year and will be graduating aswell. Iwasawa says she's most likely not leaving. Emlia is confused.
-* Yuri (with a guitar) and Shiina arrives. Hisako is suprised, Iwasawa explains that they have been practising for a while. Hisako and Iwasawa talk for a minute about Araki.
+* Both Hisako and Emlia are confused. Emlia says that Iwasawa is also a 3rd year and will be graduating as well. Iwasawa says she's most likely not leaving. Emlia is confused.
+* Yuri (with a guitar) and Shiina arrives. Hisako is surprised, Iwasawa explains that they have been practising for a while. Hisako and Iwasawa talk for a minute about Araki.
 * They start playing Crow Song.
-* Via a walkie talkie, Yusa tells Yuri that Kanade is approching the cafeteria. Yuri leaves it to the SSS.
+* Via a walkie talkie, Yusa tells Yuri that Kanade is approaching the cafeteria. Yuri leaves it to the SSS.
 
 Chapter 70
 -----------
@@ -1188,10 +1188,10 @@ Chapter 70
 * She is able to defend and block the bullets and activates distortion. Noda charges her but she stabs him.
 * All of the SSS have been defeated and Kanade does inside.
 * As the song concludes, Iwasawa yells congratulations and the students vanish [#wis-35]_.
-* Hisako is really shocked that everyone has disappeared. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there was no humans there. Emlia and Araki vanished with them too.
+* Hisako is really shocked that everyone has disappeared. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there were no humans there. Emlia and Araki vanished with them too.
 * Kanade says she didn't give them permission for the concert.
-* Yuri asks why she can be so calm when a lot of students just disappeared. Kanade replies that it is normal. Yuri is dicusted and says they'll defeat her one day.
-    | *"You weren't susprised by anything huh? As expected of Angel. But from now on, we'll keep seeking revenge on God. Someday, we will even defeat you."*
+* Yuri asks why she can be so calm when a lot of students just disappeared. Kanade replies that it is normal. Yuri is disgusted and says they'll defeat her one day.
+    | *"You weren't surprised by anything huh? As expected of Angel. But from now on, we'll keep seeking revenge on God. Someday, we will even defeat you."*
 
 .. [#v11c70] Yuri said (in :ref:`chapter 63<Chapter 63>`) that they disappear at midnight, but it's not clear what time this is taking place at [#wis-36]_.
 
@@ -1204,10 +1204,10 @@ Chapter 71
 * Over some drinks, Yuri explains her point of view. Irie having calmed down.
 * Yuri asks Irie if she plays any instruments. Hinata doesn't feel that it's a good idea, Yuri feels it will be fine and summons Hisako and Iwasawa.
 * Hisako and Iwasawa go to the principal's office, and they ask if Irie knows how to play any instruments. Irie says she knows piano and harp.
-* Yuri "forces" Irie  to join and start practising. Hisako is not very thrilled that she's learning from scratch. Iwasawa is happy that there are now 3 members in the band.
-* Hisako, in a threatning way says to Irie that she better prepare herself for practising as she is super tough. Irie is very nervous.
+* Yuri "forces" Irie to join and start practising. Hisako is not very thrilled that she's learning from scratch. Iwasawa is happy that there are now 3 members in the band.
+* Hisako, in a threatening way says to Irie that she better prepare herself for practising as she is super tough. Irie is very nervous.
 * **Jump to** Irie in the band room being confused as what Hisako is telling her, but they practise.
-* Hisako gets fustrated with her but they keep practicing. Irie offers to keep going and Hisako threatens her that there will be consequences if she can't do it by tomorrow.
+* Hisako gets frustrated with her but they keep practicing. Irie offers to keep going and Hisako threatens her that there will be consequences if she can't do it by tomorrow.
 
 
 Chapter 72
@@ -1215,12 +1215,12 @@ Chapter 72
 
 * In the middle of the night, Irie is really tired and doubts that she can do it.
 * Irie gets up and sits against the wall, talking about her past:
-    | *I'm alone again. Why can't I do something about this. It always seems like that..*
+    | *I'm alone again. Why can't I do something about this. It always seems like that...*
     | *I'm always being teased because of my personality.*
-    | *That's the reason I died. I definteitly bothered everyone when I came to this world.*
+    | *That's the reason I died. I definitely bothered everyone when I came to this world.*
 * Irie falls asleep at some point [#wis-38]_.
-* Hisako shouts at her to wake up. Irie apologieses. 
-* They start playing again, but Irie messes up again. Hisako is really fustrated again and sends Irie to practice on her own in a different room.
+* Hisako shouts at her to wake up. Irie apologises. 
+* They start playing again, but Irie messes up again. Hisako is really frustrated again and sends Irie to practice on her own in a different room.
 * Irie feels that she is still useless again, but continues to try and practice for days.
 * Hisako shouts at her to wake up again, and points out that Irie has been practicing for 4 days and she should go take a bath.
 * Irie comes back after having a bath and practice more.
@@ -1229,11 +1229,11 @@ Chapter 72
 Chapter 73
 -----------
 
-* **Some time later** In the music room, Hisako says that Irie's rhythm has improved, and moving on to the next part to practice. 
+* **Sometime later** In the music room, Hisako says that Irie's rhythm has improved, and moving on to the next part to practice. 
 * Irie isn't thrilled and gets confused at the different parts of the drums.
-* Hisako brings out a stero to show Irie what the end result will sound like. Irie finds it amazing.
+* Hisako brings out a stereo to show Irie what the end result will sound like. Irie finds it amazing.
 * Hisako says that she still needs to practice on her own.
-* While on her own, Irie feels disheartned, gives up and is about to leave the room but bumps into Hisako.
+* While on her own, Irie feels disheartened, gives up and is about to leave the room but bumps into Hisako.
 * Hisako says she's going to the river and asks if Irie is going to the dorms as she hasn't showered in a while.
 * Irie says "it's not the same" which Hisako asks what she meant, Irie tries to shrug it off but Hisako makes her say it again.
 * Irie says even if she plays the drums, everyone will hate it. She continues:
@@ -1254,8 +1254,8 @@ Chapter 74
 * **At some point in the future** the SSS are attacking Kanade, who is using Distortion.
 * A girl wakes up, initially shocked that she's awake but then quickly confused at what all the shooting is.
     | *What is this!? War!? When did Japan get into a war!?
-* Yusa notices the girls's appearance, and alerts Yuri. Who sends Shiina to protect her.
-* Kanade approches the girl, but Shiina comes down and pushes Kanade back. Shiina takes the girl to safety.
+* Yusa notices the girls’ appearance, and alerts Yuri. Who sends Shiina to protect her.
+* Kanade approaches the girl, but Shiina comes down and pushes Kanade back. Shiina takes the girl to safety.
 * The battle between Kanade and the SSS continues.
 * Back in the principal's office, the girl, Sekine introduces herself.
 * Yuri says that she's a member of the battlefront and will fight with them. Sekine says she can't and ask them to not make her do it.
@@ -1271,7 +1271,7 @@ Chapter 74
 Chapter 75
 -----------
 
-* In the night, Sekine is still practicing, she feel that it's impossible. Irie comes in with drinks.
+* In the night, Sekine is still practicing, she feels that it's impossible. Irie comes in with drinks.
 * Sekine says that Irie is really good, but she dismisses her saying that she hadn't touched the drums before she arrived.
 * Sekine asks how long Irie has been practicing and Irie reluctantly says 6 years. Irie says she will have to practise, and reassures Sekine. Irie says to practise together.
 * The next day, Hisako is angry at Sekine as she keeps making mistakes and that she hasn't gotten better.
@@ -1304,13 +1304,14 @@ Chapter 77
 * Yuri thinks to herself as to how long the fight will go on for.
 * **Cut to** the present day and Hinata tells Otonashi that that's what happened.
 * Otonashi questions it and Hinata says they've spent several decades and nothing has changed.
-* Otonashi and Hinata approch the principal's office, Yuri coming out saying how long it's taking them to get back.
+* Otonashi and Hinata approach the principal's office, Yuri coming out saying how long it's taking them to get back.
 * Yuri says "Welcome to the battlefront".
+
 
 Working ideas
 ================
 
-.. [#wis-1] To still account for the "weird" behaviour with the NPCs that Yuri talks about, this could be that Yuri might have already been shunned because of frequent outbursts over the them being npcs by the time Hinata has shown up. At this moment, it doesn't look like Yuri is friends with anyone either.
+.. [#wis-1] To still account for the "weird" behaviour with the NPCs that Yuri talks about, this could be that Yuri might have already been shunned because of frequent outbursts over the them being NPCs by the time Hinata has shown up. At this moment, it doesn't look like Yuri is friends with anyone either.
 .. [#wis-2] This means in my idea, I would need to show this, and extend this arch before HD. Unless this is covered later on in the manga, if Yuri goes over how/when she appeared.
 .. [#wis-3] This supports my idea that Kanade erased her own memory can't remember anything about Chiyo.
 .. [#wis-4] This supports that the SSS are the "social outcasts" and why no other students really interact with them. This scene has basically shown Yuri to be deranged, thinking that Kanade "isn't human" and "an angel sent from God" [#wis-25]_.
@@ -1342,13 +1343,13 @@ Working ideas
 .. [#wis-30] Another note for me to come back to.
 .. [#wis-31] An idea that they meet again.
 .. [#wis-32] A good important note.
-.. [#wis-33] In the gap between the end of the manga and the anime, Naoi could be the one pressuring Kanade to be more agressive to the SSS and more pro-active at stopping them.
+.. [#wis-33] In the gap between the end of the manga and the anime, Naoi could be the one pressuring Kanade to be more aggressive to the SSS and more pro-active at stopping them.
 .. [#wis-34] Naoi could use his position to brainwash Kanade into doing things, in a bid to find information out about Chiyo.
 .. [#wis-35] This sets the precedence for the concert at the end with Chiyo.
 .. [#wis-36] If a time is specified, this could be explained as a lot of emotion to make them disappear.
 .. [#wis-37] Supports the idea that there is a queue and a limit on the number of people that can be in the world at once as it appears she has just arrived.
 .. [#wis-38] Kanade could meet Irie here at night one time and form a bond, if she doesn't appear later.
-.. [#wis-39] Part of Irie's resolotuion could be to be the student council president when Kanade can't.
+.. [#wis-39] Part of Irie's resolution could be to be the student council president when Kanade can't.
 
 Character introductions
 ======================== 
