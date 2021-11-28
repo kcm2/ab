@@ -1174,6 +1174,15 @@ Volume 11
 Chapter 69
 -----------
 
+* Emlia asks why Iwasawa is there and she replies "it's obvious" and to congratulate them on their graduation and to get Hisako back.
+* Both Hisako and Emlia are confused. Emlia says that Iwasawa is also a 3rd year and will be graduating aswell. Iwasawa says she's most likely not leaving. Emlia is confused.
+* Yuri (with a guitar) and Shiina arrives. Hisako is suprised, Iwasawa explains that they have been practising for a while. Hisako and Iwasawa talk for a minute about Araki.
+* They start playing Crow Song.
+* Via a walkie talkie, Yusa tells Yuri that Kanade is approching the cafeteria. Yuri leaves it to the SSS.
+
+Chapter 70
+-----------
+
 * a
 
 Working ideas
