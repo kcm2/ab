@@ -1191,7 +1191,7 @@ Chapter 70
 * Hisako is really shocked that everyone has disappeared. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there was no humans there. Emlia and Araki vanished with them too.
 * Kanade says she didn't give them permission for the concert.
 * Yuri asks why she can be so calm when a lot of students just disappeared. Kanade replies that it is normal. Yuri is dicusted and says they'll defeat her one day.
-    | "You weren't susprised by anything huh? As expected of Angel. But from now on, we'll keep seeking revenge on God. Someday, we will even defeat you.
+    | *"You weren't susprised by anything huh? As expected of Angel. But from now on, we'll keep seeking revenge on God. Someday, we will even defeat you."*
 
 .. [#v11c70] Yuri said (in :ref:`chapter 63<Chapter 63>`) that they disappear at midnight, but it's not clear what time this is taking place at [#wis-36]_.
 
@@ -1215,8 +1215,8 @@ Chapter 72
 
 * In the middle of the night, Irie is really tired and doubts that she can do it.
 * Irie gets up and sits against the wall, talking about her past:
-    | Irie: I'm alone again. Why can't I do something about this. It always seems like that.. 
-    | I'm always being teased because of my personality. That's the reason I died. I definteitly bothered everyone when I came to this world.
+    | *I'm alone again. Why can't I do something about this. It always seems like that..*
+    | *I'm always being teased because of my personality. That's the reason I died. I definteitly bothered everyone when I came to this world.*
 * a
 
 
