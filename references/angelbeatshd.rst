@@ -1188,7 +1188,7 @@ Chapter 70
 * She is able to defend and block the bullets and activates distortion. Noda charges her but she stabs him.
 * All of the SSS have been defeated and Kanade does inside.
 * As the song concludes, Iwasawa yells congratulations and the students vanish [#wis-35]_.
-* Hisako is really shocked that everyone has disappeared. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there was no humans there.
+* Hisako is really shocked that everyone has disappeared. Iwasawa is confused. Yuri says that there is only 1 person left (Kanade) and there was no humans there. Emlia and Araki vanished with them too.
 * Kanade says she didn't give them permission for the concert.
 * Yuri asks why she can be so calm when a lot of students just disappeared. Kanade replies that it is normal. Yuri is dicusted and says they'll defeat her one day.
     | "You weren't susprised by anything huh? As expected of Angel. But from now on, we'll keep seeking revenge on God. Someday, we will even defeat you.
@@ -1198,8 +1198,22 @@ Chapter 70
 Chapter 71
 -----------
 
-* a
+* Matsushita and Fujimaki find a girl near the classroom, crying [#wis-37]_. Yusa reports this to Yuri.
+* Matsushita and Fujimaki take the girl to the principal's office and she introduces herself as Irie.
+* Yuri explains the world and that Irie has memories of how she died. Irie explains that she thought she had died but isn't sure anymore.
+* Over some drinks, Yuri explains her point of view. Irie having calmed down.
+* Yuri asks Irie if she plays any instruments. Hinata doesn't feel that it's a good idea, Yuri feels it will be fine and summons Hisako and Iwasawa.
+* Hisako and Iwasawa go to the principal's office, and they ask if Irie knows how to play any instruments. Irie says she knows piano and harp.
+* Yuri "forces" Irie  to join and start practising. Hisako is not very thrilled that she's learning from scratch. Iwasawa is happy that there are now 3 members in the band.
+* Hisako, in a threatning way says to Irie that she better prepare herself for practising as she is super tough. Irie is very nervous.
+* **Jump to** Irie in the band room being confused as what Hisako is telling her, but they practise.
+* Hisako gets fustrated with her but they keep practicing. Irie offers to keep going and Hisako threatens her that there will be consequences if she can't do it by tomorrow.
 
+
+Chapter 72
+-----------
+
+* a
 
 
 
@@ -1244,6 +1258,7 @@ Working ideas
 .. [#wis-34] Naoi could use his position to brainwash Kanade into doing things, in a bid to find information out about Chiyo.
 .. [#wis-35] This sets the precedence for the concert at the end with Chiyo.
 .. [#wis-36] If a time is specified, this could be explained as a lot of emotion to make them disappear.
+.. [#wis-37] Supports the idea that there is a queue and a limit on the number of people that can be in the world at once as it appears she has just arrived.
 
 Character introductions
 ======================== 
@@ -1257,8 +1272,12 @@ Character introductions
 * Hisako
 * Noda
 * Shiina ()
-* Naoi (introduced 29 but not named)
-* Yusa. (introduced xx, named 32)
+* Naoi (introduced 29, named 65)
+* Yusa. (introduced 28, named 32)
 * TK. (39)
 * Fujimaki. (43)
 * Takamatsu. (44)
+* Araki (57, vanished 70)
+* Emily/Emlia (63, vanished 70)
+* Irie. (71)
+
