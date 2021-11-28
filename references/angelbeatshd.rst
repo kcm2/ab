@@ -1271,7 +1271,23 @@ Chapter 74
 Chapter 75
 -----------
 
-* 
+* In the night, Sekine is still practicing, she feel that it's impossible. Irie comes in with drinks.
+* Sekine says that Irie is really good, but she dismisses her saying that she hadn't touched the drums before she arrived.
+* Sekine asks how long Irie has been practicing and Irie reluctantly says 6 years. Irie says she will have to practise, and reassures Sekine. Irie says to practise together.
+* The next day, Hisako is angry at Sekine as she keeps making mistakes and that she hasn't gotten better.
+* Hisako doesn't think that Sekine is taking things seriously and Sekine calls her a monster.
+* Hisako didn't like that and asks again but Sekine says it should be the name of the band. Sekine suggests "Girls and Monster" but Iwasawa changes "and" to "dead" to form "Girls Dead Monster" as they are all dead. GirlDeMo for short.
+* **Jump to** the girls telling Yuri in the principal's office, though not grammatically correct.
+* Yuri says that they have a new operation starting at 7pm [#v11c75-2]_ that day - operation tornado.
+
+.. [#v11c75-1] This means that at least 6 years have passed between :ref:`chapter 73<Chapter 73>` and :ref:`74<Chapter 74>`.
+.. [#v11c75-2] It's not clear if it's 7am or 7pm, but based on the anime this operation always happens in the evening.
+
+Chapter 76
+-----------
+
+* a
+
 
 Working ideas
 ================
