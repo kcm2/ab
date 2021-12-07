@@ -89,16 +89,15 @@ yui causes hinata to miss the catch
 Episode 5
 -----------
 
-first shot of kanade in class
-
+* The first shot is of Kanade in class.
 * Yuri mentions that tests are coming up, and plans to sabotage Kanade's tests.
-* Yuri says "if she has a human soul just like us, her fall from grace will deal her an effective emotional blow" (dub version is better).
+* Yuri says "if she has a human soul just like us, her fall from grace will deal her an effective emotional blow" [#E5-1]_.
 * Yuri plans to sabotage the tests.
 * Yuri and a few SSS members are in the classroom, discussing the plans.
-* Kanade and Otonashi talk together, and he learns her name.
+* Kanade and Otonashi talk together, and he learns her name [#E5-2]_.
 * Between the tests, Kanade studies and revises.
 * The SSS have a lunch break, and they discuss that the plans are going well for the testing period.
-* [Time skip to after the testing period has ended.]
+* **Time skip** to after the testing period has ended.
 * Kanade exists a room in the staff office on the 1st floor.
 * Kanade walks past Otonashi, he notices she looks upset and he asks if everything is ok. She says it is.
 * The next day, Yuri says a rumour is spreading that Kanade got 0s in her tests.
@@ -110,9 +109,21 @@ first shot of kanade in class
 * While the operation is under way, Kanade approches the cafeteria from the top bridge. Otonashi feels that she's different.
 * Kanade goes to get her meal ticket, but the ticket is blown away.
 * The SSS then eat in the cafeteria on the top floor.
-* Yuri has doubts.  -- *To capture*.
-* Otonashi asks about Kanade joining the SSS. -- *To capture*.
+* Yuri has doubts. Summerised: 
+    | *"Angel is human [#E5-3]_, what kind of angel would mapo tofu to help cheer her up when she's down?"*
+    | *As student council president, it was her duty to shop us.*
+    | *Since the SSS created weapons, she created guard skills to counter them.*
+    | *Is this how it ends? it's so rediclious, we don't have any clues about God yet [#E5-4]_.*
+* Otonashi asks about Kanade joining the SSS. Summerised:
+    | *"Maybe Angel will be willing to join up with the battlefront now"*
+    | *"I could see [Kanade] coming by herself, to buy a meal ticket and sit in the corner of the cafeteria all alone."*
+    | *"She's lost all trust and even her position. That image of her looked painfully lonesome."*
 * Naoi's posse storm and surround the SSS. Naoi tells the posse to take the SSS to detention.
+
+.. [#E5-1] How this is said in the dub is better.
+.. [#E5-2] Yuri knew Kanade's name but "forgot".
+.. [#E5-3] She comes to this conclusion because of Kanade getting the mapo tofu.
+.. [#E5-4] "Are we the baddies?"
 
 Episode 6
 -----------
