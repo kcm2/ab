@@ -110,10 +110,10 @@ Episode 5
 * Kanade goes to get her meal ticket, but the ticket is blown away.
 * The SSS then eat in the cafeteria on the top floor.
 * Yuri has doubts. Summerised: 
-    | *"Angel is human [#E5-3]_, what kind of angel would mapo tofu to help cheer her up when she's down?"*
+    | *"Angel is human [#E5-3]_ , what kind of angel would mapo tofu to help cheer her up when she's down?"*
     | *As student council president, it was her duty to shop us.*
     | *Since the SSS created weapons, she created guard skills to counter them.*
-    | *Is this how it ends? it's so rediclious, we don't have any clues about God yet [#E5-4]_.*
+    | *Is this how it ends? it's so rediclious, we don't have any clues about God yet [#E5-4]_. *
 * Otonashi asks about Kanade joining the SSS. Summerised:
     | *"Maybe Angel will be willing to join up with the battlefront now"*
     | *"I could see [Kanade] coming by herself, to buy a meal ticket and sit in the corner of the cafeteria all alone."*
