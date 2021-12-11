@@ -2,6 +2,9 @@
 Human
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: Human
 :Artist: The Killers
 :Known for: N/a

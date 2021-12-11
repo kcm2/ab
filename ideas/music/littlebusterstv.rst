@@ -2,6 +2,9 @@
 Little Busters (TV)
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: Little Busters
 :Artist: Rita
 :Known for: `Little Busters <https://myanimelist.net/anime/13655>`_ opening. [#knownfor]_

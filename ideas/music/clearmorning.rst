@@ -2,6 +2,9 @@
 Clear Morning
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: Clear Morning
 :Artist: Yui Ogura
 :Known for: `Blue Archive <https://bluearchive.fandom.com>`_ opening.

@@ -2,6 +2,9 @@
 I Didnt Expect It To Be This Funky
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: I Didnt Expect It To Be This Funky
 :Artist: Foobar
 :Known for: N/a

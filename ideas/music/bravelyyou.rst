@@ -2,6 +2,9 @@
 Bravely You
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: Bravely You
 :Artist: Lia & Aoi Tada
 :Known for: `Charlotte <https://myanimelist.net/anime/28999>`_ opening.

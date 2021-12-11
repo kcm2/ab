@@ -2,6 +2,9 @@
 God Syndrome
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: God Syndrome
 :Artist: Foobar
 :Known for: `Higurashi (Gou (2020)) <https://myanimelist.net/anime/41006>`_ ending 1.

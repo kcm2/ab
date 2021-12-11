@@ -2,6 +2,9 @@
 Life is Cider
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: Life is Cider
 :Artist: Foobar
 :Known for: `Wonder Egg Priority <https://myanimelist.net/anime/43299>`_ ending.

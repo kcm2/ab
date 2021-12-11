@@ -2,6 +2,9 @@
 Homecoming
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: Homecoming
 :Artist: Thomas Bergersen
 :Known for: N/a

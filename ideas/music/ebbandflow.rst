@@ -2,6 +2,9 @@
 ebb and flow
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: ebb and flow
 :Artist: Ray
 :Known for: `A Lull in the Sea <https://myanimelist.net/anime/16067>`_ opening 2.

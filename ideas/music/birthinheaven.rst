@@ -2,6 +2,9 @@
 Birth in Heaven
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: Birth in Heaven
 :Artist: OneRoom
 :Known for: N/a

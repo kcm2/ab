@@ -2,6 +2,9 @@
 I Believe What You Said
 ===========================
 
+.. WARNING:: 
+   This page is currently still in the early rough draft form at the moment.
+
 :Title: I Believe What You Said
 :Artist: Foobar
 :Known for: `Higurashi (Gou (2020)) <https://myanimelist.net/anime/41006>`_ opening 1.
