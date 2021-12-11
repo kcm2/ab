@@ -12,88 +12,88 @@ Birth in Heaven (vocals)
    * - Romaji
      - Kanji
      - English
-   * - Soko wa hikari mau yasashii sekai 
+   * - So𝄐ko wa hika𝄐ri mau𝄐𝄐𝄐 yasashii sekai 
      - そこは光舞う優しい世界 
      - 
-   * - Sore wa hatenu yume 
+   * - So𝄐re wa hat𝄐𝄐enu yume𝄐𝄐𝄐 
      - それは果てぬ夢
      - 
-   * - chikakute tooi yume  
+   * - chikakute tooi yume𝄐𝄐𝄐 
      - 近くて遠い夢
      - 
-   * - soko wa itami naki tadashii sekai
+   * - so𝄐ko wa𝄐 ita𝄐mi naki𝄐𝄐𝄐 tadashii sekai
+     - そこは痛み無き正しい世界
      - 
+   * - so𝄐re wa𝄐 sam𝄐enu yume𝄐𝄐
+     - それは醒めぬ夢 
      - 
-   * - sore wa samenu yume
+   * - itsumade mo𝄐𝄐
+     - いつまでも
      - 
+   * - donna𝄐 koe nara𝄐
+     - どんな声なら
      - 
-   * - itsumade mo 
+   * - donna kotoba nara𝄐𝄐 
+     - どんな言葉なら
      - 
+   * - kikoeru darou ka𝄐𝄐𝄐
+     - 聞こえるだろうか
      - 
-   * - donna koe nara 
-     - 
-     - 
-   * - donna kotoba nara 
-     - 
-     - 
-   * - kikoeru darou ka 
-     - 
-     - 
-   * - sore wa hatenu yume 
-     - 
+   * - so𝄐re wa hat𝄐enu yume𝄐𝄐𝄐 
+     - それは果てぬ夢 
      - 
    * - kawaranu yume 
+     - 変わらぬ夢 
      - 
+   * - konna𝄐 koe demo𝄐  
+     - こんな声でも
      - 
-   * - konna koe demo  
-     - 
-     - 
-   * - konna kotoba demo 
-     - 
+   * - konna𝄐 kotoba demo𝄐 
+     - こんな言葉でも 
      - 
    * - kokuu o nuke 
+     - 虚空を抜け
      - 
+   * - sono𝄐 saki𝄐 e 
+     - その先へ 
      - 
-   * - sono saki e 
+   * - donna𝄐 keshiki mo𝄐 
+     - どんな景色も 
      - 
+   * - donna𝄐 kokoro mo𝄐
+     - どんな心も 
      - 
-   * - donna keshiki mo 
-     - 
-     - 
-   * -  	donna kokoro mo 
-     - 
-     - 
-   * -  	jikan o wasureta 
-     - 
+   * - jikan o𝄐 wasureta 
+     - 時間を忘れた
      - 
    * - sono sekai e 
+     - その世界へ 
      - 
+   * - saa𝄐𝄐 ima𝄐𝄐j kika𝄐sete yo𝄐𝄐𝄐
+     - さあ今聞かせてよ 
      - 
-   * -  	saa ima kikasete yo
+   * - sono kotoba de𝄐𝄐
+     - その言葉で 
      - 
+   * - saa𝄐 kotaete yo𝄐𝄐𝄐
+     - さあ応えてよ
      - 
-   * -  	sono kotoba de 
+   * - aa𝄐
+     - ああ 
      - 
+   * - ima𝄐 kono𝄐𝄐 uta o𝄐𝄐 yume no saki e𝄐 
+     - 今この歌を夢の先へ 
      - 
-   * -  	saa kotaete yo 
+   * - kitto𝄐 sono𝄐𝄐 basho e𝄐𝄐𝄐𝄐
+     - きっとその場所へ  
      - 
+   * - donna𝄐 koe nara 
+     - どんな声なら 
      - 
-   * -  	aa 
+   * - donna𝄐 kotoba nara𝄐
+     - どんな言葉なら
      - 
-     - 
-   * - ima kono uta o yume no saki e 
-     - 
-     - 
-   * - kitto sono basho e 
-     - 
-     - 
-   * - donna koe nara 
-     - 
-     - 
-   * - donna kotoba nara 
-     - 
-     - 
-   * -  	todoku no darou ka 
-     - 
+   * - todoku no darou ka𝄐𝄐𝄐
+     - 届くのだろうか
      - 
 
