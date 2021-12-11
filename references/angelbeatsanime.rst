@@ -141,10 +141,14 @@ Episode 6
 * Naoi and posse appear in the cafeteria, and "arrest" Kanade and Otonashi. They are taken to cells in an undisclosed location. Otonashi remarks "where are we anyway" (said in both sub and dub).
 * Kanade falls asleep while leaning in the corner of the cell. Otonashi falls asleep too.
 * Otonashi is woken by an explosion. A drip from the roof of the cell lands on the bed.
-* Yuri comes on via the walkie-talkie, with explosions still occouring.
-* <radio notes>
-* Yuri says she thinks Kanade has been locked up. She explains that she checked the detention area they were held in, but couldn't find Kanade there.
-* Yuri says she needs Kanade to stop the fight.
+* Yuri comes on via the walkie-talkie, with explosions still occouring. Summerised:
+    | *Naoi is not an NPC, they are a human just like them. He's cruel and bullying other students.*
+    | *He's running rampant now that Angel can't keep him in check.*
+    | *The SSS are going into battle, unlike anything they have ever faced.*
+    | *Naoi is using the normal students as shields and hostages because the SSS can't fight back.*
+    | *He's shooting everyone down one-by-one.*
+    | *She thinks Angel has been locked up somewhere, after she checked the detention room and couldn't find her, something that's harder to break out of.*
+    | *She asks Otonashi to bring Kanade to the field to stop the battle. They are running out of time.*
 * Otonashi asks Kanade for help.
 * Kanade attacks the door with Hand Sonic, but the door has a force field applied to it. She notes that she didn't make it to be an offensive weapon.
 * Otonashi says he might have sided with Kanade, she responds that that hasn't happened before. She remarks that if someone was to side with her, they would disappear.
