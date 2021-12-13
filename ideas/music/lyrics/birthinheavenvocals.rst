@@ -6,7 +6,7 @@ Birth in Heaven (vocals)
    This page is currently still in the early rough draft form at the moment.
 
 .. NOTE:: 
-    | The symbol ```𝄐``` (`fermata <https://en.wikipedia.org/wiki/Fermata>`_) is a musical notation symbol to indicate that a note should be held. In this case, it is being used to show when a lyrical note is being held.
+    | The symbol ```𝄐``` (`fermata <https://en.wikipedia.org/wiki/Fermata>`_) is a musical notation symbol to indicate that a note should be held. In this case, it is being used to show when a lyrical note is being held, and a general indication as to how long for.
 
 .. list-table:: Title
    :widths: 25 25 50
