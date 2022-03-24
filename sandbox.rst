@@ -29,6 +29,24 @@ Box things
 .. NOTE:: 
     | Something here!
 
+.. ADMONITION::
+   Text goes here.
+
+.. CAUTION::
+   Text goes here.
+
+.. ERROR::
+   Text goes here.
+
+.. HINT::
+   Text goes here.
+
+.. SEEALSO::
+   Text goes here.
+
+.. DEPRECATED:: 0.01
+   foo bar
+
 
 Tabs
 *************
@@ -71,21 +89,6 @@ Table
      - Row 2, column 2
      - Row 2, column 3
 
-
-:Authors:
-    Tony J. (Tibs) Ibbs,
-    David Goodger
-
-:Version: 1.0 of 2001/08/08
-:Dedication: To my father.
-
-
-Block quotes are just:
-
-    Indented paragraphs,
-
-        and they may nest.
-
 Footnotes
 *************
 
@@ -111,4 +114,18 @@ how
 References 
 *************
 
-Some content. :ref:`warningboxes`
+Reference using the name from the link. :ref:`warningboxes`
+
+Reference using changed name. :ref:`Test <warningboxes>`
+
+
+Glossary 
+*************
+
+.. glossary::
+
+   aaaaaaaaaaa
+      bbbbbbbbbbbbbbb.
+
+   cccccc
+      ddddddddd.
