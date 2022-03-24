@@ -2,12 +2,22 @@
 Sandbox
 ===========================
 
-foobar
+.. DANGER:: 
+    | High voltage!
+
+.. WARNING:: 
+   Lewd content? Beware.
+
+.. IMPORTANT:: 
+   Something important here.
+
 
 
 .. tabs::
 
    .. tab:: reStructuredText
+
+      This is on the "reStructuredText" tab.
 
       .. code-block:: rst
 
@@ -15,6 +25,8 @@ foobar
          - :ref:`Custom title <guides/cross-referencing-with-sphinx:explicit targets>`.
 
    .. tab:: MyST (Markdown)
+
+      This is on the "Markdown" tab.
 
       .. code-block:: md
 
@@ -24,7 +36,7 @@ foobar
 
 
 .. list-table:: Title
-   :widths: 25 25 50
+   :widths: 33 33 33
    :header-rows: 1
 
    * - Romaji
@@ -36,3 +48,18 @@ foobar
    * - Row 2, column 1
      - Row 2, column 2
      - Row 2, column 3
+
+
+:Authors:
+    Tony J. (Tibs) Ibbs,
+    David Goodger
+
+:Version: 1.0 of 2001/08/08
+:Dedication: To my father.
+
+
+Block quotes are just:
+
+    Indented paragraphs,
+
+        and they may nest.
