@@ -12,6 +12,7 @@ Header order
 * ``^``, for subsubsections
 * ``"``, for paragraphs
 
+.. _warningboxes:
 
 Box things
 *************
@@ -84,3 +85,30 @@ Block quotes are just:
     Indented paragraphs,
 
         and they may nest.
+
+Footnotes
+*************
+
+Some text goes here [#Some-ref]_. 
+
+.. [#Some-ref] Some text also here that is a footnote.
+
+
+Definition lists
+*************
+
+what
+  Definition lists associate a term with
+  a definition.
+
+how
+  The term is a one-line phrase, and the
+  definition is one or more paragraphs or
+  body elements, indented relative to the
+  term. Blank lines are not allowed
+  between term and definition.
+
+References 
+*************
+
+Some content. :ref:`warningboxes`
