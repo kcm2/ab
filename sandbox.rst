@@ -1,6 +1,20 @@
-===========================
-Sandbox
-===========================
+################
+Sandbox title
+################
+
+Header order
+*************
+
+* ``#`` with overline, for parts
+* ``*`` with overline, for chapters
+* ``=``, for sections
+* ``-``, for subsections
+* ``^``, for subsubsections
+* ``"``, for paragraphs
+
+
+Box things
+*************
 
 .. DANGER:: 
     | High voltage!
@@ -11,7 +25,12 @@ Sandbox
 .. IMPORTANT:: 
    Something important here.
 
+.. NOTE:: 
+    | Something here!
 
+
+Tabs
+*************
 
 .. tabs::
 
@@ -34,6 +53,8 @@ Sandbox
          - {ref}`Custom title <guides/cross-referencing-with-sphinx:explicit targets>`.
 
 
+Table
+*************
 
 .. list-table:: Title
    :widths: 33 33 33
