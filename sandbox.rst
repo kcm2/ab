@@ -44,9 +44,6 @@ Box things
 .. SEEALSO::
    Text goes here.
 
-.. DEPRECATED:: 0.01
-   foo bar
-
 
 Tabs
 *************
