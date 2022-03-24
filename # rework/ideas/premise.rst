@@ -14,7 +14,6 @@ Premise / Overview
 Series premise
 ===============
 
-The general idea of what the project would achieve 
 
 
 

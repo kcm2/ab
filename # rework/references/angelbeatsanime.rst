@@ -161,7 +161,7 @@ Episode 6
 * Naoi mentions creating a prison for Kanade, and learning hypnotism.
 * <to continue>
 
-Episode 7
+Episode 7 - TO FORMAT PROPERLY!
 -----------
 
 * the sss are in the printials office relaxing naoi hyptontises hinata otonashi scolds him
@@ -187,7 +187,7 @@ Episode 7
 * otonashi asks kanade to stay and not fight, and be with her
 * during cleanup, yuri stumbles along injured, she says kanade attacked her = evil kanade shows up on the school roof
 
-Episode 8
+Episode 8 - TO FORMAT PROPERLY!
 -----------
 
 * evil kanade jumps down from the roof and starts attacking the SSS but yuri defends
@@ -207,15 +207,26 @@ Episode 8
 Episode 9
 -----------
 
-* kanade, with yuri and otonashi are in the infirmary at night. yuri blames herself ------ yuri turning point
-* yuri goes back to the principials office and the sss talk about the situation, the sss are not sure who she'll be
-* yuri sents christ, with 2 unnamed sss members to angel's bedroom who can understand the manual who make changes to angel player
+* Kanade (unconscious) is with Yuri and Otonashi in the infirmary at night. Yuri blames herself for Kanade being hurt [#yuriturn]_. Otonashi tries to cheer her up but it doesn't work.
+* Yuri goes back to the principial's office and the SSS talk about the situation. The SSS are not sure on if the normal or evil Kanade will wake up.
+* Yuri sends Christ and 2 unnamed SSS members to Kanade's bedroom who can translate the Angel Player manual.
+* TK and Matsushita are guarding the infirmary. - nao says useful things here 
+
+
+
+
+
 --- start of otonashi's flashback
 date of crash is 14 jan, and otonashi wakes up at 1:23am on the 15th of jan
 on day 7, otonashi signs the donor card
 -- end of ofonathi flashback
 otonashi wakes up and kanade is awake
 <notes>
+
+to come back to!!!
+
+Episode 10
+-----------
 
 
 
@@ -310,3 +321,7 @@ Footnotes
 .. [#nocomment] Supporting/Contradiction: Kanade was going to be shown as knowing how the world works, but having her memory erased so she forgot. Her going 'no comment' can support that she does know (and refusing to tell) while also contradicting that she doesn't know, or still remembers.
 
 .. [#ww2] Supporting: Supports the idea that Chaa (or at least some other member of the SSS) was in WW2.
+
+.. [#yuriturn] This could be the turning point of Yuri. 
+
+evil kanade is the younger kanade that was forced to fight when being expermented on
