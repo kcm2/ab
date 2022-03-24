@@ -36,8 +36,17 @@ author = 'KCM'
 # ones.
 extensions = [
     'sphinx.ext.autosectionlabel',
-    'sphinx_tabs.tabs'
+    'sphinx_tabs.tabs',
+    'hoverxref.extension',
     ]
+
+# Activate autosectionlabel plugin
+autosectionlabel_prefix_document = True
+
+# https://sphinx-hoverxref.readthedocs.io/en/latest/configuration.html#confval-hoverxref_role_types
+hoverxref_role_types = {
+    'hoverxref': 'tooltip',
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -46,6 +55,7 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+
 
 
 # -- Options for HTML output -------------------------------------------------
