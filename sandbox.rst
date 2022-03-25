@@ -136,13 +136,24 @@ Reference using changed name. :ref:`Test <warningboxes>`
 Interlinks
 =================
 
-A link to a test page :doc:`test/sometest` and with a :doc:`different label <test/sometest>`.
+Using ``doc`` to link to ``test/sometest.rst`` 
 
-A link to a header in another file with a :doc:`different label <test/sometest#other-test>`.
+Using ``:doc:`test/sometest`` produces :doc:`test/sometest`.
 
-A test using ref. :ref:`hoverxref:sub-section` this is new
+Using ``:doc:`different label <test/sometest>`` produces :doc:`different label <test/sometest>`.
 
-Link to a different file folder, using ref :ref:`test/sometest:other-test` this is also new
+Using ``:doc:`different label <test/sometest#other-test>`` produces ``:doc:`different label <test/sometest#other-test>``.
+
+Using ``ref`` to link to ``/hoverxref.rst``.
+
+Using ``:ref:`hoverxref:sub-section`` produces :ref:`hoverxref:sub-section
+
+Using ``:ref:`hoverxref:section`` produces :ref:`hoverxref:section
+
+Using ``ref:test/sometest:other-test`` produces ``ref:test/sometest:other-test``.
+
+
+
 
 
 
