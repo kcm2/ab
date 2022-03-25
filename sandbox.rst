@@ -44,6 +44,15 @@ Box things
 .. SEEALSO::
    Text goes here.
 
+.. versionchanged:: 1.3
+   Something changed.
+
+.. topic:: Example
+
+   A topic block.
+
+.. deprecated:: 1.2
+   Old thing removed.
 
 Tabs
 *************
