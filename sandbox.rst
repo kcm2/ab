@@ -156,6 +156,8 @@ Using ``:ref:`hoverxref:section`` produces :ref:`hoverxref:section`
 
 Using ``:ref:test/sometest:other-test`` produces :ref:`test/sometest:other-test`.
 
+Using ``:ref:test/sometest#other-test`` produces :ref:`test/sometest#other-test`. or :ref:`foo <test/sometest>` or :ref:`bar <test/sometest#other-test>`
+
 
 
 
