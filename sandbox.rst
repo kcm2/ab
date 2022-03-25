@@ -139,35 +139,19 @@ Interlinks
 Using doc
 -----------
 
-Link to ``test/sometest``.
-
 Link to page: ``:doc:`test/sometest`` - :doc:`test/sometest`
 
-Link to section in page: ``:doc:`test/sometest#other-test`` - :doc:`test/sometest#other-test`
-
-Link to ``hoverxref.rst``.
-
 Link to page: ``:doc:hoverxref`` - :doc:`hoverxref`
-
-Link to section in page: ``:doc:hoverxref#sub-section`` - :doc:`hoverxref#sub-section`
 
 
 Using ref
 -----------
 
-Link to ``test/sometest``.
+Link to page: ``:ref:`Link <hoverxref:section>`` - :ref:`Link <hoverxref:section>`
 
-Link to page: ``:ref:`/test/sometest`` - :ref:`/test/sometest`
+a random test: :ref:`Link <test/sometest:other-test>` or :ref:`Link <sometest:other-test>`
 
-Link to section in page: ``:ref:`test/sometest#other-test`` - :ref:`/test/sometest#other-test`
-
-Link to ``hoverxref.rst``.
-
-Link to page: ``:ref:/hoverxref`` - :ref:`/hoverxref`
-
-Link to section in page: ``:ref:/hoverxref#sub-section`` - :ref:`/hoverxref#sub-section`
-
-a random test: :ref:`Link <hoverxref:section>` or :ref:`Link </test/sometest:other-test>` or :ref:`Link <sometest:other-test>`
+a random test: :ref:`Link <test/sometest#other-test>` or :ref:`Link <sometest#other-test>`
 
 Definition lists
 =================
