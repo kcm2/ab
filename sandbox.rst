@@ -136,30 +136,36 @@ Reference using changed name. :ref:`Test <warningboxes>`
 Interlinks
 =================
 
-Using ``doc`` to link to ``test/sometest.rst`` 
+Using doc
+-----------
 
-Using ``:doc:`test/sometest`` produces :doc:`test/sometest`.
+Link to ``test/sometest``.
 
-Using ``:doc:`different label <test/sometest>`` produces :doc:`different label <test/sometest>`.
+Link to page: ``:doc:`test/sometest`` - :doc:`test/sometest`
 
-Using ``:doc:`different label <test/sometest#other-test>`` produces :doc:`different label <test/sometest#other-test>`.
+Link to section in page: ``:doc:`test/sometest#other-test`` - :doc:`test/sometest#other-test`
 
-Using ``:doc:`different label <test/sometest:other-test>`` produces :doc:`different label <test/sometest:other-test>`.
+Link to ``hoverxref.rst``.
 
-Using ``ref`` to link to ``/hoverxref.rst``.
+Link to page: ``:doc:hoverxref`` - :doc:`hoverxref`
 
-Using ``:ref:`hoverxref:sub-section`` produces :ref:`hoverxref:sub-section`
-
-This is the same as the above, but using a label. :ref:`Like this <hoverxref:sub-section>`
-
-Using ``:ref:`hoverxref:section`` produces :ref:`hoverxref:section`
-
-Using ``:ref:test/sometest:other-test`` produces :ref:`test/sometest:other-test`.
-
-Using ``:ref:test/sometest#other-test`` produces :ref:`test/sometest#other-test`. or :ref:`foo <test/sometest>` or :ref:`bar <test/sometest#other-test>`
+Link to section in page: ``:doc:hoverxref#sub-section`` - :doc:`hoverxref#sub-section`
 
 
+Using ref
+-----------
 
+Link to ``test/sometest``.
+
+Link to page: ``:ref:`test/sometest`` - :ref:`test/sometest`
+
+Link to section in page: ``:ref:`test/sometest#other-test`` - :ref:`test/sometest#other-test`
+
+Link to ``hoverxref.rst``.
+
+Link to page: ``:ref:hoverxref`` - :ref:`hoverxref`
+
+Link to section in page: ``:ref:hoverxref#sub-section`` - :ref:`hoverxref#sub-section`
 
 
 
