@@ -139,6 +139,8 @@ Interlinks
 
 A link to a test page :doc:`test/sometest` and with a :doc:`different label <test/sometest>`.
 
+A link to a header in another file with a :doc:`different label <test/sometest#other-test>`.
+
 Definition lists
 =================
 
