@@ -1,16 +1,21 @@
-################
+================
 Sandbox title
-################
+================
 
 Header order
-*************
+================
 
-* ``#`` with overline, for parts
-* ``*`` with overline, for chapters
-* ``=``, for sections
-* ``-``, for subsections
-* ``^``, for subsubsections
-* ``"``, for paragraphs
+Header 1
+=========
+
+Header 1.1
+-----------
+
+Header 1.1.1
+~~~~~~~~~~~~
+
+Header 1.1.1.1
+""""""""""""""
 
 .. _warningboxes:
 

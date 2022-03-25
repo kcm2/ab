@@ -36,7 +36,8 @@ author = 'KCM'
 # ones.
 extensions = [
     'sphinx.ext.autosectionlabel',
-    'sphinx_tabs.tabs'
+    'sphinx_tabs.tabs',
+    'hoverxref.extension'
     ]
 
 # Add any paths that contain templates here, relative to this directory.
