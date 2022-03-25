@@ -142,15 +142,15 @@ Using ``:doc:`test/sometest`` produces :doc:`test/sometest`.
 
 Using ``:doc:`different label <test/sometest>`` produces :doc:`different label <test/sometest>`.
 
-Using ``:doc:`different label <test/sometest#other-test>`` produces ``:doc:`different label <test/sometest#other-test>``.
+Using ``:doc:`different label <test/sometest#other-test>`` produces :doc:`different label <test/sometest#other-test>`.
 
 Using ``ref`` to link to ``/hoverxref.rst``.
 
-Using ``:ref:`hoverxref:sub-section`` produces :ref:`hoverxref:sub-section
+Using ``:ref:`hoverxref:sub-section`` produces :ref:`hoverxref:sub-section`
 
-Using ``:ref:`hoverxref:section`` produces :ref:`hoverxref:section
+Using ``:ref:`hoverxref:section`` produces :ref:`hoverxref:section`
 
-Using ``ref:test/sometest:other-test`` produces ``ref:test/sometest:other-test``.
+Using ``ref:test/sometest:other-test`` produces `ref:test/sometest:other-test`.
 
 
 
