@@ -108,6 +108,30 @@ Some text goes here [#Some-ref]_.
 
 .. [#Some-ref] Some text also here that is a footnote.
 
+Footnotes2
+=================
+
+Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.
+.. [#f2] Text of the second footnote.
+
+Citations 
+=================
+
+Lorem ipsum [Ref]_ dolor sit amet.
+
+.. [Ref] Book or article reference, URL or whatever.
+
+References 
+=================
+
+Reference using the name from the link. :ref:`warningboxes`
+
+Reference using changed name. :ref:`Test <warningboxes>`
+
 
 Definition lists
 =================
@@ -123,13 +147,6 @@ how
   term. Blank lines are not allowed
   between term and definition.
 
-References 
-=================
-
-Reference using the name from the link. :ref:`warningboxes`
-
-Reference using changed name. :ref:`Test <warningboxes>`
-
 
 Glossary 
 =================
@@ -142,19 +159,8 @@ Glossary
    cccccc
       ddddddddd.
 
-Citations 
+
+Hover tool-tip
 =================
 
-Lorem ipsum [Ref]_ dolor sit amet.
-
-.. [Ref] Book or article reference, URL or whatever.
-
-Footnotes2
-=================
-
-Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
-
-.. rubric:: Footnotes
-
-.. [#f1] Text of the first footnote.
-.. [#f2] Text of the second footnote.
+This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``.
