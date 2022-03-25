@@ -157,17 +157,17 @@ Using ref
 
 Link to ``test/sometest``.
 
-Link to page: ``:ref:`test/sometest`` - :ref:`test/sometest`
+Link to page: ``:ref:`/test/sometest`` - :ref:`/test/sometest`
 
-Link to section in page: ``:ref:`test/sometest#other-test`` - :ref:`test/sometest#other-test`
+Link to section in page: ``:ref:`test/sometest#other-test`` - :ref:`/test/sometest#other-test`
 
 Link to ``hoverxref.rst``.
 
-Link to page: ``:ref:hoverxref`` - :ref:`hoverxref`
+Link to page: ``:ref:/hoverxref`` - :ref:`/hoverxref`
 
-Link to section in page: ``:ref:hoverxref#sub-section`` - :ref:`hoverxref#sub-section`
+Link to section in page: ``:ref:/hoverxref#sub-section`` - :ref:`/hoverxref#sub-section`
 
-
+a random test: :ref:`Link <hoverxref:section>` or :ref:`Link </test/sometest:other-test>` or :ref:`Link <sometest:other-test>`
 
 Definition lists
 =================
@@ -200,5 +200,3 @@ Hover tool-tip
 =================
 
 This will :hoverxref:`show a tooltip <hoverxref>` in the linked words to ``hoverxref``. - This shows the whole doc.
-
-This :hoverxref:`tooltip <hoverxref#sub-section>` should only show the sub section.
