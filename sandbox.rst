@@ -47,9 +47,12 @@ Box things
 .. versionchanged:: 1.3
    Something changed.
 
-.. topic:: Example
+.. sidebar:: Optional Sidebar Title
+   :subtitle: Optional Sidebar Subtitle
 
-   A topic block.
+   Subsequent indented lines comprise
+   the body of the sidebar, and are
+   interpreted as body elements.
 
 .. deprecated:: 1.2
    Old thing removed.
@@ -135,3 +138,20 @@ Glossary
 
    cccccc
       ddddddddd.
+
+Citations 
+*************
+
+Lorem ipsum [Ref]_ dolor sit amet.
+
+.. [Ref] Book or article reference, URL or whatever.
+
+Footnotes2
+*************
+
+Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.
+.. [#f2] Text of the second footnote.
