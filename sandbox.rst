@@ -148,6 +148,8 @@ Using ``ref`` to link to ``/hoverxref.rst``.
 
 Using ``:ref:`hoverxref:sub-section`` produces :ref:`hoverxref:sub-section`
 
+This is the same as the above, but using a label. :ref:`Like this <hoverxref:sub-section>`
+
 Using ``:ref:`hoverxref:section`` produces :ref:`hoverxref:section`
 
 Using ``ref:test/sometest:other-test`` produces `ref:test/sometest:other-test`.
