@@ -163,4 +163,4 @@ Glossary
 Hover tool-tip
 =================
 
-This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``.
+This will :hoverxref:`show a tooltip <hoverxref>` in the linked words to ``hoverxref``.
