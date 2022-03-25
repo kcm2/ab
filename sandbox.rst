@@ -137,7 +137,7 @@ This is a link to the index page.
 Interlinks
 =================
 
-A link to a test page :doc:`test/sometest` and with a :ref:`different label <test/sometest>`.
+A link to a test page :doc:`test/sometest` and with a :doc:`different label <test/sometest>`.
 
 Definition lists
 =================
