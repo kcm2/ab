@@ -149,7 +149,9 @@ Using ref
 
 Link to page: ``:ref:`Link <hoverxref:section>`` - :ref:`Link <hoverxref:section>`
 
-a random test: :ref:`Link <test/sometest:Other-test>` or :ref:`Link <sometest:Other-test>`
+Link to page: ``:ref:`Link <test/sometest>`` - :ref:`Link <test/sometest>`
+
+a random test: :ref:`Link <test/sometest:Other-test>` or :ref:`Link <Some Test:Other-test>`
 
 a random test: :ref:`Link <test/sometest#Other-test>` or :ref:`Link <sometest#Other-test>`
 
