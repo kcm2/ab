@@ -14,13 +14,11 @@ Header 1.1
 Header 1.1.1
 ~~~~~~~~~~~~
 
-Header 1.1.1.1
-""""""""""""""
 
 .. _warningboxes:
 
 Box things
-*************
+================
 
 .. DANGER:: 
     | High voltage!
@@ -63,7 +61,7 @@ Box things
    Old thing removed.
 
 Tabs
-*************
+================
 
 .. tabs::
 
@@ -87,7 +85,7 @@ Tabs
 
 
 Table
-*************
+================
 
 .. list-table:: Title
    :widths: 33 33 33
@@ -104,7 +102,7 @@ Table
      - Row 2, column 3
 
 Footnotes
-*************
+================
 
 Some text goes here [#Some-ref]_. 
 
@@ -112,7 +110,7 @@ Some text goes here [#Some-ref]_.
 
 
 Definition lists
-*************
+=================
 
 what
   Definition lists associate a term with
@@ -126,7 +124,7 @@ how
   between term and definition.
 
 References 
-*************
+=================
 
 Reference using the name from the link. :ref:`warningboxes`
 
@@ -134,7 +132,7 @@ Reference using changed name. :ref:`Test <warningboxes>`
 
 
 Glossary 
-*************
+=================
 
 .. glossary::
 
@@ -145,14 +143,14 @@ Glossary
       ddddddddd.
 
 Citations 
-*************
+=================
 
 Lorem ipsum [Ref]_ dolor sit amet.
 
 .. [Ref] Book or article reference, URL or whatever.
 
 Footnotes2
-*************
+=================
 
 Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
 
