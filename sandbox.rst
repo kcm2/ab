@@ -132,7 +132,6 @@ Reference using the name from the link. :ref:`warningboxes`
 
 Reference using changed name. :ref:`Test <warningboxes>`
 
-This is a link to the index page.
 
 Interlinks
 =================
@@ -140,6 +139,12 @@ Interlinks
 A link to a test page :doc:`test/sometest` and with a :doc:`different label <test/sometest>`.
 
 A link to a header in another file with a :doc:`different label <test/sometest#other-test>`.
+
+A test using ref. :ref:`hoverxref:sub-section` this is new
+
+Link to a different file folder, using ref :ref:`test/sometest:other-test` this is also new
+
+
 
 Definition lists
 =================
