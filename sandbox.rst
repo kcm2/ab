@@ -132,6 +132,12 @@ Reference using the name from the link. :ref:`warningboxes`
 
 Reference using changed name. :ref:`Test <warningboxes>`
 
+This is a link to the index page.
+
+Interlinks
+=================
+
+A link to a test page :doc:`test/sometest` and with a :ref:`different label <test/sometest>`.
 
 Definition lists
 =================
