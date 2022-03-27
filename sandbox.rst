@@ -151,11 +151,11 @@ Using doc
 Using ref
 -----------
 
-* Link to whole pages on a different level - :ref:`hoverxref`
+* Link to whole pages on a different level - :ref:`hoverxref:hoverxref`
 
 * Link to a section in a page, on a different level - :ref:`hoverxref:section 1`
 
-* Link to a whole file on the same level - :ref:`test/sometest`
+* Link to a whole file on the same level - :ref:`test/sometest.html#some-test`
 
 * Link to a section in a page on the same level. - :ref:`test/sometest:header 1`
 
