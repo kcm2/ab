@@ -146,7 +146,7 @@ Using doc
 
 * Link to a whole file on the same level - ``:doc:hoverxref`` - :doc:`hoverxref`
 
-* Link to a section in a page on the same level. - :doc:`hoverxref#section-1`
+* Link to a section in a page on the same level. - :doc:`hoverxref#section 1`
 
 Using ref
 -----------
@@ -190,4 +190,4 @@ Glossary
 Hover tool-tip
 =================
 
-This will :hoverxref:`show a tooltip <hoverxref>` in the linked words to ``hoverxref``. - This shows the whole doc.
+This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``. - This shows the whole doc.
