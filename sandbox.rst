@@ -155,7 +155,7 @@ Using ref
 
 * Link to a section in a page, on a different level - :ref:`hoverxref:section 1`
 
-* Link to a whole file on the same level - :ref:`test/sometest#some test`
+* Link to a whole file on the same level - :ref:`test/sometest:some test`
 
 * Link to a section in a page on the same level. - :ref:`test/sometest:header 1`
 
