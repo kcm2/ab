@@ -37,11 +37,16 @@ author = 'KCM'
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx_tabs.tabs',
-    'hoverxref.extension'
+    'hoverxref.extension',
     ]
 
 # Activate autosectionlabel plugin
 autosectionlabel_prefix_document = True
+
+# https://sphinx-hoverxref.readthedocs.io/en/latest/configuration.html#confval-hoverxref_role_types
+hoverxref_role_types = {
+    'hoverxref': 'tooltip',
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
