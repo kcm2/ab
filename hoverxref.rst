@@ -157,3 +157,8 @@ Sub-section 1
 ---------------
 
 Another small section, a sub-section.
+
+Section 2
+==========
+
+Some other section.
