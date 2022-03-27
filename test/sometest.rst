@@ -155,7 +155,16 @@ This is a test.
 
 
 
-Other test
+Header 1
+================
+
+This is some other test.
+
+This is some other test.
+
+This is some other test.
+
+Header 2
 ================
 
 This is some other test.

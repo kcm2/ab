@@ -136,24 +136,29 @@ Reference using changed name. :ref:`Test <warningboxes>`
 Interlinks
 =================
 
+
 Using doc
 -----------
 
-Link to page: ``:doc:`test/sometest`` - :doc:`test/sometest`
+* Link to whole pages on a different level - ``:doc:test/sometest`` - :doc:`test/sometest`
 
-Link to page: ``:doc:hoverxref`` - :doc:`hoverxref`
+* Link to a section in a page, on a different level - ``:doc:test/sometest#header-1`` - :doc:`test/sometest#header-1`
 
+* Link to a whole file on the same level - ``:doc:hoverxref`` - :doc:`hoverxref`
+
+* Link to a section in a page on the same level. - :doc:`hoverxref#section-1`
 
 Using ref
 -----------
 
-Link to page: ``:ref:`Link <hoverxref:section>`` - :ref:`Link <hoverxref:section>`
+* Link to whole pages on a different level - :ref:`hoverxref`
 
-Link to page: ``:ref:`Link <test/sometest>`` - :ref:`Link <test/sometest>`
+* Link to a section in a page, on a different level - :ref:`hoverxref:section 1`
 
-a random test: :ref:`Link <test/sometest:Other-test>` or :ref:`Link <Some Test:Other-test>`
+* Link to a whole file on the same level - :ref:`test/sometest`
 
-a random test: :ref:`Link <test/sometest#Other-test>` or :ref:`Link <sometest#Other-test>`
+* Link to a section in a page on the same level. - :ref:`test/sometest:header 1`
+
 
 Definition lists
 =================

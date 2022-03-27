@@ -6,8 +6,8 @@
 
 Hi from another completely different page!
 
-Section
-=======
+Section 1
+==========
 
 This is the **content** of another section.
 
@@ -153,7 +153,7 @@ This is placeholder text.
 
 
 
-Sub-section
------------
+Sub-section 1
+---------------
 
 Another small section, a sub-section.
