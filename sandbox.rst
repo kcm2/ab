@@ -191,3 +191,5 @@ Hover tool-tip
 =================
 
 This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``. - This shows the whole doc.
+
+This :hoverxref:`tool tip <hoverxref:section 1>` will show only a section though.
