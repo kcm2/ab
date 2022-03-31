@@ -19,12 +19,18 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 .. toctree::
     :maxdepth: -1
     :hidden:
+    :caption: References
+
+    References <references/references-index>
+
+.. toctree::
+    :maxdepth: -1
+    :hidden:
     :caption: Ideas
 
     Premise/Overview <ideas/premise>
     Ideas <ideas/ideas-index>
     Music <ideas/music/music-index>
-    References <references/references-index>
 
 .. toctree::
     :maxdepth: -1
