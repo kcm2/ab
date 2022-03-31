@@ -1,5 +1,5 @@
 ===============================
-References
+Angel Beats!
 ===============================
 
 References, in this context refers to ideas and lore that come from, or happen, in an anime, manga, series. 
@@ -10,4 +10,9 @@ References, in this context refers to ideas and lore that come from, or happen, 
 .. toctree::
    :maxdepth: 1
 
-   Angel Beats! <angelbeats/angelbeats-index>
+   Heaven's Door <heavensdoor>
+
+
+
+
+
