@@ -18,7 +18,7 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 
 .. toctree::
     :maxdepth: 0
-    :hidden:
+    :includehidden:
     :caption: References
 
     References index <references/references-index>
@@ -26,16 +26,6 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 
 .. toctree::
     :maxdepth: -1
-    :hidden:
-    :caption: Ideas
-
-    Premise/Overview <ideas/premise>
-    Ideas <ideas/ideas-index>
-    Music <ideas/music/music-index>
-
-.. toctree::
-    :maxdepth: -1
-    :hidden:
     :caption: Editing tools
 
     Sandbox <sandbox>
