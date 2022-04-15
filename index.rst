@@ -17,7 +17,7 @@ Ut aliquet leo vel nibh commodo, in luctus libero placerat. Nulla facilisi. Cras
 Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, tempus ac eros. Proin dapibus vestibulum nisi a mollis. Praesent eu ligula sodales, dapibus ipsum vehicula, vulputate nunc. Sed congue rhoncus elit. Nullam molestie eros in fringilla lacinia. Phasellus laoreet semper lectus, eget pulvinar quam condimentum ac. Nulla in sagittis turpis. Fusce vel lectus quis augue dapibus porta. 
 
 .. toctree::
-    :maxdepth: 0
+    :maxdepth: 2
     :includehidden:
     :caption: References
 
