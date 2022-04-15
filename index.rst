@@ -21,7 +21,8 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :hidden:
     :caption: References
 
-    References <references/references-index>
+    References index <references/references-index>
+    Angel Beats <references/angelbeats/angelbeats-index>
 
 .. toctree::
     :maxdepth: -1

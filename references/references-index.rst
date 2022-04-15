@@ -1,5 +1,5 @@
 ===============================
-References
+References (index)
 ===============================
 
 References, in this context refers to ideas and lore that come from, or happen, in an anime, manga, series. 
