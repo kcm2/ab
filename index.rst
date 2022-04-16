@@ -20,7 +20,7 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :maxdepth: 2
     :caption: References
 
-    References index <references/references-index-fake>
+    References index <references/references-index>
     Angel Beats <references/angelbeats/angelbeats-index>
 
 
