@@ -20,13 +20,8 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :maxdepth: 2
     :caption: References
 
-    References index <references/references-index>
-
-.. toctree::
-    :maxdepth: 2
-
+    References index <references/references-index-fake>
     Angel Beats <references/angelbeats/angelbeats-index>
-
 
 
 .. toctree::
