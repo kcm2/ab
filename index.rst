@@ -18,7 +18,6 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 
 .. toctree::
     :maxdepth: 2
-    :includehidden:
     :caption: References
 
     References index <references/references-index-fake>
