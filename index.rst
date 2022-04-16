@@ -23,6 +23,14 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     References index <references/references-index-fake>
     Angel Beats <references/angelbeats/angelbeats-index>
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: 2
+
+    Angel Beats <references/angelbeats/angelbeats-index>
+
+
 
 .. toctree::
     :maxdepth: -1
