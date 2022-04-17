@@ -18,6 +18,12 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 
 .. toctree::
     :maxdepth: -1
+    :caption: Ideas
+
+    Ideas index <docs/ideas>
+
+.. toctree::
+    :maxdepth: -1
     :caption: References
 
     References index <docs/references>
