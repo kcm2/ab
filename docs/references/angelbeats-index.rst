@@ -13,11 +13,8 @@ References in this section refer to elements from the Angel Beats! series, inclu
 
 .. toctree::
    :maxdepth: 1
-   :caption: Manga
 
-   Heaven's Door story <heavensdoor>
-
-
+   Heaven's Door story <angelbeats/heavensdoor>
 
 
 
