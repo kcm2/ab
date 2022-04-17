@@ -6,7 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitud
 
 .. toctree::
     :maxdepth: -1
-    :hidden:
 
     Example song 1 <music/example1>
     Example song 2 <music/example2>
