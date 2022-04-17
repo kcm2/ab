@@ -38,6 +38,16 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 
     Sandbox <sandbox>
 
+.. toctree::
+    :maxdepth: -1
+    :hidden:
+    :caption: menu test
+
+    aa <aa>
+    bb <aa/bb>
+
+
+
 
 
 
