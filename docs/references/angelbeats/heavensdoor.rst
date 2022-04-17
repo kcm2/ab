@@ -1,5 +1,5 @@
 ********************************************
-Angel Beats! (Heaven's Door)
+Heaven's Door
 ********************************************
 
 This page only references content from the manga series Angel Beats! Heaven's Door.
