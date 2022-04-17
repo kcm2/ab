@@ -36,15 +36,15 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :maxdepth: -1
     :caption: Editing tools
 
-    Sandbox <sandbox>
+    Sandbox <docs/sandbox>
 
 .. toctree::
     :maxdepth: -1
     :hidden:
     :caption: menu test
 
-    aa <aa>
-    bb <aa/bb>
+    aa <docs/aa>
+    bb <docs/aa/bb>
 
 
 
