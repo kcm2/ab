@@ -1,5 +1,15 @@
 ===============================
-Example song 1
+Example lyrics 1
 ===============================
 
-This is example song 1.
+This is example lyrics 1.
+
+.. toctree::
+    :maxdepth: -1
+
+    Lyrics <lyrics/lyrics1>
+
+
+
+
+
