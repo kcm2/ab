@@ -21,6 +21,7 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :caption: Ideas
 
     Ideas index <docs/ideas>
+    Music <>
 
 .. toctree::
     :maxdepth: -1
