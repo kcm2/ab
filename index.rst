@@ -18,28 +18,31 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 
 .. toctree::
     :maxdepth: -1
-    :hidden:
-    :caption: References
-
-    References <references/references-index>
-
-.. toctree::
-    :maxdepth: -1
-    :hidden:
     :caption: Ideas
 
-    Premise/Overview <ideas/premise>
-    Ideas <ideas/ideas-index>
-    Music <ideas/music/music-index>
+    Ideas index <docs/ideas>
+    Music <docs/ideas/music-index>
+
+.. toctree::
+    :maxdepth: -1
+    :caption: References
+
+    References index <docs/references>
+    Angel Beats <docs/references/angelbeats-index>
+
+.. toctree::
+    :maxdepth: -1
+    :caption: Editing tools
+
+    Sandbox <docs/sandbox>
 
 .. toctree::
     :maxdepth: -1
     :hidden:
-    :caption: Editing tools
+    :caption: menu test
 
-    Sandbox <sandbox>
-
-
+    aa <docs/aa>
+    bb <docs/aa/bb>
 
 
 
