@@ -21,7 +21,6 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :caption: References
 
     References index <docs/references>
-    aa <docs/aa>
 
 .. toctree::
     :maxdepth: -1
