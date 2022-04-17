@@ -1,5 +1,5 @@
 ===============================
-Example song 1
+Example song lyrics 1
 ===============================
 
-This is example song 1.
+This is example song lyrics 1.
