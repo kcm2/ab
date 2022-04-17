@@ -8,16 +8,13 @@ Angel Beats!
 References in this section refer to elements from the Angel Beats! series, including the anime, manga series, visual novel.
 
 
-
-
-
 .. toctree::
-   :maxdepth: 1
-   :caption: Manga
+    :maxdepth: -1
+    :hidden:
 
-   Heaven's Door story <heavensdoor>
-
-
+    Angel Beats! anime <angelbeats/abanime>
+    Heaven's Door <angelbeats/heavensdoor>
+    The Last Operation <angelbeats/thelastoperation>
 
 
 

@@ -8,6 +8,7 @@ References, in this context refers to ideas and lore that come from, or happen, 
     | This section *may* include spoilers from the series listed below.
 
 .. toctree::
-   :maxdepth: 2
-
-   Angel Beats! <angelbeats/angelbeats-index>
+    :hidden:
+    :maxdepth: -1
+    
+    Angel Beats! <references/angelbeats-index>
