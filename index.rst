@@ -17,20 +17,11 @@ Ut aliquet leo vel nibh commodo, in luctus libero placerat. Nulla facilisi. Cras
 Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, tempus ac eros. Proin dapibus vestibulum nisi a mollis. Praesent eu ligula sodales, dapibus ipsum vehicula, vulputate nunc. Sed congue rhoncus elit. Nullam molestie eros in fringilla lacinia. Phasellus laoreet semper lectus, eget pulvinar quam condimentum ac. Nulla in sagittis turpis. Fusce vel lectus quis augue dapibus porta. 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: -1
     :caption: References
 
-    References index <references/references-index-fake>
-    Angel Beats <references/angelbeats/angelbeats-index>
-
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-    :caption: 2
-
-    Angel Beats <references/angelbeats/angelbeats-index>
-
-
+    References index <docs/references>
+    aa <docs/aa>
 
 .. toctree::
     :maxdepth: -1
@@ -45,10 +36,6 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 
     aa <docs/aa>
     bb <docs/aa/bb>
-
-
-
-
 
 
 
