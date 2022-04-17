@@ -8,13 +8,12 @@ Angel Beats!
 References in this section refer to elements from the Angel Beats! series, including the anime, manga series, visual novel.
 
 
-
-
-
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: -1
+    :hidden:
+    :caption: menu test
 
-   Heaven's Door story <angelbeats/heavensdoor>
+    Heaven's Door <angelbeats/heavensdoor>
 
 
 
