@@ -155,9 +155,13 @@ Using ref
 
 * Link to a section in a page, on a different level - :ref:`hoverxref:section 1`
 
-* Link to a whole file on the same level - :ref:`test/sometest:some test`
+* Link to a whole file on the same level - :ref:`docs/test/sometest:some test`
 
-* Link to a section in a page on the same level. - :ref:`test/sometest:header 1`
+* Link to a section in a page on the same level. - :ref:`docs/test/sometest:header 1`
+
+* Testing = :ref:`docs/ideas/music/lyrics/littlebustersfull:little busters (full)zzzzz Little Busters (full)zzzzz`
+
+* Testing2 = :ref:`docs/ideas/music/lyrics/littlebustersfull:little busters (full)zzzzz`
 
 
 Definition lists
