@@ -1,5 +1,5 @@
 ===============================
-Ideas (index)
+Music index
 ===============================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitudin quam, sed finibus metus sodales id.
