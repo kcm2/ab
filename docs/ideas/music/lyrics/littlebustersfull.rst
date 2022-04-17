@@ -1,6 +1,6 @@
-===========================
-Little Busters (full)
-===========================
+=============================
+Little Busters (full) lyrics
+=============================
 
 .. WARNING:: 
    This page is currently still in the early rough draft form at the moment.
