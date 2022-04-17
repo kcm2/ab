@@ -11,9 +11,10 @@ References in this section refer to elements from the Angel Beats! series, inclu
 .. toctree::
     :maxdepth: -1
     :hidden:
-    :caption: menu test
 
+    Angel Beats! anime <angelbeats/abanime>
     Heaven's Door <angelbeats/heavensdoor>
+    The Last Operation <angelbeats/thelastoperation>
 
 
 
