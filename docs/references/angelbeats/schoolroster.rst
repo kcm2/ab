@@ -10,7 +10,7 @@ This page only references content from the manga series Angel Beats! The Last Op
 In episode 3 (16:56) of the anime, the SSS break into Kanade's room and discover a school roster of the students in the school.
 
 .. list-table:: Roster shown in episode 3.
-   :widths: 25 25 50
+   :widths: 16 16 16 16 16 16
    :header-rows: 1
 
    * - ID
