@@ -24,4 +24,14 @@ In episode 3 (16:56) of the anime, the SSS break into Kanade's room and discover
      - 2
      - B
      - 10
-   
+   * - 2236
+     - []
+     - xxx
+     - 0
+     - 0
+     - 0
+
+.. csv-table:: Optional title
+   :header: "ID", "x", "Name", "x", "クラス (class)", "x"
+
+   "2235", "x", "Aikawa Mitsuru", "2", "B", "10"
