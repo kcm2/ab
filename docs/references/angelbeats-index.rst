@@ -15,6 +15,7 @@ References in this section refer to elements from the Angel Beats! series, inclu
     Angel Beats! anime <angelbeats/abanime>
     Heaven's Door <angelbeats/heavensdoor>
     The Last Operation <angelbeats/thelastoperation>
+    School Roster <angelbeats/schoolroster>
 
 
 
