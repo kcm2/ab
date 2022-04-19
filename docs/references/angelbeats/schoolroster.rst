@@ -2,16 +2,11 @@
 School Roster
 ===============================
 
-This page only references content from the manga series Angel Beats! The Last Operation.
-
-.. WARNING:: 
-   This page is currently still in the early rough draft form at the moment.
-
-In episode 3 (16:56) of the anime, the SSS break into Kanade's room and discover a school roster of the students in the school.
+In episode 3 (16:56) of the anime, the SSS break into Kanade's room and discover a school roster of the students in the school. This is the data table that appears.
 
 
 .. csv-table:: Partial roster from episode 3.
-   :header: "ID", "x", "Name (family given)", "学年 (school year)", "クラス (class)", "x"
+   :header: "ID", "名前 (name)", "Name (family given)", "学年 (school year)", "クラス (class)", "成績 (grade/results)"
 
    "2235", "x", "Aikawa Mitsuru", "2", "B", "10"
    "2236", "X", "Arai Akio", "1", "A", "8"
