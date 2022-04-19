@@ -27,7 +27,7 @@ In episode 3 (16:56) of the anime, the SSS break into Kanade's room and discover
    "2251", "x", "Sagawa Yoshinari", "3", "A", "5"
    "2252", "x", "Sakurai Kayo", "2", "A", "6"
    "2253", "x", "Sawada Yoichi", "1", "F", "1"
-   "2254", "x", "Shina Eri", "3", "B", "3?"
+   "2254", "x", "Shina Eri", "3", "B", "3"
    "2255", "x", "Takeshita Noboru", "2", "A", "Na"
    "2256", "x", "Takemitsu Toko", "3", "na", "na"
    "2257", "x", "Tada Kanae", "na", "na", "na"
