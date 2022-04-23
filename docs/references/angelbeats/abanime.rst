@@ -25,9 +25,11 @@ Episode 1
 * The SSS plan operation tornado (steal meal tickets) for that night.
 * The operation is under way.
 * Kanade shows up on the bridge infront of the staff offices.
-* Otonashi shoots Kanade, and hits her in the stomach/belly. [#injury-belly]_
+* Otonashi shoots Kanade, and hits her in the stomach/belly. [#injury_belly]_
 * Kanade uses Hand Sonic to hit the bullets out of the air, and then Distortion.
 * With meal tickets, the SSS run away, and have a meal/dinner in the cafeteria.
+
+.. [#injury_belly] Contradiction: Later on, it was going to be shown that Kanade has a scar to one side of her body, rather than being in the middle.
 
 Episode 2
 -----------
@@ -40,6 +42,8 @@ Episode 2
 * Kanade emerges from smoke.
 * Yuri shoots her, and hits her in the left leg, above the knee. Kanade then uses a skill to remove the bullet with no remaining injury to her. [#bulletwound]_
 * Chaa blows up the guild. Kanade falls from what is the top of the guild.
+
+.. [#bulletwound] Contradiction: Later on, Kanade was shown to have injuries and scars. This shows a bullet being removed with no left over injury.
 
 Episode 3
 -----------
@@ -70,7 +74,7 @@ Episode 3
 * Kanade takes down a poster, with a crowed of students around her asking her not to.
 * She disappears from them, but she is walking down the cooridoor looking at the poster, and comments to herself:
     | "It's like I'm the bad guy".
-* The students start arriving in the gym. [ep3_shoes]_
+* The students start arriving in the gym. [#ep3_shoes]_
 * Iwasawa starts playing, and the others break into Kanade's room.
 * Otonashi is confused, closes the door and turns the lights on, the lights quickly get turned off.
 * Takeyama breaks the encryption and gets into Kanade's computer.
@@ -344,9 +348,9 @@ Not covered yet.
 Footnotes
 =====================
 
-.. [#injury-belly] Contradiction: Later on, it was going to be shown that Kanade has a scar to one side of her body, rather than being in the middle.
 
-.. [#bulletwound] Contradiction: Later on, Kanade was shown to have injuries and scars. This shows a bullet being removed with no left over injury.
+
+
 
 .. [#amnesia] Supporting: Supports the idea that people don't remember their past straight away.
 
