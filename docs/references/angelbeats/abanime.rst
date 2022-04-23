@@ -73,8 +73,8 @@ Episode 3
 * Hisako calls Iwasawa back into the room, saying they are tired of waiting.
 * Kanade takes down a poster, with a crowed of students around her asking her not to.
 * She disappears from them, but she is walking down the cooridoor looking at the poster, and comments to herself:
-    | "It's like I'm the bad guy".
-* The students start arriving in the gym. |#ep3_shoes|_
+    | *"It's like I'm the bad guy".*
+* The students start arriving in the gym. [#ep3_shoes]_
 * Iwasawa starts playing, and the others break into Kanade's room.
 * Otonashi is confused, closes the door and turns the lights on, the lights quickly get turned off.
 * Takeyama breaks the encryption and gets into Kanade's computer.
@@ -90,7 +90,7 @@ Episode 3
 * The next day, in the principal's office, the SSS discuss what happened. 
     | Angel has been developing her own abilities.
     | Yuri thinks that Kanade is making her own weapons, meaning there is no god.
-    | Furthermore, if she is an angel, why doesn't god give her any powers.
+    | Furthermore, *if she is an angel, why doesn't god give her any powers?*
 * On the topic of Iwasawa, Yuri says that Iwasawa accepted her fate.
 * Otonashi thinks to himself that just following what Kanade says isn't that simple to leave the world.
 
