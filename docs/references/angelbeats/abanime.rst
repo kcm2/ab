@@ -53,35 +53,48 @@ Episode 3
 * They take a break and Otonashi and Iwasawa talk outside of the classroom. Iwasawa comments that Otonashi doesn't have his memories yet.
 * Otonashi says that he heard Yuri's memories. Iwasawa says they are bad, but hers are not as bad.
 * Iwasawa starts talking about her past.
-    | She says that her parents were always fighting.
+    | She says that her parents were always fighting. Her dad was a drinker.
+    | She didn't have a room of her own, so she would curl up in a corner and cover her ears.
+    | She explains how she closed herself up into her own shell (aka, dissociating).
+    | She discovered a band called "Sad Machine" in a music store [#ep3-hmv]_ and was able to connect to the artist.
+    | She came across a thrown away guitar and began playing and singing on the street.
+    | She kept the guitar and went through school. A teacher says "with your grades, you could go anywhere".
+    | She says that she doesn't want to rely on her parents anymore.
+    | She worked different jobs to save up money and auditioned for music studios.
+    | She thought that when she graduated, she would be able to leave the broken home and move to Toyoko and live as a mucician.
+    | She collapses at work. She awoke in the hospital unable to speak.
+    | She had suffered from a cerebral contusion. An aphasia from a stroke. [#ep3-stroke]_
+    | The blow to the head would have been caused by being hit by a bottle during one of her parents fights after getting the guitar.
+    | Iwasawa passed away at some point. [#ep3-iwasawadeath]_
+* Hisako calls Iwasawa back into the room, saying they are tired of waiting.
+* Kanade takes down a poster, with a crowed of students around her asking her not to.
+* She disappears from them, but she is walking down the cooridoor looking at the poster, and comments to herself:
+    | "It's like I'm the bad guy".
+* The students start arriving in the gym. [#ep3-shoes]_
+* Iwasawa starts playing, and the others break into Kanade's room.
+* Otonashi is confused, closes the door and turns the lights on, the lights quickly get turned off.
+* Takeyama breaks the encryption and gets into Kanade's computer.
+* The teachers arrive at the gym to stop the concert. Kanade also arrives at the gym.
+* Back in Kanade's room, the SSS discover the school roster.
+* The teachers restrain GirlDeMo the concert has stopped. Kanade begins to leave.
+* Iwasawa and Hisako break free, Hisako runs to the audio control room.
+* Iwasawa starts singing "My Song", Hisako broadcasts the music to the entire school.
+* Kanade, outside of the gym hears this and goes back inside.
+* Back in Kanade's room, the SSS discover Angel Player and Kanade's powers.
+* Iwasawa goes to fall on her knees, but vanishes and drops the guitar.
+* The audience is shocked. Kanade is at the gym doors and sees this, but turns and walks away. 
+* The next day, in the principal's office, the SSS discuss what happened. 
+    | Angel has been developing her own abilities.
+    | Yuri thinks that Kanade is making her own weapons, meaning there is no god.
+    | Furthermore, if she is an angel, why doesn't god give her any powers.
+* On the topic of Iwasawa, Yuri says that Iwasawa accepted her fate.
+* Otonashi thinks to himself that just following what Kanade says isn't that simple to leave the world.
 
 .. [#ep3-gdm] The start time on the poster says the concert starts at 7pm.
-
-
-
-* Yuri comments:
-
-
-
-
-[...]
-iwasawa and otonashi talk on the school rooms
-   iwasawa collaspes at work
-   cause: cerbral contusion. an aphasia from a stroke
-   - cant speak anymorew
-   caused by a blow to the head at a fight
-   iwasawa died in the jospital
-kanade takes a poster down, with a crowed around her asking her not to - she says "it's as if im the bad guy - need to check
-gdm op starts at 7
-others break into her rooms
-the teachers arrive at the gym and stop the concert. kanade is there but doesn't do anything, and leaves
-iwasawa sings her song, kanade hears and goes back inside the gym
-iwasawa goes to fall on her knees, but vanishes, drops the guitar
-kanade is at the gym door and sees this, walks away
-- time skip to next day
-meeting about having learnt kanade made her own powers
-   yuri has doubts
-"in order to disappear, one does as tenshi instructs and leads a normal school life"
+.. [#ep3-hmv] Think of a HMV type store.
+.. [#ep3-stroke] Aphasia is a language disorder, which was caused by a stroke. This was caused by the cerebral contusion, which is a bruise of the brain, caused by a blow to the head.
+.. [#ep3-iwasawadeath] How Iwasawa died, or when isn't clear.
+.. [#ep3-shoes] The students are not wearing shoes in the gym, but are wearing socks.
  
 Episode 4
 -----------
