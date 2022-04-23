@@ -48,7 +48,7 @@ Episode 3
 * Takeyama is introduced to the show.
 * The SSS discuss the plan.
 * After the meeting, Otonashi is practising shooting under the lower bridge, he feels like he is fitting in more now.
-* Otonashi goes to get a drink, and comes across Yui who is putting up GirlDeMo posters in the school. [#ep3-gdm]_
+* Otonashi goes to get a drink, and comes across Yui who is putting up GirlDeMo posters in the school. [#ep3_gdm]_
 * Yui leaves, Otonashi goes to see GirlDeMo practising in an unused classroom.
 * They take a break and Otonashi and Iwasawa talk outside of the classroom. Iwasawa comments that Otonashi doesn't have his memories yet.
 * Otonashi says that he heard Yuri's memories. Iwasawa says they are bad, but hers are not as bad.
@@ -56,21 +56,21 @@ Episode 3
     | She says that her parents were always fighting. Her dad was a drinker.
     | She didn't have a room of her own, so she would curl up in a corner and cover her ears.
     | She explains how she closed herself up into her own shell (aka, dissociating).
-    | She discovered a band called "Sad Machine" in a music store [#ep3-hmv]_ and was able to connect to the artist.
+    | She discovered a band called "Sad Machine" in a music store [#ep3_hmv]_ and was able to connect to the artist.
     | She came across a thrown away guitar and began playing and singing on the street.
     | She kept the guitar and went through school. A teacher says "with your grades, you could go anywhere".
     | She says that she doesn't want to rely on her parents anymore.
     | She worked different jobs to save up money and auditioned for music studios.
     | She thought that when she graduated, she would be able to leave the broken home and move to Toyoko and live as a mucician.
     | She collapses at work. She awoke in the hospital unable to speak.
-    | She had suffered from a cerebral contusion. An aphasia from a stroke. [#ep3-stroke]_
+    | She had suffered from a cerebral contusion. An aphasia from a stroke. [#ep3_stroke]_
     | The blow to the head would have been caused by being hit by a bottle during one of her parents fights after getting the guitar.
-    | Iwasawa passed away at some point. [#ep3-iwasawadeath]_
+    | Iwasawa passed away at some point. [#ep3_iwasawadeath]_
 * Hisako calls Iwasawa back into the room, saying they are tired of waiting.
 * Kanade takes down a poster, with a crowed of students around her asking her not to.
 * She disappears from them, but she is walking down the cooridoor looking at the poster, and comments to herself:
     | "It's like I'm the bad guy".
-* The students start arriving in the gym. [#ep3_shoes]_
+* The students start arriving in the gym. [ep3_shoes]_
 * Iwasawa starts playing, and the others break into Kanade's room.
 * Otonashi is confused, closes the door and turns the lights on, the lights quickly get turned off.
 * Takeyama breaks the encryption and gets into Kanade's computer.
@@ -90,11 +90,11 @@ Episode 3
 * On the topic of Iwasawa, Yuri says that Iwasawa accepted her fate.
 * Otonashi thinks to himself that just following what Kanade says isn't that simple to leave the world.
 
-.. [#ep3-gdm] The start time on the poster says the concert starts at 7pm.
-.. [#ep3-hmv] Think of a HMV type store.
-.. [#ep3-stroke] Aphasia is a language disorder, which was caused by a stroke. This was caused by the cerebral contusion, which is a bruise of the brain, caused by a blow to the head.
-.. [#ep3-iwasawadeath] How Iwasawa died, or when isn't clear.
-.. [#ep3_shoes] The students are not wearing shoes in the gym, but are wearing socks.
+.. [#ep3_gdm] The start time on the poster says the concert starts at 7pm.
+.. [#ep3_hmv] Think of a HMV type store.
+.. [#ep3_stroke] Aphasia is a language disorder, which was caused by a stroke. This was caused by the cerebral contusion, which is a bruise of the brain, caused by a blow to the head.
+.. [#ep3_iwasawadeath] How Iwasawa died, or when isn't clear.
+.. [ep3_shoes] The students are not wearing shoes in the gym, but are wearing socks.
  
 Episode 4
 -----------
