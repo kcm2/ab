@@ -70,7 +70,7 @@ Episode 3
 * Kanade takes down a poster, with a crowed of students around her asking her not to.
 * She disappears from them, but she is walking down the cooridoor looking at the poster, and comments to herself:
     | "It's like I'm the bad guy".
-* The students start arriving in the gym. [#ep3-shoes]_
+* The students start arriving in the gym. [#ep3_shoes]_
 * Iwasawa starts playing, and the others break into Kanade's room.
 * Otonashi is confused, closes the door and turns the lights on, the lights quickly get turned off.
 * Takeyama breaks the encryption and gets into Kanade's computer.
@@ -94,7 +94,7 @@ Episode 3
 .. [#ep3-hmv] Think of a HMV type store.
 .. [#ep3-stroke] Aphasia is a language disorder, which was caused by a stroke. This was caused by the cerebral contusion, which is a bruise of the brain, caused by a blow to the head.
 .. [#ep3-iwasawadeath] How Iwasawa died, or when isn't clear.
-.. [#ep3-shoes] The students are not wearing shoes in the gym, but are wearing socks.
+.. [#ep3_shoes] The students are not wearing shoes in the gym, but are wearing socks.
  
 Episode 4
 -----------
