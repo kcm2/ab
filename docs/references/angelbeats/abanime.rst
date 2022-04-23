@@ -44,7 +44,26 @@ Episode 2
 Episode 3
 -----------
 
-* starts off planning the operation angel area invsations.
+* Starts off planning the operation tornado as a distraction for them breaking into Kanade's room, which is taking place in 3 days time.
+* Takeyama is introduced to the show.
+* The SSS discuss the plan.
+* After the meeting, Otonashi is practising shooting under the lower bridge, he feels like he is fitting in more now.
+* Otonashi goes to get a drink, and comes across Yui who is putting up GirlDeMo posters in the school. [#ep3-gdm]_
+* Yui leaves, Otonashi goes to see GirlDeMo practising in an unused classroom.
+* They take a break and Otonashi and Iwasawa talk outside of the classroom. Iwasawa comments that Otonashi doesn't have his memories yet.
+* Otonashi says that he heard Yuri's memories. Iwasawa says they are bad, but hers are not as bad.
+* Iwasawa starts talking about her past.
+    | She says that her parents were always fighting.
+
+.. [#ep3-gdm] The start time on the poster says the concert starts at 7pm.
+
+
+
+* Yuri comments:
+
+
+
+
 [...]
 iwasawa and otonashi talk on the school rooms
    iwasawa collaspes at work
