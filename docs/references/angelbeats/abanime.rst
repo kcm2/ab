@@ -247,7 +247,7 @@ Episode 6
     | Naoi was looking forward to continue training, but his father turned ill without any recovery.
     | Naoi's father was no longer able to train him further.
     | Naoi felt like his life had no purpose, as he couldn't run the studio at his skill level and couldn't make it on his own.
-    | * Naoi felt like his purpose was just to take care of his father from then on.
+    | Naoi felt like his purpose was just to take care of his father from then on.
 * Otonashi continues:
     | You (Naoi) was the one who worked hard and struggled.
     | Naoi asks how Otonashi knows, and Otonashi says it's because he's there right now.
@@ -260,31 +260,61 @@ Episode 6
 .. [#ep6_help] Could be a flashback to her remembering Chiyo saying about not turning away from someone asking for help.
 .. [#ep6_nofriends] This would be because she doesn't remember any of her previous friends.
 
-Episode 7 - TO FORMAT PROPERLY!
+Episode 7
 -----------
 
-* the sss are in the printials office relaxing naoi hyptontises hinata otonashi scolds him
-* yuri brings otonashi and naoi to a private room and asks naoi to help regain otonashi's memories 
-* otonashi takes a seat and starts to remember memories with hatsune
-* <to do> get convesations with hatsune
-   * hatsune spent the past 2 years in hospital **** 
-   * otonashi sneaks hatsune out 
-   * hatsune doesn't see any of the christmas lights ---- idea for hatsune to wish to see this
-   * hatsune dies on his back
-   * sometime later, otonashi moves out
-   * when otonashi goes past a hospital, he gets inspired to be a doctor and studiues hard
-   * he goes to take his exams and is on the train, and it crashes
-* hatsune wakes up again and says he needs some time alone
-14 mins - otonashi regerts
-* otonashi goes to the roof where yuri is and they talk a bit
-* back in the principal's roof, they plan for monster stream - a fishing trip
-* on the way there, they walk past kanade where she is tending the flowers  and he invites her to come along fishing
-* kanade says it's against the rules to go down there 
-* otonashi pulls her along anyway and the sss is against it at first
-* they start fishing, kanade jumps in the air , and activates the clones
-* they serve the rest of the studetns the dinner
-* otonashi asks kanade to stay and not fight, and be with her
-* during cleanup, yuri stumbles along injured, she says kanade attacked her = evil kanade shows up on the school roof
+* The SSS are in the principal's office relaxing.
+* Naoi hyptontises Hinata by comparing him to a clothes pin. Otonashi scolds Naoi for it.
+* Yuri brings Otonashi and Naoi to an unused room on the 3rd floor and asks Naoi to help Otonashi regain his memories.
+* Yuri says that Naoi's hypnosis is the real deal and should be able to bring back Otonashi's memories. 
+* Otonashi is heasitent to get his memories back so he can stay in the world.
+* Otonashi takes a seat and starts to remember his memories.
+     * Hatsune asks if school is fun and he replies that it isn't, and he doesn't even go.
+     * Hatsune says she can't wait to start studying and making friends.
+     * Otonashi gives her a manga.
+     * Otonashi (to himself) doesn't have a reason to live, or know what it means to have a meaningful life.
+     * His part time job gives him enough money to eat, which he thinks is good enough.
+     * He says he always went to visit her, no matter how sick she got.
+     * He said he could get her manga with his spare changed, but wasn't sure if he kept buying her the same one or not.
+     * Hatsune has spent the last 2 years at this point in the hospital. [#ep7_illness]_
+     * He wishes he could trade places with her.
+     * He plans to take Hatsune out for Christmas, but her health deteriorates.
+     * He asks Hatsune where she would like to go and she says to see the trees all lit up. [#ep7_trees]_
+     * Hatsune wasn't given permission to leave, but snuck into her room and took her out.
+     * Hatsune died on his back.
+     * With Hatsune gone, Otonashi doesn't feel like he has any reason to live now.
+     * Otonashi feels selfish because he didn't do anything for her, and didn't care about the manga he picked up.
+     * Otonashi walks past a hospital and gets inspiration to become a doctor.
+     * He studies hard to dedicate his life to helping others.
+     * He is on a train, on his way to enterance exams on a train.
+     * There is a rumble that only Otonashi seems to notice, and crashes a few seconds later.
+* Otonashi wakes up and says he needs some time alone.
+* Otonashi says he died while working towards his dream, and died before accomplishing anything.
+* Sometime later, he goes onto the roof of the classrooms and talks with Yuri.
+* Yuri asks if Otonashi will stay with them and he says he will.
+* Some other time later, in the principal's office - Takamatsu says that they don't have enough lunch tickets to make it through the day.
+* Yuri says the days operation will be "Monster Stream".
+* The SSS walk past the garden, where Kanade is tending the flowers.
+* Otonashi asks what she is doing, and she stands up and releases a butterfly.
+* Otonashi invites her to come, she declines citing against school rules and it being dangerous.
+* Otonashi takes her hand and brings her along.
+* The SSS is hesitant but Yuri says it's ok.
+* The SSS go down to the river [#ep7_fish]_ and meet up with Saitou, who has all the fishing gear with them, and the SSS start fishing.
+* Kanade is stairing at the water blankly. Otonashi goes up to her and says she doesn't need to worry about them vanishing and to fish with them.
+* Kanade mentions that her ability "overdrive" is "passive".
+* Kanade gets a snag on her line and the SSS come to help pull it in.
+* Kanade jumps into the air, with the fish and the rest of the SSS.
+* With everyone falling to the fishes mouth, Kanade says that she needs to save them and activates harmonics to cut up the fish.
+* Otonashi suggests cooking it and sharing it with the other students.
+* Otonashi asks Kanade to stay with the battlefront and have fun.
+* At night, during the clean up, Yuri stumgles to the SSS at the classrooms, injured.
+* Yuri says that "Angel" attacked her, and she notices evil Kanade on the classrooms roof.
+
+.. [#ep7_illness] Hatsune's illness isn't disclosed anywhere officially. [#ep7_illnessidea]_
+.. [#ep7_illnessidea] An idea for Hatsune's illness could be CVID. This is the same one as Ironmouse and allows for a character like her being introduced, seeing as Hatsune exists. The only problem is that CVID has no cure, which Chiyo might have trouble fixing.
+.. [#ep7_trees] Hatsune's wish could be to see christmas trees all decorated for Christmas.
+.. [#ep7_fish] A "plot hole" is the surprisingly deep water for a fish of that size to be there. However, there isn't anything to suggest that this is near the bridges so this could be some distance away from them.
+
 
 Episode 8 - TO FORMAT PROPERLY!
 -----------
