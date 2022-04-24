@@ -204,9 +204,15 @@ Bullets
 =================
 
 * Foo 
-    * foobar 
-
+    * foobar
+    * foo
+* foo
+* foo
 
 * Foo2 
 
-    * foobar2 
+    * foobar2
+    * foo
+    * foo
+
+
