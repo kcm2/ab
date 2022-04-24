@@ -199,3 +199,14 @@ This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words 
 This :hoverxref:`tool tip <hoverxref:section 1>` will show only a section though. And will show sub sections. - it shouldn't show section 2.
 
 This should only show a section with no sub sections. - :hoverxref:`tool tip <hoverxref:Sub-section 1>` - it shouldn't show section 2.
+
+Bullets
+=================
+
+* Foo 
+    * foobar 
+
+
+* Foo2 
+
+    * foobar2 
