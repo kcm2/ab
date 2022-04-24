@@ -142,39 +142,50 @@ Episode 5
 
 * The first shot is of Kanade in class.
 * Yuri mentions that tests are coming up, and plans to sabotage Kanade's tests.
-* Yuri says "if she has a human soul just like us, her fall from grace will deal her an effective emotional blow" [#E5-1]_.
+* Yuri says *"if she has a human soul just like us, her fall from grace will deal her an effective emotional blow"* [#ep5_wording]_.
 * Yuri plans to sabotage the tests.
 * Yuri and a few SSS members are in the classroom, discussing the plans.
-* Kanade and Otonashi talk together, and he learns her name [#E5-2]_.
-* Between the tests, Kanade studies and revises.
+* They realise that they don't know what Kanade's name is. Yuri suggests going to the teachers office to get the roster.
+* Kanade stops him, saying the tests are about to start and Otonashi says that he's nervous.
+* Kanade reassures him and they learn each other's names. [#ep5_name]_.
+* The test begins and Otonashi is surprised he knows what the answers are, even though he's lost his memories.
+* The test ends and the exam paper are passed forward. Hinata tries to make a distraction, but fails. Yuri sends him into the cealining with a rocket under his chair. 
+* The next test (World History) begins. Takamatsu tries to cause a distraction, but failed.
+* The next test (English) begins and Ooyama tries to cause a distraction, and also fails.
+* The SSS break for lunch.
 * The SSS have a lunch break, and they discuss that the plans are going well for the testing period.
 * **Time skip** to after the testing period has ended.
 * Kanade exists a room in the staff office on the 1st floor.
 * Kanade walks past Otonashi, he notices she looks upset and he asks if everything is ok. She says it is.
 * The next day, Yuri says a rumour is spreading that Kanade got 0s in her tests.
-* Yuri says that Kanade likely got scolded.
-* [Time skip]
-* A school-wide assembly is held in the gym. The teacher says that Kanade will be stepping down as the Student Council President.
+* Yuri adds:
+     * That Kanade likely got scolded and unable to explain/defend herself as it happened in every class.
+     * The teachers wouldn't figure it out that the SSS set her up.
+     * The teachers would likely see it as a student acting reblious.
+* Several days later, a school-wide assembly is held in the gym.
+* The teacher says that Kanade will be stepping down as the Student Council President.
 * Teacher says Naoi will be taking over as the president.
-* Yuri declares that they will be doing Operation Tornado that night. They think Naoi is a normal student at this point.
+* Yuri declares that they will be doing Operation Tornado that night. [#ep5_naoi]_
 * While the operation is under way, Kanade approches the cafeteria from the top bridge. Otonashi feels that she's different.
-* Kanade goes to get her meal ticket, but the ticket is blown away.
+* Kanade goes to get something to eat, while Yuri watches.
+* Kanade tries to get something to eat but is pushed back by the crowed and as the fans come on, her ticket is blown away.
 * The SSS then eat in the cafeteria on the top floor.
 * Yuri has doubts. Summerised: 
-    | *"Angel is human* [#E5-3]_, *what kind of angel would mapo tofu to help cheer her up when she's down?"*
-    | *As student council president, it was her duty to shop us.*
+    | *"Angel is human* [#ep5_tofu]_, *what kind of angel would mapo tofu to help cheer her up when she's down?"*
+    | *As student council president, it was her duty to stop us.*
     | *Since the SSS created weapons, she created guard skills to counter them.*
-    | *Is this how it ends? it's so rediclious, we don't have any clues about God yet.* [#E5-4]_
+    | *Is this how it ends? it's so rediclious, we don't have any clues about God yet.* [#ep5_wereassholes]_
 * Otonashi asks about Kanade joining the SSS. Summerised:
     | *"Maybe Angel will be willing to join up with the battlefront now"*
     | *"I could see [Kanade] coming by herself, to buy a meal ticket and sit in the corner of the cafeteria all alone."*
     | *"She's lost all trust and even her position. That image of her looked painfully lonesome."*
 * Naoi's posse storm and surround the SSS. Naoi tells the posse to take the SSS to detention.
 
-.. [#E5-1] How this is said in the dub is better.
-.. [#E5-2] Yuri knew Kanade's name but "forgot".
-.. [#E5-3] She comes to this conclusion because of Kanade getting the mapo tofu.
-.. [#E5-4] "Are we the baddies?"
+.. [#ep5_wording] How this is said in the dub is better.
+.. [#ep5_name] Yuri knew Kanade's name but "forgot", but feels like they are lying.
+.. [#ep5_naoi] They think Naoi is a normal student at this point.
+.. [#ep5_tofu] She comes to this conclusion because of Kanade getting the mapo tofu.
+.. [#ep5_wereassholes] "Are we the baddies?"
 
 Episode 6
 -----------
