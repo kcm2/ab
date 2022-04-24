@@ -13,7 +13,8 @@ Anime timeline
 Episode 1
 -----------
 
-* Otonashi wakes up in front of the classrooms, next to Yuri. Kanade is on the nearby track field, looking around.
+* Otonashi wakes up in front of the classrooms. Yuri has a sniper rifle aiming at the track field.
+* Kanade is on the track field, looking around.
 * Hinata shows up, coming from the staff building.
 * Otonashi goes down onto the track fields to speak to Kanade. After a conversation, she stabs him.
 * Otonashi wakes up in the school infirmary.
@@ -103,24 +104,38 @@ Episode 3
 Episode 4
 -----------
 
-starts off with hinata's memort
-discussion in the oprincible's office about yui replacing iwasawa
-yuri mentions about a baseball game and to form 2 teams
-hinata and otonashi go looking for players
-...
-the tourmennt takes place on both fields - otonashi near the school rooms
-kanade's team shows up
-matches play on
-hinata tells otonashi his past
-   pop fly to 2nd, hinata can't remember if he caught the ball or not
-      likely lying
-      next scene is 
-         "all of the hard work over the past 3 years wasted because of one guy"
-         hinata looking depressed
-         he's a huge plague on our team
-         "take it easy on him, he hasn't moved for a while", maybe shock at the loss
-         hinata is offered drugs
-yui causes hinata to miss the catch
+* Episode starts with Hinata's memory, with a younger version of him is at a baseball game.
+* A ball is flying towards him and he is looking up at it, fading into white.
+* Back to the moment with everyone in the principal's office, discussing about Yui replacing Iwasawa. [#ep4_yui]_
+* The SSS doubt her ability to sing, which she demonstrates.
+* The SSS still doubt her abilities but decide to let GirlDeMo decide.
+* Yuri tells them to form their own teams. Otonashi and Hinata form a team and go looking for players.
+* They ask Hisako, Matsushita, TK who turn them down.
+* They come across Yui near the principal's office, who joins the team.
+* They go into the gym storage [#ep4_gymstorage] and find Shiina, who joins the team.
+* They go to the lower bridge and find Noda, who joins them.
+* They go to the roof of the classroom building, Hinata has a flashback about the popfly again but quickly snaps out.
+* The tournament takes place on both field. Hinata's team plays on the field near the classrooms.
+* After some games, Kanade's team shows up, with Naoi. [#ep4_naoi]_
+* The games continue on. 
+* Otonashi calls for a time out, but Hinata is stairing into space.
+* Hinata explains that when he was alive, he went through a similar situation for an important game.
+* Hinata trembles, and explains to Otonashi what happened.
+    | It was the final match to determine nationals. 
+    | They had 2 outs, with runners on 2nd and 3rd base.
+    | A pop fly ball was heading to him, but he can't remember if he caught the ball or not. [#ep4_popfly]_
+    | After the game, in the locker room someone says *"All of the hard work over the past 3 years wasted because of one guy"*
+    | Hinata appears to be in shock. 
+    | After getting changed, some other student offers Hinata an undisclosed item but likely drugs.
+* Otonashi asks if Hinata will disappear if they win the match, Hinata looks shocked but shrugs it off.
+* A popfly comes to Hinata like in his past, Hinata is star-struck and moves to catch it.
+* Yui causes Hinata to miss the catch.
+
+.. [#ep4_yui] This is Hinata's first time meeting Yui.
+.. [#ep4_gymstorage] This is located behind the gym.
+.. [#ep4_naoi] This is the first time Naoi appears, but their name is not mentioned.
+.. [#ep4_popfly] Hinata is likely lying here.
+
 
 Episode 5
 -----------
