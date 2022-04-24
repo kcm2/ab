@@ -190,7 +190,7 @@ Episode 5
 Episode 6
 -----------
 
-* The SSS emerge from the detention/prison-like area, located at the lower bridge.
+* The SSS emerge from the detention/prison-like area [#ep6_detention]_, located at the lower bridge in the morning.
 * They walk to the staff offices. When in the principal's office, Yuri says "do whatever you want".
 * Yuri gives Otonashi a walkie-talkie.
 * The SSS go to class, but don't pay attention to anything.
@@ -201,7 +201,7 @@ Episode 6
 * Otonashi talks to her about mapo tofu and asks to have a meal together. Kanade agrees and they both go to the cafeteria.
 * Kanade is confused about if the tofu is normally ate with rice. When talking about the spiciness she says it's "good". She seems confused that she likes it and that she "never knew" that.
 * Naoi and posse appear in the cafeteria, and "arrest" Kanade and Otonashi. They are taken to cells in an undisclosed location. Otonashi remarks "where are we anyway" (said in both sub and dub).
-* Kanade falls asleep while leaning in the corner of the cell. Otonashi falls asleep too.
+* Kanade falls asleep while leaning in the corner of the cell. [#ep6_sleep]_ Otonashi falls asleep too.
 * Otonashi is woken by an explosion. A drip from the roof of the cell lands on the bed.
 * Yuri comes on via the walkie-talkie, with explosions still occouring. Summerised:
     | *Naoi is not an NPC, they are a human just like them. He's cruel and bullying other students.*
@@ -211,17 +211,54 @@ Episode 6
     | *He's shooting everyone down one-by-one.*
     | *She thinks Angel has been locked up somewhere, after she checked the detention room and couldn't find her, something that's harder to break out of.*
     | *She asks Otonashi to bring Kanade to the field to stop the battle. They are running out of time.*
-* Otonashi asks Kanade for help.
+* Otonashi wakes Kanade up and asks her for help. [#ep6_help]_
 * Kanade attacks the door with Hand Sonic, but the door has a force field applied to it. She notes that she didn't make it to be an offensive weapon.
-* Otonashi says he might have sided with Kanade, she responds that that hasn't happened before. She remarks that if someone was to side with her, they would disappear.
+* Otonashi says he might have sided with Kanade, she responds that that hasn't happened before. [#ep6_nofriends]_ She remarks that if someone was to side with her, they would disappear.
 * Otonashi thinks to himself, and realises that if someone was to side with Kanade, they would have an enjoyable school life, and disappear.
 * Kanade, after looking at the cell door silently, uses different versions to attack the door.
 * Kanade and Otonashi break out, and run to the track field. They see the SSS gunned down on the field.
 * Naoi asks how they escaped. Kanade replies that she broke down the door. Naoi responds with "do you realise how many years that took to make?".
-* Naoi orders Kanade to go back. Otonashi asks Kanade if what Naoi is doing is right.
-* *<Naoi wording>*
-* Naoi mentions creating a prison for Kanade, and learning hypnotism.
-* <to continue>
+* Naoi orders Kanade to go back to her cell. Otonashi asks Kanade if what Naoi is doing is right.
+* Naoi then claims that he is God.
+* Naoi claims that everyone in the world has memories of being alive and lived terrible lives, and thinks that being in the world means they have the right to be God.
+* Naoi walks over to Yuri and picks her up by her hair.
+* Naoi claims he's going to put Yuri to rest. He mentions that Iwasawa lost her voice and dream of singing.
+* Naoi says that she was able to realise her dreams in this world, which is why she vanished.
+* Naoi says he's going to make Yuri rest. She retorts by saying he doesn't know about her past, Naoi responds saying he doesn't have to know.
+* Naoi says he didn't limit himself by creating a prison for Kanade, but also learned hypnotism.
+* Naoi starts to hyptontises Yuri.
+    | She dreams that she is in a white room with her siblings.
+    | Yuri fights back with her own feelings of guilt, saying she couldn't protect them.
+    | Yuri tries to hold back from Naoi.
+* Otonashi knocks Naoi over, breaking the connection with Yuri.
+* Otonashi says:
+    | The lives all of us lived were real and everyone lived their fullest.
+    | The memories of their struggles to live.
+    | You can't just put a new coat of paint over them.
+* Naoi starts remembering his own memories of when he was alive:
+    | His brother died after falling from a tree and landing on a rock.
+    | They were brothers in a family of famous ceramics artisans.
+    | Naoi's brother was a prodigy and made a sucessor while they were young. Naoi played in his room without any attention from his parents.
+    | He feels like he was the one who died and was replaced by his brother.
+    | He was seperated under the guise of rehabilitating, but went under severe pottery training to match the skill level.
+    | His father used to yell at him every day because they were not good enough.
+    | He trained hard and won an award, but felt like his brother could have done a lot better.
+    | His father was disappointed in him though, not meeting the expecation or skill of his brother.
+    | Naoi was looking forward to continue training, but his father turned ill without any recovery.
+    | Naoi's father was no longer able to train him further.
+    | Naoi felt like his life had no purpose, as he couldn't run the studio at his skill level and couldn't make it on his own.
+    | * Naoi felt like his purpose was just to take care of his father from then on.
+* Otonashi continues:
+    | You (Naoi) was the one who worked hard and struggled.
+    | Naoi asks how Otonashi knows, and Otonashi says it's because he's there right now.
+    | Otonashi says he acknowledges Naoi's existance because he's there right now.
+    | Naoi says (in the flashback) that he wanted his father to acknowledge him. 
+
+.. [#ep6_detention] The SSS come out of "1st introspection room", and images from the VN suggests there are 3 rooms here. [#ep6_detretcon]_
+.. [#ep6_detretcon] Because this is very minor detail, I feel it's safe retconning the sign above the door or the number of supposed doors here.
+.. [#ep6_sleep] Kanade goes to sleep as soon as she's locked up with Otonashi. This seems a bit weird, but this line could be several hours after they entered the cell.
+.. [#ep6_help] Could be a flashback to her remembering Chiyo saying about not turning away from someone asking for help.
+.. [#ep6_nofriends] This would be because she doesn't remember any of her previous friends.
 
 Episode 7 - TO FORMAT PROPERLY!
 -----------
