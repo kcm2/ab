@@ -112,7 +112,7 @@ Episode 4
 * Yuri tells them to form their own teams. Otonashi and Hinata form a team and go looking for players.
 * They ask Hisako, Matsushita, TK who turn them down.
 * They come across Yui near the principal's office, who joins the team.
-* They go into the gym storage [#ep4_gymstorage] and find Shiina, who joins the team.
+* They go into the gym storage [#ep4_gymstorage]_ and find Shiina, who joins the team.
 * They go to the lower bridge and find Noda, who joins them.
 * They go to the roof of the classroom building, Hinata has a flashback about the popfly again but quickly snaps out.
 * The tournament takes place on both field. Hinata's team plays on the field near the classrooms.
