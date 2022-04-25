@@ -316,22 +316,56 @@ Episode 7
 .. [#ep7_fish] A "plot hole" is the surprisingly deep water for a fish of that size to be there. However, there isn't anything to suggest that this is near the bridges so this could be some distance away from them.
 
 
-Episode 8 - TO FORMAT PROPERLY!
+Episode 8
 -----------
 
-* evil kanade jumps down from the roof and starts attacking the SSS but yuri defends
-* kanade steps in to help and gets fatelly injured and is unconsious in the infirmary
-* <conversation about her powers>
-* yuri asks to buy time
-* yuri accesses kanade's computer and edits the ability settings
-* yuri goes back to the infirmary to see kanade with the sss but the bed she was staying in has been ransacked
-* yuri says they need to find the normal kanade, after sometime, they gather that kanade is in the guild
-* the sss make their way to the guild when some evil kanade's attack them 
-* they move further down and attack the next one and keep moving further down the guild
-* yuri, otonashi and yui reach the bottom the guild.
-* otonashi goes on his own to find the original kanade while yuri takes on a clone
-* otonashi asks kanade to use harmonics, and she does
-* the other kanade mentioned about the other clones will go inside her, and asks if kanade will be ok after and they start going back inside kanade
+* Akame Kanade jumps down from the roof and starts attacking, but Yuri defends. [#ep8_sameplace]_
+* The SSS open fire on Akame Kanade, but no hits land. Akame charges.
+* Kanade also charges from behind Otonashi [#ep8_wrongplace]_.
+* Kanade does a spiral attack [#ep8_attack]_ and stabs Akame. Kanade is also stabbed the same way.
+* In the infirmary [#ep8_infirmary]_, Otonashi is worried about Kanade recovering. Yuri reassures him, saying that she is like them and will recover, in time.
+* The SSS discuss why 2 Kanade's appeared. Yuri explains that it is due to harmonics.
+* Naoi explains his thoughts on what happened.
+     * *"What if the clone was created when Kanade had a strong and agressive desire to attack?"* such as during the fish attack.
+* Yuri comments that Otonashi is defending Kanade a lot.
+* The SSS discuss how to fight Akame.
+* Yuri asks for some time and for the SSS to not pay attention too hard in class.
+* While the SSS are in class, Yuri goes to Kanade's computer looks at Angel Player. 
+* She edits harmonics' settings and sets it to absorb 10 seconds after being activated.
+* Yuri goes back to the infirmary with the SSS, and the room has been ransacked, suggesting a struggle.
+* Yuri says they need to find the normal Kanade.
+* Yuri says to tell everyone to gather information on any Kanade sighting.
+* Later that evening, with the SSS in the gym, Yuri says that Kanade is located in the guild.
+* Yuri says the plan is to go to the bottom of the guild and recover the original Kanade.
+* On the way to the guild, at B4 encounter a Akame Kanade from the front who runs past them.
+* The SSS turn around and open fire, another Akame comes up from behind them and kills Noda.
+* Yuri throws a grenade which moves the front Kanade out of the way.
+* The SSS get into a side tunnel, as the Akame Kanade that was behind them charges forward.
+* Naoi points out that the Akame's have the ability to make more of themselves and are likely lying in wait.
+* The SSS continue to the guild, coming across another clone at section B10 who is held down by Matsushita. 
+     * B12A - TK.
+     * B12D - Takamatsu
+     * B12? - Fujimaki (yellow walls)
+     * B12? - Shiina (green walls)
+     * B12O - Ooyama
+     * B12Z - Naoi
+     * B15 - Hinata (who also says that Otonashi makes it to the end because Kanade will be waiting)
+* Otonashi, Yuri and Yui arrive at the deepest part of the guild.
+* Yuri fights the Akame that was guarding Kanade, who uses Howling.
+* Yuri is able to stab her and reveals she has ear plugs.
+* Otonashi finds the original Kanade. He asks her to use harmonics, which she does.
+* The harmonics clone appears and has a conversation with Otonashi.
+     * Akame is able to detect that the program has been changed.
+     * Akame points out that all of the creul/coldhearted versions will also go back inside her.
+     * Akame points out that the clones have their own conciousness, which won't just disappear. All of them will be merged into the original Kanade.
+     * She asks if Otonashi thinks that Kanade will be ok after aborbing all of the clones all at once.
+* Absorb kicks in and the clones start to go back into the original Kanade. 
+* The original screams out in pain and Otonashi holds onto her.
+
+.. [#ep8_sameplace] When Akame Kanade jumps down, she lands where Kanade should be standing. However, Kanade isn't visible in the shot.
+.. [#ep8_wronglace] Also from the wrong position from where she should be.
+.. [#ep8_attack] The direction of the spiral attack is clockwise, from Kanade's point of view. But the stab comes from counter-clockwise, so it doesn't have the momentum there.
+.. [#ep8_infirmary] **Idea plothole** - Kanade is in the infirmary in her pyjamas, but was attacked in her school uniform. A reveal later on is meant to show that Kanade is covered in injuries. How did her clothes get changed without anyone noticing?
 
 Episode 9
 -----------
