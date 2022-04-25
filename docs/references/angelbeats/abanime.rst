@@ -363,7 +363,7 @@ Episode 8
 * The original screams out in pain and Otonashi holds onto her.
 
 .. [#ep8_sameplace] When Akame Kanade jumps down, she lands where Kanade should be standing. However, Kanade isn't visible in the shot.
-.. [#ep8_wronglace] Also from the wrong position from where she should be.
+.. [#ep8_wrongplace] Also from the wrong position from where she should be.
 .. [#ep8_attack] The direction of the spiral attack is clockwise, from Kanade's point of view. But the stab comes from counter-clockwise, so it doesn't have the momentum there.
 .. [#ep8_infirmary] **Idea plothole** - Kanade is in the infirmary in her pyjamas, but was attacked in her school uniform. A reveal later on is meant to show that Kanade is covered in injuries. How did her clothes get changed without anyone noticing?
 
