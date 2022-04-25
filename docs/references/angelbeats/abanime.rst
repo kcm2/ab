@@ -370,27 +370,67 @@ Episode 8
 Episode 9
 -----------
 
-* Kanade (unconscious) is with Yuri and Otonashi in the infirmary at night. Yuri blames herself for Kanade being hurt [#yuriturn]_. Otonashi tries to cheer her up but it doesn't work.
-* Yuri goes back to the principial's office and the SSS talk about the situation. The SSS are not sure on if the normal or evil Kanade will wake up.
-* Yuri sends Christ and 2 unnamed SSS members to Kanade's bedroom who can translate the Angel Player manual.
-* TK and Matsushita are guarding the infirmary. - nao says useful things here 
+* Kanade (unconscious) is with Yuri and Otonashi in the infirmary at night.
+* Yuri blames herself for Kanade being hurt [#ep9_yuriturn]_. Otonashi tries to cheer her up but it doesn't work.
+* Otonashi is anxious about Kanade not waking up.
+* At night [#ep9_night]_, Yuri is in the principial's office and the SSS talk about the situation.
+* The SSS are not sure on if the normal or evil Kanade will wake up.
+* Yuri says that there is a 1% chance of her waking up as the same Kanade.
+* While the meeting is taking place, Yuri has sent Takeyama and 2 unnamed SSS members to Kanade's room who can translate the Angel Player manual.
+* TK and Matsushita are guarding the infirmary.
+* Naoi comments on what they are doing with Angel Player:
+    | Naoi: They are going to erase all the data and change the password, then steal her abilities, am I right?
+    | Naoi: It'll only be tempoary, you understand, right?
+    | Yuri: Of course I do. She will evuntially recreate the data.
+    | Noda: Why not destroy the machine?
+    | Yuri: There are plenty of copies in the libiary, software too.
+* Yuri says that all they can do is wait.
+* Otonashi falls asleep and starts remembering his past again.
+     * Otonashi wakes up after the accident and checks his phone [#ep9_crashdate]_.
+     * Otonashi gets up and begins to help other survivors.
+     * Otonashi notices the exit is blocked.
+     * Otonashi and igarashi help others get off the train.
+     * Otonashi goes down the tunnel to find the other exit, which is also caved in.
+     * On day 2, Otonashi says that they estimate they have enough water for 3 days.
+     * On day 3, a survivor dies.
+     * On day 7, Otonashi remembers a moment with Hatsune where she said she wished she had a donor.
+     * Otonashi also signs his organ donor card, which encourages all of the others to do so too.
+     * Otonashi dies as rescuers break in to the tunnel.
+* Otonashi wakes up to Kanade patting his head.
+* Otonashi says he remembers his life before he died. He says wanted to become a doctor and wanted to help someone.
+* He also reveals that he signed the organ donor card and that he might have saved someone.
+* Kanade says that whoever recieved it will be saying thank you for their life.
+* Kanade asks if Otonashi has overcome his regerts. He assumes he has, saying "if he saved someone, maybe my life wasn't so bad after all".
+* Otonashi is worried about disappearing, thinking to himself, he says that the members of the SSS are still here.
+* Otonashi says he would like the others to be at peace and to leave the world too.
+* Otonashi finally catches on that this is what Kanade has been trying to do.
+* Otonashi asks if attending classes will make people happy. Kanade says
+    | *Everyone who comes here was unable to properly live out their youth.*
+* Kanade and Otonashi have this exchange:
+    | Otonashi: wut?
+    | Kanade: You didn't know?
+    | Otonashi: How was I supposed to know?
+    | Kanade: Didn't you notice from watching?
+* Otonashi realises that the world is a place to save souls, and realises they've been causing problems.
+* He also realises that Kanade was trying to show them a life that is not unfair and give them a normal youth. She scolded those that wanted to stop that and act out.
+* Otonashi says that Kanade is bad with words, and she says she's aware of it.
+* Kanade asks Otonashi for help in helping the others move on.
+* Otonashi asks Otonashi for help, to help the others graduate.
+* Some time later, another assembly [#ep9_assembly]_ is held where the principal says a group tried to sabotage Kanade's test papers.
+* Kanade is reinstated as student president, and Naoi is returned to vice president.
+* Otonashi, Takamatsu, Ooyama, Yuri, Hinata, and Takeyama are writing apology letters in detention.
+* Yuri is oddly quiet during the writing.
+* In a flashback, Otonashi tells Kanade to resume the position as student president and fight the SSS again. Otonashi tells her to move as he orders. 
 
-
-
-
-
---- start of otonashi's flashback
-date of crash is 14 jan, and otonashi wakes up at 1:23am on the 15th of jan
-on day 7, otonashi signs the donor card
--- end of ofonathi flashback
-otonashi wakes up and kanade is awake
-<notes>
-
-to come back to!!!
+.. [#ep9_yuriturn] This could be the moment that the SSS "turns" on Yuri.
+.. [#ep9_night] This could be on the same night, or a different night as the previous scene.
+.. [#ep9_crashdate] The date on Otonashi's phone says 15th January, with the time being 1:23. The crash happened on the 14th of January and Otonashi has been unconsious from the morning till the early morning of the following day.
+.. [#ep9_assembly] At ``22:26``, there is a shot of all of the students. There appears to be ~52 rows and ~35 collums. 
 
 Episode 10
 -----------
 
+* 
 
 
 
