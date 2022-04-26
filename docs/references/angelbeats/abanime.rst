@@ -430,10 +430,46 @@ Episode 9
 Episode 10
 -----------
 
-* 
+* Otonashi and Kanade are by the insinirators and Otonashi says they should start with Yui.
+* Otonashi feels that she only needs a little push.
+* Kanade shows Otonashi version 5 of hand sonic. Otonashi comments that it looks more devil like than angelic.
+* Kanade says this was done because she was meant to be "coldhearted" now.
+* Otonashi asks Kanade to make wings, as it seems more like an angel.
+* Otonashi tells Kanade to show up during their practice and Yui will chase after her, and he'll take the guitar.
+* Kanade goes and takes Yui's guitar, but she doesn't follow.
+* Yui goes outside to get the guitar back, spots Kanade and chases after her.
+* Kanade "bumps" into Otonashi and he grabs the guitar.
+* Yui and Otonashi talk outside the cafeteria while having drinks.
+* Yui starts to explain her life before she died:
+     * She explains that when she was little, she got hit by a car from behind.
+     * She became paralysed [#ep10_paralysed]_.
+     * She was bedridden and reliant on her mum.
+     * All she could do was watch TV, and thought it was cool and wish she could do it when watching rock bands.
+* She also says that she wants to get a home run, play football and pro-wreastling.
+* Otonashi agrees to make it happen.
+* They practice doing a german suplex, and she manages to do it.
+* They do football next, where she needs to dribble past 5 people and score a goal.
+* Otonashi gets TK to get Noda, Hinata and Fujimaki and convince them to play football, under the guise of fighting Kanade.
+* They find Yui on the football field, and she completes it.
+* Otonashi and Yui start practising baseball, and call it there for the day.
+* They continue for the next day and Hinata notices. They call it there for the day again.
+* Hinata picks up the bat and hits the ball.
+* The next day, Otonashi and Yui practice more, but Yui struggles to swing the bat because of blisters on her fingers.
+* Yui says she's giving up, and feels like it's impossible, and feels like her getting a home run is a joke.
+* Yui says she has one thing left - marriage.
+* She says "who would want to marry someone like me?", refering to her being paralysed.
+* Yui asks if Otonashi would marry her, but Hinata says he would.
+* Yui says that he doesn't know the real her, but Hinata says he does, because she's there, and he doesn't care about any handicap.
+* Hinata says that the Yui he's met isn't a fake and he would still marry her even if she was already paralysed.
+* Hinata explains how they would meet - he would hit a ball through her window while playing baseball and they would start hanging out.
+* Yui asks Hinata if he could take care of her mum too.
+* Yui vanishes from the world.
+* Otonashi asks Hinata what he will do, and he says he will help out until everyone else has vanished.
 
+.. [#ep10_paralysed] She doesn't say it, but it's implied that it would be from the neck down.
 
-
+Episode 11
+-----------
 
 
 Lore/world building
