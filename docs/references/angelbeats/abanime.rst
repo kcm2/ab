@@ -465,12 +465,82 @@ Episode 10
 * Yui asks Hinata if he could take care of her mum too.
 * Yui vanishes from the world.
 * Otonashi asks Hinata what he will do, and he says he will help out until everyone else has vanished.
+* Ooyama is attacked by a shadow, and is defended by Noda who asks what he just attacked.
+* Yusa tells Yuri via a walkie-talkie.
 
 .. [#ep10_paralysed] She doesn't say it, but it's implied that it would be from the neck down.
 
 Episode 11
 -----------
 
+* Otonashi has a drink from a vending machine and goes to meet kanade [#ep11_kanadeloc]_. 
+* Otonashi runs into Hinata and Naoi at the school classrooms.
+* Naoi begins to hyptontise Hinata but Otonashi interupts him.
+* Otonashi asks if they know what he's planning on doing and Naoi explains that he does.
+* A shadow appears from behind Naoi and it attacks him.
+* Otonashi manages to get the shadow seperated from Naoi.
+* Hinata and Otonashi shoots at it, and it disappears.
+* Yusa reports this to Yuri.
+* Yuri tells Yusa to alert the other battlefront members of this and to travel in groups of two.
+* Yuri uses the PA system to get Kanade to come to the student council room.
+* Yuri asks why Naoi, Hinata and Otonashi what they want. Naoi reports that, as the former student body president, and current vice president, he approved them to be there [#ep11_dubwrong]_.
+* Yuri asks what the shadows are, and Kanade says she doesn't know. Yuri asks Kanade when she last programmed anything and she says 2 days ago.
+* Yuri asks what Kanade programmed, and she responds with wings, but adds that she can't fly - only for decoration.
+* Yuri passive aggressively says that she doesn't feel any hostalities coming from Kanade. Naoi makes a bad excuse to say that she is still cold hearted.
+* Takeyama says that he couldn't find any bugs, and only a simple decoration program.
+* Hinata jumps in asking if anyone heard a gunshot. Yuri is confused, asking "what gunshot", before hearing it.
+* They look outside the room towards the track field and notice the shadows circuling 3 SSS members.
+* Kanade jumps down, followed by Yuri and everyone else.
+* Noda, Shiina, Yuri, TK, Kanade, Otonashi, Naoi and Hinata fight the shadows.
+* Yuri notices another student transform into a shadow.
+* All the shadows are currently defeated.
+* Yuri suggests that they might have spent too much time in the world, like in a video game.
+* Fujimaki yells from the stairs that the shadows got Takamatsu.
+* The SSS go to his glasses, by the classrooms. Ooyama explains how he saw it "eat" him and pull him into the ground.
+* Some time later [#ep11_takamatsu]_, Takamatsu returns. However, he doesn't know what they are talking about.
+* Yuri makes everyone leave and discusses in the stairwell. 
+* Yuri says that Takamatsu has become an NPC. The SSS discuss.
+* That night, Yuri holds a meeting with the SSS in the gym.
+* Yuri explains that there are shadows attacking and people turn into NPCs.
+* Yuri adds that there are people with different ideals and asks Otonashi to explain his view point.
+* Some people disagree, but Hinata and Naoi stick up for Otonashi.
+* Yuri says she'll let everyone choose what they want to do.
+* Yuri says everyone should think about it, and dismisses everyone.
+* Yuri asks Otonashi to have Kanade fight the shadows rather than have the SSS fight them - to protect them as she's stronger.
+* Otonasi says that such a role would be perfect for an angel. Yuri adds that Kanade isn't an angel which shocks Hinata, Otonashi and Naoi.
+* Kanade confirms this, saying she's always said she wasn't an angel.
+* Otonashi asks "if she's not an angel, why is she still here". Yuri says that she's sure she has her own reasons.
+* Otonashi says he'll help her overcome any regrets Kanade has.
+* Otonashi asks Yuri what she's going to do, she replies that she's going to check out to confirm something.
+* Yuri says that she gave everyone freedom to choose their own paths and that they need time to think over what they'll do.
+* Yuri says that when she returns, and everyone is gone, it would be thanks to Otonashi. Otonashi says he'll wait.
+* Yuri tells Otonashi not to wait and to not worry. Hinata says he'll worry.
+* Someone yells that they are being attacked.
+* Yuri runs off into the rear enterance of the gym.
+* The SSS members are in various positions:
+     * Noda, on the lower bridge looking at a picture of Yuri.
+     * TK in the cafeteria dancing.
+     * Fujimaki near the classrooms, thinking.
+     * Ooyama in a classroom, at a desk.
+     * Sekine, Yusa, Hisako and Irie in the gym, looking at Yui's and Iwasawa's guitars.
+     * Shiina in the gym store room, looking at cute toys.
+     * Takeyama on the roof of the classroom, putting in the last entry to their blog.
+* Yuri is in the principal's office, reloading guns.
+* Yuri thinks that someone is using Angel Player to attack them, and should have a load of computers.
+* Yuri goes to the libiary computer room.
+* She talks to a person reinstalling a computer because they keep getting stolen.
+* They both leave, and the man locks the door. Yuri breaks back in.
+* Yuri discovers a hidden hatch in the computer lab.
+* Yuri discovers the hatch takes them to the tunnels going to the guild.
+
+.. [#ep11_kanadeloc] Where exactly he's going to meet Kanade isn't disclosed but it might be behind the gym, based on the previous episode.
+.. [#ep11_dubwrong] The dub implies that Yuri is the current vice president. However this is not the case, Naoi is the current vice president. The note here (and the sub) is correct.
+.. [#ep11_takamatsu] The amount of time between his disappearance and when he returns is not clear.
+
+Episode 12
+-----------
+
+* 
 
 Lore/world building
 =====================
