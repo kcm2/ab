@@ -622,6 +622,55 @@ Episode 12
 Episode 13
 -----------
 
+* 3 days later, the school is empty and Yuri wakes up in the infirmary.
+* Kanade tells Yuri to not push herself.
+* Yuri asks why they are all there still, even though the shadows vanished. 
+* Otonashi says they have to, because Yuri is still in the world so they can't leave yet.
+* Kanade has an idea that Yuri's overcome her regrets.
+* Yuri is shy/embarassed by this.
+* Naoi says he'll hyptontise her, Yuri overreacts, Naoi says he'll hypnosis her again and she throws a pillow at his face and admits it.
+* Yuri says that Kanade is such a tease and Kanade says that Yuri is just obstinate [#ep13_obstinate]_.
+* Yuri is happy that it seems like she and Kanade are friends.
+* Kanade, Yuri, Hinata, Otonashi and Naoi head to the gym for a graduation cermony.
+* Yuri asks where everyone else is and Otonashi says the've all left.
+* Kanade was humming a song to herself. Otonashi asks which song it is. Yuri says it was the song Iwasawa sang before vanishing.
+* Otonashi says that Yuri has changed now that everyone has left, and she seems more girly now.
+* Otonashi starts the graduation cermony and they sing the SSS anthem.
+* After, Hinata critises the lyrics and Kanade hides behind Yuri.
+* Hinata acts as the principal to hands out the diploma certificates.
+* Kanade goes first and gets a certificate. Followed by Yuri, Naoi, Otonashi and then Hinata.
+* With everyone sitting back down, Otonashi stands to give a speech. 
+* Everyone stands, and sings the song of gratitude.
+* The cermony ends.
+* Naoi says his goodbyes and thanks Otonashi and vanishes.
+* Yuri apologies to Kanade, and wishes things could have been different as they say goodbye.
+* Yuri then vanishes.
+* Hinata says thanks to Otonashi, and vanishes.
+* Kanade and Otonashi are the only two remaining.
+* Otonashi asks Kanade if the ceromoy was fun, which she replies it is.
+* Otonashi asks if they can go outside, and they go.
+* Otonashi asks Kanade if she would like to stay in the aferlife with Kanade to help others overcome their regrets.
+* Otonashi says that he loves Kanade, and hugs her.
+* Otonashi asks why she isn't saying anything, and she replies that she doesn't want to.
+* When asked for why, Kanade says that if she does, she'll think she'll vanish.
+* Kanade says that she wants to say thank you for everything he's done for her.
+* Kanade says her life was extended thanks to Otonashi's donation, and that it's his heart beating in her chest.
+* She says that she was never able to thank the person who extended her youth.
+* Otonashi asks how she knew it was him, and she says she knew when she stabbed him for the first time.
+* Kanade says Otonashi regained his memories when he fell asleep on her chest, hearing his own heartbeat.
+* Kanade asks, tearfully, to say what he just said again. Otonashi refuses. Kanade pleads again.
+* Kanade asks to believe in everything that he believed in, to believe that life is worth living.
+* Kanade and Otonashi hug and Otonashi says they should stay together forever.
+* Kanade says thank you, and thank you for loving her.
+* Kanade says thank you for giving her life to her and she vanishes.
+* Otonashi yells Kanade's name and a star raises to the sky. 
+* **Some time later.**
+* A girl is standing by a wall humming to herself.
+* A boy walks past and the humming gets her attention. 
+* He turns around and goes to tap the girl on the shoulder.
+
+.. [#ep13_obstinate] "Stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so."
+
 Lore/world building
 =====================
 
