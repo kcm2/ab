@@ -540,7 +540,87 @@ Episode 11
 Episode 12
 -----------
 
-* 
+* Kanade is on the roof of the libiary [#ep12_loc]_ and glides onto the track field.
+* Cut to Otonashi, Hinata and Naoi in the principal's office.
+* Otonashi says that while Kanade is fighting, they should use this time to speak to everyone in the SSS.
+* He goes outside of the principal's office and speaks to Hisako, Irie and Sekine. There are other, unnamed SSS members behind them.
+* They say that they are leaving [#ep12_leavetime]_.
+* Otonashi, Hinata and Naoi run outside of the principal's office, and the shadows attack them.
+* Noda, Ooyama, Fujimaki and TK help fight the shadows.
+* Matsushita comes in to help too, from the north. He has lost of weight.
+* Yuri is continuing to the guild [#ep12_timediff]_ and is at B2.
+* Shiina helps protect Otonashi as they move across the bridge to the cafeteria. 
+* At B7 to the guild, Yuri is running low on ammo. Chaa shows up saying the news got to the guild and everyone is making their way to the surface.
+* Chaa gives Yuri a machine gun. He asks if the fighting is ending and Yuri says it is.
+* Chaa says that the guild is disbanding, and that it only got that far because of Yuri. Yuri says thank you and that they couldn't have done it without them.
+* Chaa vanishes.
+* Kanade is inside the cafeteria, fighting shadows and sees a student turn into a shadow.
+* Yuri arrives at the old guild and takes a short break.
+* Yuri wonders if Kanade is still fighting too. Yuri says she wishes she realised everything sooner, and maybe she and Kanade could have been friends.
+* Yuri says that she still can't forgive god while thinking of her siblings and the SSS.
+* The shadows show up and attack Yuri. One sneaks up on her from behind.
+* Kanade, inside the cafeteria, is able to sense something.
+* Yuri "wakes up" in a maths lesson, having forgot what she was just thinking.
+* A girl (Hitomi, Yuri's friend) comes up to Yuri and asks what she was doing in the middle of class [#ep12_chiyo]_. Yuri says she just day dreaming.
+* Hitomi teases her a little, but Yuri doesn't remember who she is.
+* During the next class, the teacher asks her to stand up and read the next sentence.
+* Yuri says:
+     * That the world is a happy enviroment and it's how everyone is meant to live their lives.
+     * She is envious that people can have these happy lives, and if she vanishes, could she start anew and accept normal happiness.
+     * She says that if she lost her memories and got a new personality, she might be able to accept it.
+     * But she says that doing so would not be the life she had anymore and would be someone elses life.
+     * She then she accepts the life she had.
+* A sea of shadow breaks into the classroom and she struggles to stay afloat.
+* Yuri reaches out a hand and it is grabbed.
+* Yuri snaps back to the real world, where Otonashi, Hinata and Naoi are in the old guild. Kanade is also there hiding behind Otonashi.
+* Otonashi says that Kanade said Yuri's memories were exploding and lead them there.
+* Kanade says that Yuri should straighten up her clothes.
+* Yuri does so and climbs up a ladder to ge to B20 to the build.
+* They notice a group of shadows huddled around something, Kanade volunteers to go ahead and clear them out.
+* Otonashi says to Yuri to go on ahead while Kanade, Naoi, Otonashi and Hinata keep them back.
+* Yuri comes across a heavy door with a "second computer room" sign on it.
+* She goes inside and finds a lot of computers running Angel Player.
+* A voice speaks (the AI) and has a conversation with Yuri:
+     * The AI asks if God exists or not, and states how it's an interesting question, but isn't isn't a position to determine the answer.
+     * The AI says they only abide by the established rules.
+     * Yuri says that she was programmed to do it. The AI confirms this.
+     * Yuri asks who programmed them, the AI responds with "you wouldn't know, even if I told you" / "even if I gave a name, it won't make a difference".
+     * The AI continues that it is from someone from a long time ago.
+     * Yuri asks what Angel Player is. The AI replies it's software that can be used to create and alter material in the world.
+     * Yuri asks how it can do that. The AI replies that they don't know as they are not the developer.
+     * The AI comments that Yuri/the guild have been making weapons out of dirt, and that Angel Player is the same principal.
+     * Yuri asks if the creator of Angel Player want to become god. The AI replies that they don't know.
+     * Yuri asks if the AI was programmed to do this. The AI replies that they don't know the contents of the program.
+     * Yuri asks what change happened to activate the AI. The AI replies that love started to bloom in the world.
+     * The AI says that it shouldn't supposed to exist in the world. Yuri (to herself) understands, and wonders what would happen if love were to start to bloom.
+     * The AI says that if it were to happen, the world would become a paradise, which the world can't become.
+     * The AI says if someone lived their life for the sake of others, and they lost their memories and arrived at this world, then a bug were to happen. (Calling out Otonashi)
+     * Yuri says that this is what happened to Angel Player's programmer. The AI is surprised that they are able to work it out.
+     * Yuri says that the programmer realised there was this bug and added a way to fix it, and used the shadows to reset everything. The AI confirms this.
+     * The AI says there is only 1 other human, being the programmer themselves, and that they have been waiting the whole time.
+     * The AI says the programmer loved someone who left the world. The chances of them meeting again is highly unlikely but not zero.
+     * The AI continues that he waited so long that the programmer lost their grip on sanity, and created a program to turn himself into an NPC.
+     * Yuri wonders if they'll ever find peace. The AI isn't sure.
+     * The AI says that Yuri could change the world and become god, if she wanted.
+     * Yuri thinks, that the world is finally in her grasp, and that she could even beat Kanade, and be invinsible.
+     * Yuri denies it, saying she could never do it and that she couldn't do it to Kanade.
+     * Yuri says that she only made it that far to protect everyone. The AI detects that Yuri having love was the cause of the shadows.
+     * Yuri rejects it, and opens fire on the computers.
+* With all the computers destroyed, Yuri is releaved that everyone is safe now.
+* Yuri still blames herself for the death of her siblings, that she wasn't able to protect them.
+* Yuri feels weaker, with all the things that were driving her disappearing.
+* Yuri feels that she wants to follow after everyone and vanish from the world too.
+* In a "dream", Yuri sees her siblings in front of her, who thank her and say that she's done enough and doesn't need to suffer anymore.
+* Yuri breaks down crying.
+* Yuri wakes up in the infirmary bed, with Otonashi, Kanade, Naoi and Hinata by her side.
+
+.. [#ep12_loc] In episode 11, Kanade, Otonashi, Hinata and Naoi were at the furnaces, behind the gym. Now Kanade is on the libiary and flies back in roughtly the same direction she came from.
+.. [#ep12_leavetime] At ``03:53``, the sun is shining in through the eastern window of the principal's office. Meaning Hisako and co vanished early in the morning. The shadow breaks in through the window to the north.
+.. [#ep12_timediff] Yuri started going down the guild when it was dark, but is taking place at the same time as what is happening on the surface. Though this could be explained by it happening before dawn.
+.. [#ep12_chiyo] This could be Chiyo.
+
+Episode 13
+-----------
 
 Lore/world building
 =====================
